@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T08:50:07.147Z",
+ "updatedAt": "2026-10-06T08:54:33.650Z",
  "topics": [
   "UX",
   "CRO",
@@ -93,6 +93,18 @@
     "IA"
    ],
    "summary": "OpenAI a annoncé l’incorporation d’un filigrane numérique dans les textes générés par ChatGPT et Codex. De quoi repérer plus facilement l’intervention de la machine.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/comparatif-prix-llm-plus-rentables-74692/?utm_source=rss&utm_medium=rss&utm_campaign=comparatif-prix-llm-plus-rentables",
+   "title": "Comparatif des prix des LLM : top 15 des modèles les plus rentables (en 2026)",
+   "source": "Leptidigital",
+   "date": "2026-10-06T06:52:00.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Le LLM le plus rentable du moment s’appelle GPT-6.1 Sol. Sur l’index d’intelligence d’Artificial Analysis, il obtient 51 points pour 0,39 $ la tâche, quand Claude Opus 5.5 facture 1,34 $ pour le même score. Pour les gros",
    "takeaway": ""
   },
   {
@@ -1543,6 +1555,242 @@
     "Webmarketing"
    ],
    "summary": "L’adoption d’un outil de mind mapping exige un arbitrage stratégique entre l’accessibilité du modèle freemium et la puissance des licences payantes. Si l’usage gratuit convient à la structuration ponctuelle d’idées, l’ab",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/e-commerce/chiffres-e-commerce-france-fevad-1er-semestre-2026-91971/?utm_source=rss&utm_medium=rss&utm_campaign=chiffres-e-commerce-france-fevad-1er-semestre-2026",
+   "title": "Ce que révèlent les derniers chiffres du e-commerce en France publiés par la Fevad",
+   "source": "Leptidigital",
+   "date": "2026-09-23T09:32:28.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "Webmarketing"
+   ],
+   "summary": "Les ventes en ligne ont atteint 52,2 milliards d’euros au deuxième trimestre 2026, en hausse de 8,5 % sur un an, selon la Fevad. Sauf que les Français commandent plus souvent pour moins cher : le panier moyen recule à 59",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/reseaux-sociaux/formats-a-activer-facebook-avant-meta-one-91962/?utm_source=rss&utm_medium=rss&utm_campaign=formats-a-activer-facebook-avant-meta-one",
+   "title": "98,9 % des vues Facebook se font sans lien : les 5 formats à activer avant de payer Meta One",
+   "source": "Leptidigital",
+   "date": "2026-09-23T08:39:24.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Vous avez désormais le droit qu’à deux publications avec lien par mois sur Facebook, et au-delà il faut sortir la carte bancaire et plus de 50 euros par mois pour l’abonnement Meta One qui autorise l’ajout de quelques li",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/lightspring-leve-31-millions-deuros-pour-sattaquer-au-maillon-faible-des-puces-photoniques/463607",
+   "title": "LIGHTSPRING lève 3,1 millions d’euros pour s’attaquer au maillon faible des puces photoniques",
+   "source": "FrenchWeb",
+   "date": "2026-09-23T07:07:52.000Z",
+   "score": 6,
+   "topics": [
+    "UX"
+   ],
+   "summary": "La deeptech bisontine Lightspring boucle un tour d’amorçage de 3,1 millions d’euros mené par Atlantic et OVNI Capital. Issue de travaux conduits au laboratoire FEMTO-ST, elle développe un procédé permettant de fabriquer ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/cpf-cfa-france-travail-le-gouvernement-veut-ouvrir-lia-a-30-millions-dactifs/463604",
+   "title": "CPF, CFA, France Travail : le gouvernement veut ouvrir l’IA à 30 millions d’actifs",
+   "source": "FrenchWeb",
+   "date": "2026-09-23T04:23:39.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Avec « Impulsion IA 2027 », le gouvernement ne crée pas une grande école nationale de l’intelligence artificielle, mais choisit de faire circuler l’IA dans les canaux déjà en place : Pix pour l’acculturation, les CFA pou",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/avec-30-millions-deuros-biolevate-veut-faire-de-lia-un-outil-de-conformite-pour-les-laboratoires/463589",
+   "title": "Avec 30 millions d’euros, BIOLEVATE veut faire de l’IA un outil de conformité pour les laboratoires",
+   "source": "FrenchWeb",
+   "date": "2026-09-22T09:58:29.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Biolevate annonce une série A de 30 millions d’euros pour déployer son intelligence artificielle dans les opérations réglementées des industries de santé. La société parisienne ne se présente plus seulement comme un outi",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/webmarketing/seo/etude-impact-google-ai-mode-ctr-91958/?utm_source=rss&utm_medium=rss&utm_campaign=etude-impact-google-ai-mode-ctr",
+   "title": "Étude : quel est le réel impact du Google AI Mode sur le CTR ?",
+   "source": "Leptidigital",
+   "date": "2026-09-22T09:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Une expérience universitaire menée sur 1 100 internautes américains vient de chiffrer, de façon causale, ce que les éditeurs constatent depuis le lancement de l’AI mode : forcer les recherches dans AI Mode fait chuter le",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/tableau-de-bord-freelance-12-indicateurs-a-suivre",
+   "title": "Le tableau de bord du freelance : les 12 indicateurs à suivre pour savoir si son activité va bien",
+   "source": "Webmarketing & co'm",
+   "date": "2026-09-22T09:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Votre mois est terminé. Vous êtes fatigué(e), vos clients sont contents… mais votre activité va-t-elle vraiment bien ? Impossible de répondre au feeling ! Beaucoup de freelances pilotent à l'aveugle : ils regardent leur ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/primo-leve-pres-de-7-millions-deuros-pour-faire-gerer-votre-it-par-ses-agents-ia/463585",
+   "title": "PRIMO lève près de 7 millions d’euros pour faire gérer votre IT par ses agents IA",
+   "source": "FrenchWeb",
+   "date": "2026-09-22T08:20:37.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "La startup française Primo annonce une levée de 6,9 millions d’euros auprès de Headline et Global Founders Capital. La société, qui centralise la gestion des appareils, des applications SaaS, des identités et du support ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/lancer-activite-freelance-sans-client-quel-plan-commercial-decrocher-3-premieres-missions",
+   "title": "Lancer son activité freelance sans client : quel plan commercial pour décrocher ses 3 premières missions ?",
+   "source": "Webmarketing & co'm",
+   "date": "2026-09-22T07:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "CRO"
+   ],
+   "summary": "Vous avez fait le plus dur : le statut est créé, le SIRET est là, la carte de visite est prête. Et maintenant ? Le téléphone ne sonne pas, la boîte mail reste désespérément vide… Pas de panique, c'est le passage obligé d",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/amazon-contre-meta-a-qui-appartient-le-client-lorsquun-agent-fait-les-courses/463576",
+   "title": "Amazon contre Meta : à qui appartient le client lorsqu’un agent fait les courses ?",
+   "source": "FrenchWeb",
+   "date": "2026-09-22T07:08:23.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Amazon vient de bloquer Muse, le nouvel agent personnel de Meta, qui pouvait naviguer sur sa marketplace et acheter au nom de ses utilisateurs sans s’identifier. Le groupe créé par Jeff Bezos, invoque la sécurité des com",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/e-business/ordinateur-portable-les-criteres-qui-font-vraiment-la-difference-91979/?utm_source=rss&utm_medium=rss&utm_campaign=ordinateur-portable-les-criteres-qui-font-vraiment-la-difference",
+   "title": "Ordinateur portable : les critères qui font vraiment la différence",
+   "source": "Leptidigital",
+   "date": "2026-09-22T04:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "Parcours utilisateur"
+   ],
+   "summary": "Choisir un ordinateur portable ne se résume plus à comparer deux prix affichés côte à côte. Entre processeur, RAM, écran, autonomie et système d’exploitation, chaque critère pèse sur votre usage quotidien, que vous tapie",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/mistral-ai-acquiert-pimento-et-poursuit-sa-remontee-vers-les-applications-metier/463566",
+   "title": "Mistral AI acquiert Pimento et poursuit sa remontée vers les applications métier",
+   "source": "FrenchWeb",
+   "date": "2026-09-22T04:00:34.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Mistral AI fait l’acquisition de Pimento, la startup française fondée par Florent Facq et Tomás Yany, spécialisée dans la création publicitaire assistée par intelligence artificielle. Après Koyeb dans l’infrastructure et",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/indy-tiime-ou-abby-quelle-plateforme-choisir-pour-sa-facturation-electronique-quand-on-est-independant/463550",
+   "title": "INDY, TIIME ou ABBY : quelle plateforme choisir pour sa facturation électronique quand on est indépendant ?",
+   "source": "FrenchWeb",
+   "date": "2026-09-21T11:04:35.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "Webmarketing"
+   ],
+   "summary": "Si la facture électronique n’est que la porte d’entrée, derrière le choix d’une plateforme agréée se joue désormais une part croissante de la gestion de l’indépendant : devis, encaissements, relances, compte professionne",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/webmarketing/seo/google-discover-teste-bouton-dive-deeper-91950/?utm_source=rss&utm_medium=rss&utm_campaign=google-discover-teste-bouton-dive-deeper",
+   "title": "Google Discover teste un bouton qui garde vos lecteurs chez lui : ce que les éditeurs risquent",
+   "source": "Leptidigital",
+   "date": "2026-09-21T09:21:35.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Depuis le 18 septembre, Google teste dans Discover un bouton « Dive deeper » qui ouvre un aperçu rédigé par son IA avant de proposer le moindre lien vers les médias. Officiellement, seules les cartes vidéo sont concernée",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/webmarketing/seo/etude-geo-etre-recommande-par-ia-ne-suffit-pas-91947/?utm_source=rss&utm_medium=rss&utm_campaign=etude-geo-etre-recommande-par-ia-ne-suffit-pas",
+   "title": "Étude GEO : être recommandé par l’IA ne suffit pas si votre marque est peu connue",
+   "source": "Leptidigital",
+   "date": "2026-09-21T08:11:55.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Une recommandation d’une IA seule ne suffit pas à générer une vente dans tous les cas. Selon une enquête de Bazaarvoice menée avec l’analyste Kiri Masters, 94 % des acheteurs à qui une IA propose une marque qu’ils ne con",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/arretons-de-dire-budgets-marketing-baissent-cest-faux",
+   "title": "Arrêtons de dire que les budgets marketing baissent, c’est faux !",
+   "source": "Webmarketing & co'm",
+   "date": "2026-09-21T07:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Chaque année, la même antienne revient dans les conférences professionnelles, les prises de parole des directeurs marketing et les comités de direction, celle d'une contraction générale des budgets qui imposerait de fair",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/outils-pour-produire-des-contenus-geo-selectionnes-par-les-ia-publier-dans-les-sources-citees/463546",
+   "title": "Outils pour produire des contenus GEO sélectionnés par les IA : publier dans les sources citées",
+   "source": "FrenchWeb",
+   "date": "2026-09-21T06:54:02.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "La recherche d’informations en ligne traverse une phase de transition importante, qui modifie les méthodes de travail des professionnels du marketing numérique et des marques. L’optimisation pour les moteurs de recherche",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/commencez-par-le-bas-pourquoi-vos-contenus-doivent-dabord-viser-les-prospects-most-aware/453637",
+   "title": "Commencez par le bas : pourquoi vos contenus doivent d’abord viser les prospects « Most Aware »",
+   "source": "FrenchWeb",
+   "date": "2026-09-21T04:25:01.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "La majorité des stratégies de contenu B2B commencent à l’envers. Elles mobilisent des ressources pour séduire des audiences larges, peu qualifiées, en haut de l’entonnoir, au lieu de s’adresser d’abord à ceux qui sont pr",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/les-levees-de-fonds-de-la-french-tech-du-14-au-18-septembre-2026-422-millions-deuros-lia-capte-82-des-capitaux/463537",
+   "title": "Les levées de fonds de la French Tech du 14 au 18 septembre 2026 : 42,2 millions d’euros, l’IA capte 82 % des capitaux",
+   "source": "FrenchWeb",
+   "date": "2026-09-20T17:14:27.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Après la levée hors norme de Mistral AI la semaine précédente, le marché français revient à des tickets plus resserrés. Du 14 au 18 septembre, neuf startups implantées en France ont annoncé 42,2 millions d’euros de finan",
    "takeaway": ""
   }
  ]
