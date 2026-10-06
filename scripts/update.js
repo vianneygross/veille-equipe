@@ -35,8 +35,14 @@ Extrait: ${item.excerpt}`;
       messages: [{ role: "user", content: prompt }],
     }),
   });
-  if (!res.ok) throw new Error(`LLM ${res.status}: ${(await res.text()).slice(0, 200)}`);
-  const data = await res.json();
+  const raw = await res.text();
+  if (!res.ok) throw new Error(`LLM ${res.status}: ${raw.slice(0, 200)}`);
+  let data;
+  try {
+    data = JSON.parse(raw);
+  } catch {
+    throw new Error(`LLM réponse non-JSON (${res.status}) via ${BASE_URL}: ${raw.slice(0, 200)}`);
+  }
   const txt = data.choices[0].message.content;
   const m = txt.match(/\{[\s\S]*\}/);
   if (!m) throw Object.assign(new Error("réponse non-JSON"), { soft: true });
