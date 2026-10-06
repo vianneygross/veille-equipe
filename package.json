@@ -1,0 +1,13 @@
+{
+  "name": "veille-equipe",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update.js",
+    "serve": "npx serve site"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "engines": { "node": ">=20" }
+}

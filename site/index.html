@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Veille équipe</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --ink:#1b1f24; --mut:#667085; --acc:#4f46e5; --line:#e4e7ec; }
+  @media (prefers-color-scheme:dark){ :root{ --bg:#0f1115; --card:#181b21; --ink:#e8eaee; --mut:#98a2b3; --line:#2a2f38; --acc:#818cf8; } }
+  *{box-sizing:border-box} body{margin:0;font:16px/1.5 system-ui,sans-serif;background:var(--bg);color:var(--ink)}
+  header{padding:2rem 1rem 1rem;max-width:1100px;margin:auto}
+  h1{margin:0;font-size:1.6rem} .sub{color:var(--mut);font-size:.9rem}
+  .bar{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:1rem;align-items:center}
+  button.chip{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:.35rem .8rem;border-radius:99px;cursor:pointer;font:inherit;font-size:.9rem}
+  button.chip[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:#fff}
+  input,select{font:inherit;padding:.4rem .7rem;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+  input{flex:1;min-width:180px}
+  main{max-width:1100px;margin:auto;padding:0 1rem 3rem;display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem}
+  article{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1rem;display:flex;flex-direction:column;gap:.5rem}
+  article h2{font-size:1.05rem;margin:0} article a{color:inherit;text-decoration:none} article a:hover{color:var(--acc)}
+  .meta{color:var(--mut);font-size:.8rem;display:flex;justify-content:space-between;gap:.5rem}
+  .tags span{font-size:.72rem;background:color-mix(in srgb,var(--acc) 14%,transparent);color:var(--acc);padding:.1rem .55rem;border-radius:99px;margin-right:.3rem}
+  .take{font-size:.88rem;border-left:3px solid var(--acc);padding-left:.6rem}
+  .empty{grid-column:1/-1;text-align:center;color:var(--mut);padding:3rem}
+</style>
+</head>
+<body>
+<header>
+  <h1>📡 Veille équipe</h1>
+  <div class="sub" id="updated">Chargement…</div>
+  <div class="bar" id="chips"></div>
+  <div class="bar">
+    <input id="q" type="search" placeholder="Rechercher…" aria-label="Rechercher">
+    <select id="sort" aria-label="Tri">
+      <option value="date">Plus récents</option>
+      <option value="score">Plus utiles</option>
+    </select>
+  </div>
+</header>
+<main id="list"></main>
+<script>
+const state = { topic: null, q: "", sort: "date", items: [] };
+const $ = (id) => document.getElementById(id);
+const esc = (s = "") => s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const safeUrl = (u) => (/^https?:\/\//.test(u) ? u : "#");
+
+function render() {
+  const q = state.q.toLowerCase();
+  const items = state.items
+    .filter((i) => !state.topic || i.topics.includes(state.topic))
+    .filter((i) => !q || (i.title + i.summary + i.source).toLowerCase().includes(q))
+    .sort((a, b) => state.sort === "score" ? b.score - a.score || b.date.localeCompare(a.date) : b.date.localeCompare(a.date));
+  $("list").innerHTML = items.length ? items.map((i) => `
+    <article>
+      <div class="meta"><span>${esc(i.source)}</span><span>${new Date(i.date).toLocaleDateString("fr-FR")} · ★ ${i.score}/10</span></div>
+      <h2><a href="${esc(safeUrl(i.url))}" target="_blank" rel="noopener noreferrer">${esc(i.title)}</a></h2>
+      <div class="tags">${i.topics.map((t) => `<span>${esc(t)}</span>`).join("")}</div>
+      <p>${esc(i.summary)}</p>
+      ${i.takeaway ? `<div class="take">💡 ${esc(i.takeaway)}</div>` : ""}
+    </article>`).join("") : '<div class="empty">Aucun article.</div>';
+}
+
+function chips(topics) {
+  $("chips").innerHTML = ["Tout", ...topics].map((t, n) =>
+    `<button class="chip" aria-pressed="${(n === 0 && !state.topic) || t === state.topic}" data-t="${esc(t)}">${esc(t)}</button>`).join("");
+  $("chips").onclick = (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    state.topic = b.dataset.t === "Tout" ? null : b.dataset.t;
+    chips(topics); render();
+  };
+}
+
+fetch("data/items.json").then((r) => r.json()).then((d) => {
+  state.items = d.items;
+  $("updated").textContent = `Mis à jour le ${new Date(d.updatedAt).toLocaleString("fr-FR")} · ${d.items.length} articles`;
+  chips(d.topics); render();
+}).catch(() => { $("updated").textContent = "Impossible de charger les données."; });
+$("q").oninput = (e) => { state.q = e.target.value; render(); };
+$("sort").onchange = (e) => { state.sort = e.target.value; render(); };
+</script>
+</body>
+</html>
