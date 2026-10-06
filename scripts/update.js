@@ -51,7 +51,13 @@ const cutoff = Date.now() - MAX_AGE_DAYS * 864e5;
 const fresh = [];
 for (const src of config.sources) {
   try {
-    const feed = await parser.parseURL(src.url);
+    const resp = await fetch(src.url, {
+      signal: AbortSignal.timeout(15000),
+      headers: { "User-Agent": "Mozilla/5.0 (compatible; veille-equipe/1.0)" },
+    });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const feed = await parser.parseString(await resp.text());
+    console.log(`ok ${src.name}: ${feed.items.length}`);
     for (const e of feed.items) {
       const url = e.link;
       const date = new Date(e.isoDate || e.pubDate || Date.now()).getTime();
