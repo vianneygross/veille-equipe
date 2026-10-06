@@ -7,7 +7,7 @@ Site statique mis à jour automatiquement (lun–ven, 6h UTC) : collecte RSS →
 2. Settings → Pages → Source : **GitHub Actions**.
 3. Lancez le workflow **Veille** (Actions → Run workflow).
 
-Sans configuration, l'analyse utilise **GitHub Models** (via `GITHUB_TOKEN`). Pour un autre fournisseur compatible OpenAI : secret `LLM_API_KEY`, variables `LLM_BASE_URL` et `LLM_MODEL`.
+L'analyse IA nécessite une clé API compatible OpenAI : ajoutez le secret `LLM_API_KEY` (Settings → Secrets → Actions). Par défaut : OpenAI `gpt-4o-mini`. Autre fournisseur : variables `LLM_BASE_URL` et `LLM_MODEL`. Sans clé, les articles sont publiés avec leur extrait brut.
 
 ## Personnaliser
 - `sources.json` : sujets et flux RSS.

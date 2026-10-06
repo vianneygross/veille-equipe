@@ -8,9 +8,9 @@ const MAX_ITEMS = 300;
 const MAX_NEW_PER_RUN = 40;
 const MIN_SCORE = 5;
 
-const API_KEY = process.env.LLM_API_KEY || process.env.GITHUB_TOKEN;
-const BASE_URL = process.env.LLM_BASE_URL || "https://models.github.ai/inference";
-const MODEL = process.env.LLM_MODEL || "openai/gpt-4o-mini";
+const API_KEY = process.env.LLM_API_KEY;
+const BASE_URL = process.env.LLM_BASE_URL || "https://api.openai.com/v1";
+const MODEL = process.env.LLM_MODEL || "gpt-4o-mini";
 
 const parser = new Parser({ timeout: 15000, headers: { "User-Agent": "veille-equipe/1.0" } });
 
