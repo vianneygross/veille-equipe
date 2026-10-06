@@ -23,6 +23,10 @@
   .take{font-size:.88rem;border-left:3px solid var(--acc);padding-left:.6rem}
   article a.read{margin-top:auto;align-self:flex-start;font-size:.8rem;color:var(--mut);border:1px solid var(--line);padding:.2rem .7rem;border-radius:99px}
   article a.read:hover{color:var(--acc);border-color:var(--acc)}
+  footer{max-width:1100px;margin:0 auto;padding:0 1rem 5rem;color:var(--mut);font-size:.85rem}
+  footer summary{cursor:pointer;width:max-content}
+  footer form{display:flex;flex-wrap:wrap;gap:.5rem;margin:.7rem 0}
+  footer p{margin:0}
   [hidden]{display:none!important}
   .more-wrap{text-align:center;padding:0 1rem 4rem}
   .more{font:inherit;padding:.6rem 1.6rem;border-radius:99px;border:1px solid var(--acc);background:transparent;color:var(--acc);cursor:pointer}
@@ -42,6 +46,17 @@
 </header>
 <main id="list"></main>
 <div class="more-wrap"><button id="more" class="more" hidden>Voir plus</button></div>
+<footer>
+  <details>
+    <summary>➕ Ajouter une source</summary>
+    <form id="addForm">
+      <input id="srcUrl" type="url" required placeholder="URL du site ou du flux RSS" aria-label="URL de la source">
+      <input id="srcName" type="text" placeholder="Nom (facultatif)" aria-label="Nom de la source">
+      <button class="chip" type="submit">Proposer</button>
+    </form>
+    <p>Ouvre une issue GitHub (compte avec accès au dépôt requis). La source est ajoutée automatiquement si le flux est valide.</p>
+  </details>
+</footer>
 <button id="top" class="top" aria-label="Retour en haut" title="Retour en haut" hidden>↑</button>
 <script>
 const PAGE = 15;
@@ -90,6 +105,15 @@ fetch("data/items.json").then((r) => r.json()).then((d) => {
 $("q").oninput = (e) => { state.q = e.target.value; state.shown = PAGE; render(); };
 $("more").onclick = () => { state.shown += PAGE; render(); };
 const toTop = $("top");
+$("addForm").onsubmit = (e) => {
+  e.preventDefault();
+  const url = $("srcUrl").value.trim();
+  const name = $("srcName").value.trim();
+  const owner = location.hostname.endsWith(".github.io") ? location.hostname.split(".")[0] : "vianneygross";
+  const repo = location.hostname.endsWith(".github.io") ? location.pathname.split("/")[1] || "veille-equipe" : "veille-equipe";
+  const body = `${url}${name ? `\nNom: ${name}` : ""}`;
+  open(`https://github.com/${owner}/${repo}/issues/new?title=${encodeURIComponent("Source: " + url)}&body=${encodeURIComponent(body)}`, "_blank", "noopener");
+};
 addEventListener("scroll", () => { toTop.hidden = scrollY < 600; }, { passive: true });
 toTop.onclick = () => scrollTo({ top: 0, behavior: "smooth" });
 </script>

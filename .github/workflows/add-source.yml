@@ -1,0 +1,49 @@
+name: Ajouter une source
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+jobs:
+  add:
+    if: >-
+      startsWith(github.event.issue.title, 'Source:') &&
+      contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.issue.author_association)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-audit --no-fund
+      - name: Ajout de la source
+        run: node scripts/add-source.js
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+      - name: Commit, rafraîchissement et réponse
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          OK=$(node -p "require('./add-source-result.json').ok")
+          MSG=$(node -p "require('./add-source-result.json').message")
+          rm add-source-result.json
+          if [ "$OK" = "true" ]; then
+            git config user.name "veille-bot"
+            git config user.email "veille-bot@users.noreply.github.com"
+            git add sources.json
+            git commit -m "feat: nouvelle source via issue #$ISSUE"
+            git pull --rebase
+            git push
+            gh workflow run veille.yml
+            gh issue comment "$ISSUE" --body "✅ $MSG"
+          else
+            gh issue comment "$ISSUE" --body "❌ $MSG"
+          fi
+          gh issue close "$ISSUE"
