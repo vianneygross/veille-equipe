@@ -18,6 +18,16 @@
     { "name": "1min30", "url": "https://www.1min30.com/feed" },
     { "name": "JDN E-business", "url": "https://www.journaldunet.com/ebusiness/rss/" },
     { "name": "Siècle Digital", "url": "https://siecledigital.fr/feed/" },
-    { "name": "FrenchWeb", "url": "https://www.frenchweb.fr/feed" }
+    { "name": "FrenchWeb", "url": "https://www.frenchweb.fr/feed" },
+    { "name": "UX Republic", "url": "https://www.ux-republic.com/feed/" },
+    { "name": "Alsacréations", "url": "https://www.alsacreations.com/rss/actualites.xml" },
+    { "name": "Presse-citron", "url": "https://www.presse-citron.net/feed/" },
+    { "name": "WebRankInfo", "url": "https://www.webrankinfo.com/rss.xml" },
+    { "name": "Blog UX", "url": "https://blog-ux.com/feed/" },
+    { "name": "Blog du Webdesign", "url": "https://www.blogduwebdesign.com/feed/" },
+    { "name": "Toptal Design Blog", "url": "https://www.toptal.com/designers/blog.rss" },
+    { "name": "UX Planet", "url": "https://uxplanet.org/feed" },
+    { "name": "Studio by UXPin", "url": "https://www.uxpin.com/studio/feed/" },
+    { "name": "Webdesigner Trends", "url": "https://webdesignertrends.com/feed/" }
   ]
 }
