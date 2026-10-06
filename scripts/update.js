@@ -27,6 +27,7 @@ Extrait: ${item.excerpt}`;
   const res = await fetch(`${BASE_URL}/chat/completions`, {
     method: "POST",
     headers: { "Content-Type": "application/json", Authorization: `Bearer ${API_KEY}` },
+    signal: AbortSignal.timeout(30000),
     body: JSON.stringify({
       model: MODEL,
       temperature: 0.2,
@@ -74,6 +75,7 @@ console.log(`${fresh.length} nouveaux articles, ${toProcess.length} analysés`);
 
 let llmOk = Boolean(API_KEY);
 for (const item of toProcess) {
+  console.log(`-> ${item.source}: ${item.title.slice(0, 60)}`);
   let result;
   if (llmOk) {
     try {
