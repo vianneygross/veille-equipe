@@ -53,8 +53,18 @@ Extrait: ${item.excerpt}`;
   }
 }
 
+const KEYWORDS = {
+  UX: /\b(ux|ui|usability|design|accessib|interface|figma|prototype)/i,
+  CRO: /\b(cro|conversion|a\/b|ab test|checkout|landing|funnel|optimi[sz]ation)/i,
+  Webmarketing: /\b(seo|sem|ads?|google|marketing|campaign|content|social|email|analytics|search)/i,
+  "Parcours utilisateur": /\b(user journey|customer journey|onboarding|navigation|retention|research|persona|flow)/i,
+  IA: /\b(ai|llm|gpt|openai|gemini|claude|agent|machine learning|chatbot|copilot)\b/i,
+};
+
 function fallback(item) {
-  return { score: 6, topics: [], summary: item.excerpt.slice(0, 220), takeaway: "" };
+  const text = `${item.title} ${item.excerpt}`;
+  const topics = config.topics.filter((t) => KEYWORDS[t]?.test(text));
+  return { score: topics.length ? 6 : 4, topics, summary: item.excerpt.slice(0, 220), takeaway: "" };
 }
 
 const existing = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, "utf8")) : { items: [] };
