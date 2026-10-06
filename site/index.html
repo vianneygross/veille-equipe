@@ -21,6 +21,8 @@
   .meta{color:var(--mut);font-size:.8rem;display:flex;justify-content:space-between;gap:.5rem}
   .tags span{font-size:.72rem;background:color-mix(in srgb,var(--acc) 14%,transparent);color:var(--acc);padding:.1rem .55rem;border-radius:99px;margin-right:.3rem}
   .take{font-size:.88rem;border-left:3px solid var(--acc);padding-left:.6rem}
+  article a.read{margin-top:auto;align-self:flex-start;font-size:.8rem;color:var(--mut);border:1px solid var(--line);padding:.2rem .7rem;border-radius:99px}
+  article a.read:hover{color:var(--acc);border-color:var(--acc)}
   [hidden]{display:none!important}
   .more-wrap{text-align:center;padding:0 1rem 4rem}
   .more{font:inherit;padding:.6rem 1.6rem;border-radius:99px;border:1px solid var(--acc);background:transparent;color:var(--acc);cursor:pointer}
@@ -65,6 +67,7 @@ function render() {
       <div class="tags">${i.topics.map((t) => `<span>${esc(t)}</span>`).join("")}</div>
       <p>${esc(i.summary)}</p>
       ${i.takeaway ? `<div class="take">💡 ${esc(i.takeaway)}</div>` : ""}
+      <a class="read" href="${esc(safeUrl(i.url))}" target="_blank" rel="noopener noreferrer">Lire l'article ↗</a>
     </article>`).join("") : '<div class="empty">Aucun article.</div>';
 }
 
