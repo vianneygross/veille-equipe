@@ -5,7 +5,7 @@ const config = JSON.parse(fs.readFileSync("sources.json", "utf8"));
 const OUT = "site/data/items.json";
 const MAX_AGE_DAYS = 30;
 const MAX_ITEMS = 300;
-const MAX_NEW_PER_RUN = 40;
+const MAX_NEW_PER_RUN = 80;
 const MIN_SCORE = 5;
 
 const API_KEY = process.env.LLM_API_KEY;
@@ -54,11 +54,11 @@ Extrait: ${item.excerpt}`;
 }
 
 const KEYWORDS = {
-  UX: /\b(ux|ui|usability|design|accessib|interface|figma|prototype)/i,
-  CRO: /\b(cro|conversion|a\/b|ab test|checkout|landing|funnel|optimi[sz]ation)/i,
-  Webmarketing: /\b(seo|sem|ads?|google|marketing|campaign|content|social|email|analytics|search)/i,
-  "Parcours utilisateur": /\b(user journey|customer journey|onboarding|navigation|retention|research|persona|flow)/i,
-  IA: /\b(ai|llm|gpt|openai|gemini|claude|agent|machine learning|chatbot|copilot)\b/i,
+  UX: /\b(ux|ui|usability|design|accessib|interface|figma|prototype|ergonomie|utilisabilit)/i,
+  CRO: /\b(cro|conversion|a\/b|ab test|checkout|landing|funnel|optimi[sz]ation|tunnel|panier)/i,
+  Webmarketing: /\b(seo|sem|ads?|google|marketing|campaign|content|social|email|analytics|search|référencement|réseaux sociaux|publicité|e-commerce|ecommerce|newsletter)/i,
+  "Parcours utilisateur": /\b(user journey|customer journey|onboarding|navigation|retention|research|persona|flow|parcours|fidélisation|expérience client)/i,
+  IA: /\b(ai|ia|llm|gpt|openai|gemini|claude|agent|machine learning|chatbot|copilot|intelligence artificielle|mistral)\b/i,
 };
 
 function fallback(item) {

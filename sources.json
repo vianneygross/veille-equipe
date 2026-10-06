@@ -10,6 +10,14 @@
     { "name": "SparkToro", "url": "https://sparktoro.com/blog/feed/" },
     { "name": "Google Research", "url": "https://research.google/blog/rss/" },
     { "name": "OpenAI Blog", "url": "https://openai.com/news/rss.xml" },
-    { "name": "Hacker News (UX/CRO/IA)", "url": "https://hnrss.org/newest?q=UX+OR+CRO+OR+%22conversion+rate%22+OR+LLM&points=50" }
+    { "name": "Hacker News (UX/CRO/IA)", "url": "https://hnrss.org/newest?q=UX+OR+CRO+OR+%22conversion+rate%22+OR+LLM&points=50" },
+    { "name": "Blog du Modérateur", "url": "https://www.blogdumoderateur.com/feed/" },
+    { "name": "Abondance", "url": "https://www.abondance.com/feed/" },
+    { "name": "Webmarketing & co'm", "url": "https://www.webmarketing-com.com/feed" },
+    { "name": "Leptidigital", "url": "https://www.leptidigital.fr/feed/" },
+    { "name": "1min30", "url": "https://www.1min30.com/feed" },
+    { "name": "JDN E-business", "url": "https://www.journaldunet.com/ebusiness/rss/" },
+    { "name": "Siècle Digital", "url": "https://siecledigital.fr/feed/" },
+    { "name": "FrenchWeb", "url": "https://www.frenchweb.fr/feed" }
   ]
 }
