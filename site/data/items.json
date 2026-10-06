@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T08:59:29.247Z",
+ "updatedAt": "2026-10-06T09:04:12.332Z",
  "topics": [
   "UX",
   "CRO",
@@ -1072,6 +1072,18 @@
    "takeaway": ""
   },
   {
+   "url": "https://usabilis.com/architecture-information-ia/",
+   "title": "Pas d’IA sans AI : pourquoi l’intelligence artificielle meurt de faim sans architecture de l’information",
+   "source": "Usabilis",
+   "date": "2026-09-29T09:10:28.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Votre chatbot hallucine, votre RAG répond à côté de la plaque, votre agent ne termine jamais ses tâches avec succès. Vous vous dites qu’il vous faut un modèle plus performant, que vos prompts sont mal rédigés, mais il n’",
+   "takeaway": ""
+  },
+  {
    "url": "https://www.webmarketing-com.com/comment-reussir-sa-carriere-de-freelance",
    "title": "Comment réussir sa carrière de freelance : la méthode que personne ne vous apprend",
    "source": "Webmarketing & co'm",
@@ -1886,6 +1898,19 @@
    "takeaway": ""
   },
   {
+   "url": "https://usabilis.com/ui-generative/",
+   "title": "Qu’est-ce que l’UI générative ?",
+   "source": "Usabilis",
+   "date": "2026-09-17T12:26:11.000Z",
+   "score": 6,
+   "topics": [
+    "UX",
+    "IA"
+   ],
+   "summary": "On nous promet des interfaces qui se génèrent « automatiquement », ajustées à chaque utilisateur, et la fin programmée des interfaces traditionnelles préconçues et précodées. Le discours des grands acteurs de la tech et ",
+   "takeaway": ""
+  },
+  {
    "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/chatgpt-ads-openai-agents-sponsorises-alpha-91929/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-ads-openai-agents-sponsorises-alpha",
    "title": "ChatGPT Ads : OpenAI teste des agents sponsorisés en alpha (ce qu’il faut savoir)",
    "source": "Leptidigital",
@@ -2148,6 +2173,91 @@
     "Webmarketing"
    ],
    "summary": "Seize rendez-vous, douze villes, onze pays. Cette semaine, l’Europe de l’innovation cherchera moins la prochaine idée que les moyens de la déployer. À Paris, Cambridge, Hanovre, Lyon ou Espoo, la même question reviendra ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/docaposte-mediawan-monaco-tech-les-mouvements-cles-de-la-semaine/463288",
+   "title": "DOCAPOSTE, MEDIAWAN, MONACO TECH: les mouvements clés de la semaine",
+   "source": "FrenchWeb",
+   "date": "2026-09-11T09:22:47.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "Webmarketing"
+   ],
+   "summary": "Fatima Berral succédera à Olivier Vallet à la tête de Docaposte Fatima Berral deviendra, le 1er novembre 2026, présidente-directrice générale de Docaposte et directrice générale adjointe de la branche Grand Public et Num",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/deepseek-v4-1-flash-vs-claude-mythos-cybersecurite-91792/?utm_source=rss&utm_medium=rss&utm_campaign=deepseek-v4-1-flash-vs-claude-mythos-cybersecurite",
+   "title": "DeepSeek V4.1 Flash se revendique meilleur que Claude Mythos en cybersécurité : ce que vous devez savoir",
+   "source": "Leptidigital",
+   "date": "2026-09-11T08:29:31.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "DeepSeek a publié le 10 septembre V4.1 Flash, un modèle librement téléchargeable qui atteindrait 88,1 sur CyberGym, l’un des benchmarks de recherche de failles de sécurité les plus suivis par les pros du secteur. En comp",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/setter-closer-comment-construire-activite-durable",
+   "title": "Setter, closer : comment construire une activité durable plutôt que d’enchaîner les missions",
+   "source": "Webmarketing & co'm",
+   "date": "2026-09-11T07:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "CRO"
+   ],
+   "summary": "Terminer une mission, quand on est setter ou closer indépendant, revient trop souvent à repartir de zéro pour décrocher la suivante. Les résultats obtenus restent éparpillés : captures d'écran, recommandations orales, CR",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/ed-ai-leve-5-millions-deuros-pour-transformer-chaque-copie-en-plan-de-remediation/463368",
+   "title": "Ed.ai lève 5 millions d’euros pour aider les professeurs à faire progresser chaque élève",
+   "source": "FrenchWeb",
+   "date": "2026-09-10T11:05:25.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Ed.ai lève 5 millions d’euros auprès de Bpifrance, La Poste Ventures et 50 Partners. La startup lyonnaise ne cherche pas seulement à réduire le temps consacré à la correction : sa plateforme analyse les copies manuscrite",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/webmarketing/sea/etude-ctr-google-shopping-hausse-91777/?utm_source=rss&utm_medium=rss&utm_campaign=etude-ctr-google-shopping-hausse",
+   "title": "Le CTR Google Shopping en hausse ? Ce que révèlent 175 milliards d’impressions analysées",
+   "source": "Leptidigital",
+   "date": "2026-09-10T09:00:03.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Votre CTR Shopping progresse depuis un an ? Une récente analyse de Mike Ryan (Smarter Ecommerce) portant sur 175 milliards d’impressions montre que le CTR médian grimpe de 1,20 % à près de 1,55 % pendant que les impressi",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/seo-axe-sur-audience-nouvelle-strategie-google-doubler-prospects",
+   "title": "Le SEO axé sur l’audience : la nouvelle stratégie Google pour doubler vos prospects rapidement",
+   "source": "Webmarketing & co'm",
+   "date": "2026-09-10T09:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Cela fait 20 ans que le SEO fonctionne toujours de la même façon : vous ouvrez un outil de mots-clés, vous repérez les volumes, vous ciblez les plus gros. Sauf que cette méthode-là, mieux vaut l'oublier dès maintenant ! ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/arlequin-ai-leve-28-millions-deuros-pour-construire-une-alternative-europeenne-a-palantir/463365",
+   "title": "ARLEQUIN AI lève 28 millions d’euros pour construire une alternative européenne à Palantir",
+   "source": "FrenchWeb",
+   "date": "2026-09-10T08:40:36.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Arlequin AI lève 28 millions d’euros auprès de redalpine, OTB Ventures et du Fonds Innovation Défense de Bpifrance, un peu plus d’un an après un amorçage de 4,4 millions d’euros. Fondée par le chercheur en sciences polit",
    "takeaway": ""
   }
  ]
