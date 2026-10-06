@@ -37,7 +37,14 @@ Extrait: ${item.excerpt}`;
   });
   if (!res.ok) throw new Error(`LLM ${res.status}: ${(await res.text()).slice(0, 200)}`);
   const data = await res.json();
-  return JSON.parse(data.choices[0].message.content);
+  const txt = data.choices[0].message.content;
+  const m = txt.match(/\{[\s\S]*\}/);
+  if (!m) throw Object.assign(new Error("réponse non-JSON"), { soft: true });
+  try {
+    return JSON.parse(m[0]);
+  } catch {
+    throw Object.assign(new Error("JSON invalide"), { soft: true });
+  }
 }
 
 function fallback(item) {
@@ -88,7 +95,7 @@ for (const item of toProcess) {
       result = await analyze(item);
     } catch (err) {
       console.warn(`⚠ ${err.message}`);
-      llmOk = false;
+      if (!err.soft) llmOk = false;
       result = fallback(item);
     }
   } else {

@@ -3,12 +3,12 @@
   "sources": [
     { "name": "Nielsen Norman Group", "url": "https://www.nngroup.com/feed/rss/" },
     { "name": "Baymard Institute", "url": "https://baymard.com/blog.atom" },
-    { "name": "CXL", "url": "https://cxl.com/blog/feed/" },
+    { "name": "CXL", "url": "https://cxl.com/blog/feed" },
     { "name": "Smashing Magazine", "url": "https://www.smashingmagazine.com/feed/" },
-    { "name": "Search Engine Land", "url": "https://searchengineland.com/feed" },
+    { "name": "Search Engine Journal", "url": "https://www.searchenginejournal.com/feed/" },
     { "name": "Moz", "url": "https://moz.com/posts/rss/blog" },
     { "name": "SparkToro", "url": "https://sparktoro.com/blog/feed/" },
-    { "name": "Anthropic News", "url": "https://www.anthropic.com/rss.xml" },
+    { "name": "Google Research", "url": "https://research.google/blog/rss/" },
     { "name": "OpenAI Blog", "url": "https://openai.com/news/rss.xml" },
     { "name": "Hacker News (UX/CRO/IA)", "url": "https://hnrss.org/newest?q=UX+OR+CRO+OR+%22conversion+rate%22+OR+LLM&points=50" }
   ]
