@@ -21,6 +21,11 @@
   .meta{color:var(--mut);font-size:.8rem;display:flex;justify-content:space-between;gap:.5rem}
   .tags span{font-size:.72rem;background:color-mix(in srgb,var(--acc) 14%,transparent);color:var(--acc);padding:.1rem .55rem;border-radius:99px;margin-right:.3rem}
   .take{font-size:.88rem;border-left:3px solid var(--acc);padding-left:.6rem}
+  [hidden]{display:none!important}
+  .more-wrap{text-align:center;padding:0 1rem 4rem}
+  .more{font:inherit;padding:.6rem 1.6rem;border-radius:99px;border:1px solid var(--acc);background:transparent;color:var(--acc);cursor:pointer}
+  .more:hover{background:var(--acc);color:#fff}
+  .top{position:fixed;right:1.2rem;bottom:1.2rem;width:44px;height:44px;border-radius:50%;border:0;background:var(--acc);color:#fff;font-size:1.3rem;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25)}
   .empty{grid-column:1/-1;text-align:center;color:var(--mut);padding:3rem}
 </style>
 </head>
@@ -38,8 +43,11 @@
   </div>
 </header>
 <main id="list"></main>
+<div class="more-wrap"><button id="more" class="more" hidden>Voir plus</button></div>
+<button id="top" class="top" aria-label="Retour en haut" title="Retour en haut" hidden>↑</button>
 <script>
-const state = { topic: null, q: "", sort: "date", items: [] };
+const PAGE = 15;
+const state = { topic: null, q: "", sort: "date", items: [], shown: PAGE };
 const $ = (id) => document.getElementById(id);
 const esc = (s = "") => s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const safeUrl = (u) => (/^https?:\/\//.test(u) ? u : "#");
@@ -50,7 +58,11 @@ function render() {
     .filter((i) => !state.topic || i.topics.includes(state.topic))
     .filter((i) => !q || (i.title + i.summary + i.source).toLowerCase().includes(q))
     .sort((a, b) => state.sort === "score" ? b.score - a.score || b.date.localeCompare(a.date) : b.date.localeCompare(a.date));
-  $("list").innerHTML = items.length ? items.map((i) => `
+  const visible = items.slice(0, state.shown);
+  const left = items.length - visible.length;
+  $("more").hidden = left <= 0;
+  $("more").textContent = `Voir plus (${Math.min(PAGE, left)} sur ${left} restants)`;
+  $("list").innerHTML = visible.length ? visible.map((i) => `
     <article>
       <div class="meta"><span>${esc(i.source)}</span><span>${new Date(i.date).toLocaleDateString("fr-FR")} · ★ ${i.score}/10</span></div>
       <h2><a href="${esc(safeUrl(i.url))}" target="_blank" rel="noopener noreferrer">${esc(i.title)}</a></h2>
@@ -66,6 +78,7 @@ function chips(topics) {
   $("chips").onclick = (e) => {
     const b = e.target.closest("button"); if (!b) return;
     state.topic = b.dataset.t === "Tout" ? null : b.dataset.t;
+    state.shown = PAGE;
     chips(topics); render();
   };
 }
@@ -75,8 +88,12 @@ fetch("data/items.json").then((r) => r.json()).then((d) => {
   $("updated").textContent = `Mis à jour le ${new Date(d.updatedAt).toLocaleString("fr-FR")} · ${d.items.length} articles`;
   chips(d.topics); render();
 }).catch(() => { $("updated").textContent = "Impossible de charger les données."; });
-$("q").oninput = (e) => { state.q = e.target.value; render(); };
-$("sort").onchange = (e) => { state.sort = e.target.value; render(); };
+$("q").oninput = (e) => { state.q = e.target.value; state.shown = PAGE; render(); };
+$("sort").onchange = (e) => { state.sort = e.target.value; state.shown = PAGE; render(); };
+$("more").onclick = () => { state.shown += PAGE; render(); };
+const toTop = $("top");
+addEventListener("scroll", () => { toTop.hidden = scrollY < 600; }, { passive: true });
+toTop.onclick = () => scrollTo({ top: 0, behavior: "smooth" });
 </script>
 </body>
 </html>
