@@ -1,33 +1,67 @@
 {
-  "topics": ["UX", "CRO", "Webmarketing", "Parcours utilisateur", "IA"],
-  "sources": [
-    { "name": "Nielsen Norman Group", "url": "https://www.nngroup.com/feed/rss/" },
-    { "name": "Baymard Institute", "url": "https://baymard.com/blog.atom" },
-    { "name": "CXL", "url": "https://cxl.com/blog/feed" },
-    { "name": "Smashing Magazine", "url": "https://www.smashingmagazine.com/feed/" },
-    { "name": "Search Engine Journal", "url": "https://www.searchenginejournal.com/feed/" },
-    { "name": "Moz", "url": "https://moz.com/posts/rss/blog" },
-    { "name": "SparkToro", "url": "https://sparktoro.com/blog/feed/" },
-    { "name": "Google Research", "url": "https://research.google/blog/rss/" },
-    { "name": "OpenAI Blog", "url": "https://openai.com/news/rss.xml" },
-    { "name": "Hacker News (UX/CRO/IA)", "url": "https://hnrss.org/newest?q=UX+OR+CRO+OR+%22conversion+rate%22+OR+LLM&points=50" },
-    { "name": "Blog du Modérateur", "url": "https://www.blogdumoderateur.com/feed/" },
-    { "name": "Abondance", "url": "https://www.abondance.com/feed/" },
-    { "name": "Webmarketing & co'm", "url": "https://www.webmarketing-com.com/feed" },
-    { "name": "Leptidigital", "url": "https://www.leptidigital.fr/feed/" },
-    { "name": "1min30", "url": "https://www.1min30.com/feed" },
-    { "name": "JDN E-business", "url": "https://www.journaldunet.com/ebusiness/rss/" },
-    { "name": "Siècle Digital", "url": "https://siecledigital.fr/feed/" },
-    { "name": "FrenchWeb", "url": "https://www.frenchweb.fr/feed" },
-    { "name": "UX Republic", "url": "https://www.ux-republic.com/feed/" },
-    { "name": "Alsacréations", "url": "https://www.alsacreations.com/rss/actualites.xml" },
-    { "name": "Presse-citron", "url": "https://www.presse-citron.net/feed/" },
-    { "name": "WebRankInfo", "url": "https://www.webrankinfo.com/rss.xml" },
-    { "name": "Blog UX", "url": "https://blog-ux.com/feed/" },
-    { "name": "Blog du Webdesign", "url": "https://www.blogduwebdesign.com/feed/" },
-    { "name": "Toptal Design Blog", "url": "https://www.toptal.com/designers/blog.rss" },
-    { "name": "UX Planet", "url": "https://uxplanet.org/feed" },
-    { "name": "Studio by UXPin", "url": "https://www.uxpin.com/studio/feed/" },
-    { "name": "Webdesigner Trends", "url": "https://webdesignertrends.com/feed/" }
-  ]
+    "topics":  [
+                   "UX",
+                   "CRO",
+                   "Webmarketing",
+                   "Parcours utilisateur",
+                   "IA"
+               ],
+    "sources":  [
+                    {
+                        "name":  "Blog du Modérateur",
+                        "url":  "https://www.blogdumoderateur.com/feed/"
+                    },
+                    {
+                        "name":  "Abondance",
+                        "url":  "https://www.abondance.com/feed/"
+                    },
+                    {
+                        "name":  "Webmarketing \u0026 co\u0027m",
+                        "url":  "https://www.webmarketing-com.com/feed"
+                    },
+                    {
+                        "name":  "Leptidigital",
+                        "url":  "https://www.leptidigital.fr/feed/"
+                    },
+                    {
+                        "name":  "1min30",
+                        "url":  "https://www.1min30.com/feed"
+                    },
+                    {
+                        "name":  "JDN E-business",
+                        "url":  "https://www.journaldunet.com/ebusiness/rss/"
+                    },
+                    {
+                        "name":  "Siècle Digital",
+                        "url":  "https://siecledigital.fr/feed/"
+                    },
+                    {
+                        "name":  "FrenchWeb",
+                        "url":  "https://www.frenchweb.fr/feed"
+                    },
+                    {
+                        "name":  "UX Republic",
+                        "url":  "https://www.ux-republic.com/feed/"
+                    },
+                    {
+                        "name":  "Alsacréations",
+                        "url":  "https://www.alsacreations.com/rss/actualites.xml"
+                    },
+                    {
+                        "name":  "Presse-citron",
+                        "url":  "https://www.presse-citron.net/feed/"
+                    },
+                    {
+                        "name":  "WebRankInfo",
+                        "url":  "https://www.webrankinfo.com/rss.xml"
+                    },
+                    {
+                        "name":  "Blog UX",
+                        "url":  "https://blog-ux.com/feed/"
+                    },
+                    {
+                        "name":  "Blog du Webdesign",
+                        "url":  "https://www.blogduwebdesign.com/feed/"
+                    }
+                ]
 }
