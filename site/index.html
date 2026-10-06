@@ -36,10 +36,6 @@
   <div class="bar" id="chips"></div>
   <div class="bar">
     <input id="q" type="search" placeholder="Rechercher…" aria-label="Rechercher">
-    <select id="sort" aria-label="Tri">
-      <option value="date">Plus récents</option>
-      <option value="score">Plus utiles</option>
-    </select>
   </div>
 </header>
 <main id="list"></main>
@@ -47,7 +43,7 @@
 <button id="top" class="top" aria-label="Retour en haut" title="Retour en haut" hidden>↑</button>
 <script>
 const PAGE = 15;
-const state = { topic: null, q: "", sort: "date", items: [], shown: PAGE };
+const state = { topic: null, q: "", items: [], shown: PAGE };
 const $ = (id) => document.getElementById(id);
 const esc = (s = "") => s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const safeUrl = (u) => (/^https?:\/\//.test(u) ? u : "#");
@@ -57,14 +53,14 @@ function render() {
   const items = state.items
     .filter((i) => !state.topic || i.topics.includes(state.topic))
     .filter((i) => !q || (i.title + i.summary + i.source).toLowerCase().includes(q))
-    .sort((a, b) => state.sort === "score" ? b.score - a.score || b.date.localeCompare(a.date) : b.date.localeCompare(a.date));
+    .sort((a, b) => b.date.localeCompare(a.date));
   const visible = items.slice(0, state.shown);
   const left = items.length - visible.length;
   $("more").hidden = left <= 0;
   $("more").textContent = `Voir plus (${Math.min(PAGE, left)} sur ${left} restants)`;
   $("list").innerHTML = visible.length ? visible.map((i) => `
     <article>
-      <div class="meta"><span>${esc(i.source)}</span><span>${new Date(i.date).toLocaleDateString("fr-FR")} · ★ ${i.score}/10</span></div>
+      <div class="meta"><span>${esc(i.source)}</span><span>${new Date(i.date).toLocaleDateString("fr-FR")}</span></div>
       <h2><a href="${esc(safeUrl(i.url))}" target="_blank" rel="noopener noreferrer">${esc(i.title)}</a></h2>
       <div class="tags">${i.topics.map((t) => `<span>${esc(t)}</span>`).join("")}</div>
       <p>${esc(i.summary)}</p>
@@ -89,7 +85,6 @@ fetch("data/items.json").then((r) => r.json()).then((d) => {
   chips(d.topics); render();
 }).catch(() => { $("updated").textContent = "Impossible de charger les données."; });
 $("q").oninput = (e) => { state.q = e.target.value; state.shown = PAGE; render(); };
-$("sort").onchange = (e) => { state.sort = e.target.value; state.shown = PAGE; render(); };
 $("more").onclick = () => { state.shown += PAGE; render(); };
 const toTop = $("top");
 addEventListener("scroll", () => { toTop.hidden = scrollY < 600; }, { passive: true });
