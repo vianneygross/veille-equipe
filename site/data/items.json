@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T13:14:01.547Z",
+ "updatedAt": "2026-10-09T13:00:38.029Z",
  "topics": [
   "UX",
   "CRO",
@@ -8,6 +8,297 @@
   "IA"
  ],
  "items": [
+  {
+   "url": "https://www.presse-citron.net/taxe-gafam-geants-web-assemblee-nationale/",
+   "title": "De 890 millions à 4 milliards d’euros de “taxe GAFAM” pour les géants du web : la mesure vient d’être adoptée par la commission des finances de l’Assemblée nationale",
+   "source": "Presse-citron",
+   "date": "2026-10-09T12:12:37.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "La commission des finances de l'Assemblée nationale adopte un amendement du projet de loi des finances pour 2027 qui prévoit une hausse du taux de la “taxe GAFAM”. Ce taux passerait de 3 % à 15 %, mais le seuil serait au",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/cas-suspect-de-peste-en-siberie-la-russie-affirme-que-tout-va-bien-loms-et-les-usa-ny-croient-pas-du-tout/",
+   "title": "Cas suspect de peste en Sibérie : la Russie affirme que tout va bien, l’OMS et les USA n’y croient pas du tout",
+   "source": "Presse-citron",
+   "date": "2026-10-09T11:30:22.000Z",
+   "score": 6,
+   "topics": [
+    "CRO"
+   ],
+   "summary": "Faut-il croire le Kremlin ? Quelques jours après le décès suspect d'une Sibérienne, la Russie assure qu’il ne s’agissait pas de la peste. Mais la communauté internationale, elle, commence à perdre patience.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/test-aiper-scuba-v3/",
+   "title": "Test Aiper Scuba V3 : avec son IA, ce robot piscine devient-il plus efficace au fil du temps ?",
+   "source": "Presse-citron",
+   "date": "2026-10-09T11:26:43.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Pour la première fois chez Aiper, un robot piscine embarque une caméra frontale épaulée par une intelligence artificielle qui tient compte des nettoyages précédents. Avec le Scuba V3, la marque nourrit donc une ambition ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogduwebdesign.com/blog/creation-de-site/seo/ai-overviews-france-garder-trafic-google.html",
+   "title": "AI Overviews en France : 11 semaines après, comment garder votre trafic Google",
+   "source": "Blog du Webdesign",
+   "date": "2026-10-09T11:16:49.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Vos impressions montent. Vos clics baissent. Vous n’avez rien changé à votre site. Bienvenue dans l’ère des AI Overviews. Depuis le 22 juillet 2026, Google affiche en France des réponses rédigées par son IA, Gemini, au-d",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/mistral-repond-critiques-moteur-de-recherche-ecosia/",
+   "title": "Mistral répond aux critiques du moteur de recherche allemand Ecosia, qui vient de lui claquer la porte",
+   "source": "Presse-citron",
+   "date": "2026-10-09T11:02:55.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Le moteur de recherche allemand Ecosia annonce l’abandon des modèles Mistral pour propulser ses fonctionnalités IA. Le CEO d’Ecosia a notamment critiqué les performances des technologies Mistral. En réponse, l’un des cof",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/claude-haiku-5-5-quelles-taches-pro-confier-vs-eviter-92156/?utm_source=rss&utm_medium=rss&utm_campaign=claude-haiku-5-5-quelles-taches-pro-confier-vs-eviter",
+   "title": "Claude Haiku 5.5 : voici les tâches pros que vous devriez lui confier (et celles à éviter)",
+   "source": "Leptidigital",
+   "date": "2026-10-09T10:38:09.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Anthropic a lancé le 7 octobre Claude Haiku 5.5, son modèle le plus rapide et facturé seulement 0,10 $ le million de tokens en entrée (dix fois moins que la version précédente Haiku 4.5). Artificial Analysis, qui teste l",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/innovation-et-transformation-les-nominations-de-la-semaine-chez-vallourec-leem-et-fusalp/463879",
+   "title": "Innovation et transformation : les nominations de la semaine chez Vallourec, Leem et Fusalp",
+   "source": "FrenchWeb",
+   "date": "2026-10-09T10:19:31.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Cette semaine, les nominations dessinent les priorités des entreprises en matière d’innovation : développement des activités numériques, cybersécurité, santé et investissement technologique. Kls, Goliaths et CELESTE renf",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/webmarketing/seo/vrais-delais-google-indexation-migration-core-update-gary-illyes-92154/?utm_source=rss&utm_medium=rss&utm_campaign=vrais-delais-google-indexation-migration-core-update-gary-illyes",
+   "title": "Les vrais délais de Google : indexation, migration et core update (selon Gary Illyes)",
+   "source": "Leptidigital",
+   "date": "2026-10-09T08:31:19.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Combien de temps pour qu’une nouvelle URL soit repérée, qu’une migration se stabilise ou qu’un site se relève d’une core update ? Gary Illyes a projeté des fourchettes tirées des données internes de Google, du cas typiqu",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.abondance.com/20261009-3000222-ai-overviews-chute-sites-infos-france.html",
+   "title": "AI Overviews : la grande dégringolade des sites d’infos",
+   "source": "Abondance",
+   "date": "2026-10-09T08:20:49.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Ce qu'il faut retenir : Sur un panel de 40 marques d'information analysé par The Media Leader, les visites totales passent de 2,14 milliards en septembre 2025 à 1,70 milliard en septembre 2026, soit un recul de 20,8 %. L",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/the-social-reckoning-pourquoi-ce-film-fascinant-sur-facebook-et-instagram-derange-autant-meta/",
+   "title": "The Social Reckoning : pourquoi ce film fascinant sur Facebook et Instagram dérange autant Meta ?",
+   "source": "Presse-citron",
+   "date": "2026-10-09T07:54:51.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Le nouveau long-métrage d’Aaron Sorkin explore les effets néfastes des géants du web sur les sociétés contemporaines.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/sophie-adenot-est-de-retour-sur-terre-une-toute-autre-mission-commence-pour-lastronaute-francaise-voici-ce-qui-lattend/",
+   "title": "Sophie Adenot est de retour sur Terre : une toute autre mission commence pour l’astronaute Française, voici ce qui l’attend",
+   "source": "Presse-citron",
+   "date": "2026-10-09T07:30:01.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Après 237 jours passés en orbite, Sophie Adenot a retrouvé la gravité terrestre. Mais pour l'astronaute française, l'aventure ne s'arrête pas là : un long protocole médical intense l'attend désormais à Cologne. Son métab",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/fractional-cmo-ce-que-lentreprise-achete-vraiment",
+   "title": "Fractional CMO : ce que l’entreprise achète vraiment",
+   "source": "Webmarketing & co'm",
+   "date": "2026-10-09T07:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Le Fractional CMO gagne du terrain en France. On le présente volontiers comme un directeur marketing expérimenté, disponible à temps partiel et moins coûteux qu’un recrutement classique. La description est juste, mais el",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/google-agent-gemini-unique-travail-entreprise/",
+   "title": "Google lance l’agent Gemini, un agent unique pour tout le travail en entreprise",
+   "source": "Blog du Modérateur",
+   "date": "2026-10-09T07:23:19.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Après la plateforme Gemini Enterprise et sa galerie d'agents spécialisés, Google mise sur un agent unique à qui l'on confie un objectif plutôt qu'une série d'instructions.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/facturation-recrutements-comment-ia-bouscule-modele-esn/",
+   "title": "Facturation, recrutements : comment l’IA bouscule le modèle des ESN",
+   "source": "Blog du Modérateur",
+   "date": "2026-10-09T07:14:57.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Les gains de productivité liés à l'IA remettent en cause la facturation au temps passé et modifient les profils recrutés, selon une étude menée par KPMG et Numeum.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/etudes-consommateurs-ce-que-lia-change-dans-leconomie-du-metier/463865",
+   "title": "Études consommateurs : ce que l’IA change dans l’économie du métier",
+   "source": "FrenchWeb",
+   "date": "2026-10-09T06:51:37.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "L’automatisation des entretiens et de l’analyse modifie les coûts de production des études. Elle ouvre aussi une négociation sur leur prix, leur fréquence et la place du conseil. Pour les annonceurs comme pour les presta",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/apple-le-nouveau-pdg-john-ternus-donne-un-tres-bon-conseil-pour-reussir-au-travail/",
+   "title": "Apple : le nouveau PDG John Ternus donne un très bon conseil pour réussir au travail",
+   "source": "Presse-citron",
+   "date": "2026-10-09T06:26:40.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Le nouveau dirigeant adresse le meilleur des conseils.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/france-ia-mistral-reveler/",
+   "title": "La France était donnée perdante dans l’IA, mais ce que Mistral vient de révéler change tout",
+   "source": "Presse-citron",
+   "date": "2026-10-09T05:27:17.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Mistral a récemment lancé le modèle Mistral Large 4, capable de rivaliser avec les meilleures IA chinoises. Et, désormais, la startup française veut rattraper son retard par rapport aux États-Unis. En effet, d’après son ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/verso-leve-54-millions-deuros-une-nouvelle-generation-de-plateformes-detudes-consommateurs-emerge/463862",
+   "title": "VERSO lève 5,4 millions d’euros : une nouvelle génération de plateformes d’études consommateurs émerge",
+   "source": "FrenchWeb",
+   "date": "2026-10-09T05:04:01.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "La startup parisienne rejoint un marché où Outset, GetWhy et Listen Labs automatisent la conduite des entretiens et l’analyse des réponses. Ces plateformes cherchent aussi à rendre les enseignements consultables au fil d",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/linkedin-royaume-ai-slop/",
+   "title": "Comment LinkedIn est devenu le royaume de l’AI Slop",
+   "source": "Blog du Modérateur",
+   "date": "2026-10-09T05:00:01.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Depuis plusieurs semaines, LinkedIn multiplie les initiatives visant à se débarrasser des contenus creux et synthétiques. Une offensive tardive, menée par une plateforme qui a longtemps encouragé l'usage de l'IA générati",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/apple-tease-nouveautes-octobre-produits/",
+   "title": "Apple tease des nouveautés pour le 13 octobre : voici les 3 produits attendus",
+   "source": "Presse-citron",
+   "date": "2026-10-08T18:24:35.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Apple présentera de nouveaux produits le 13 octobre. Et la liste des nouveautés devrait inclure un écran connecté et dopé à l’IA pour la maison.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/fumees-malsaines-gp-f1-singapour-derouler-conditions-particulieres/",
+   "title": "Des fumées « malsaines » : le GP de F1 de Singapour va se dérouler dans des conditions particulières",
+   "source": "Presse-citron",
+   "date": "2026-10-08T16:02:24.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Les pilotes de F1 sont habitués à la chaleur étouffante du circuit de Marina Bay et à son tracé très exigeant, truffé de virages à l'aveugle. Cette année, ils vont devoir affronter un autre adversaire : l'air, complèteme",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/gta-vi-un-leak-massif-de-25-minutes-seme-la-panique-chez-rockstar-games/",
+   "title": "GTA VI : un leak massif de 25 minutes sème la panique chez Rockstar Games",
+   "source": "Presse-citron",
+   "date": "2026-10-08T15:37:02.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "À quelques semaines de la sortie de GTA VI, 25 minutes de gameplay du jeu le plus attendu de l’année ont fuité. Aïe.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/razer-basilisk-v4-pro-test/",
+   "title": "J’ai testé la Razer Basilisk V4 Pro, est-ce la meilleure souris gaming du marché ?",
+   "source": "Presse-citron",
+   "date": "2026-10-08T15:00:21.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Razer sort sa nouvelle souris premium, la Basilisk V4 Pro. Ce mulot arrive-t-il à convaincre dans un secteur en pleine ébullition ?",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/xbox-veut-accelerer-ladaptation-au-cinema-de-ses-jeux-phares-avec-xp-une-nouvelle-entite/",
+   "title": "Xbox veut accélérer l’adaptation au cinéma de ses jeux phares avec XP, une nouvelle entité",
+   "source": "Presse-citron",
+   "date": "2026-10-08T14:30:35.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Xbox veut étendre son influence dans le domaine du divertissement avec XP, une nouvelle entité qui s’occupera de tout ce qui est annexe à ses jeux vidéo.",
+   "takeaway": ""
+  },
   {
    "url": "https://www.presse-citron.net/creer-jeu-video-nouveau-site-google/",
    "title": "Créer son propre jeu vidéo devient un jeu d’enfant grâce à ce nouveau site de Google",
