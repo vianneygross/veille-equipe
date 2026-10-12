@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T13:00:38.029Z",
+ "updatedAt": "2026-10-12T15:06:25.383Z",
  "topics": [
   "UX",
   "CRO",
@@ -8,6 +8,343 @@
   "IA"
  ],
  "items": [
+  {
+   "url": "https://siecledigital.fr/2026/10/12/et-si-lia-echappait-a-tout-controle-le-pdg-de-microsoft-lance-un-avertissement/",
+   "title": "Et si l’IA échappait à tout contrôle ? Le PDG de Microsoft lance un avertissement",
+   "source": "Siècle Digital",
+   "date": "2026-10-12T14:42:06.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Satya Nadella alerte sur les risques liés aux modèles d’IA les plus avancés. Le PDG de Microsoft estime qu’il ne faut pas accorder une confiance aveugle à ces outils. Selon lui, ces modèles doivent être considérés comme ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/12/les-influenceurs-qui-multiplient-les-publicites-seraient-finalement-les-plus-suivis/",
+   "title": "Les influenceurs qui multiplient les publicités perdraient moins d’abonnés",
+   "source": "Siècle Digital",
+   "date": "2026-10-12T14:31:47.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Les abonnés n’ont pas forcément tendance à fuir à cause des contenus sponsorisés. Kolsquare et l’ARPP ont réalisé une étude auprès de 196 000 créateurs français. Sur TikTok et Instagram, plus les partenariats augmentent,",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/google-presente-son-fitbit-edge-un-bracelet-a-mi-chemin-entre-le-fitbit-air-et-la-pixel-watch-5/",
+   "title": "Google présente son Fitbit Edge, un bracelet à mi-chemin entre le Fitbit Air et la Pixel Watch 5",
+   "source": "Presse-citron",
+   "date": "2026-10-12T13:00:46.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Google vient de dévoiler le Fitbit Edge, un bracelet connecté qui améliore la formule du Fitbit Air.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/la-russie-choisit-de-prendre-le-controle-des-supermarches-francais-auchan-et-des-filiales-suisses-de-nestle-presents-sur-son-territoire/",
+   "title": "La Russie choisit de prendre le contrôle des supermarchés français Auchan et des filiales suisses de Nestlé présents sur son territoire",
+   "source": "Presse-citron",
+   "date": "2026-10-12T11:54:02.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Vladimir Poutine a signé un décret plaçant les activités russes d'Auchan et de Nestlé sous administration extérieure temporaire, au profit d'une société moscovite peu connue. Une décision qui relance la question du sort ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/les-attaques-de-drones-ukrainiens-paralysent-yandex-le-google-russe-comment-les-data-centers-se-retrouvent-au-coeur-de-la-cyberguerre/",
+   "title": "Les attaques de drones ukrainiens paralysent Yandex, le « Google russe » : comment les data centers se retrouvent au cœur de la cyberguerre",
+   "source": "Presse-citron",
+   "date": "2026-10-12T11:00:05.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "En frappant plusieurs data centers stratégiques de Yandex, l'Ukraine a provoqué une panne massive des services du « Google russe ». Le nouveau visage de la guerre moderne.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/voiture-electrique-peugeot-205-t16/",
+   "title": "Cette voiture électrique inspirée de la Peugeot 205 T16 va donner des frissons à toute une génération de Français",
+   "source": "Presse-citron",
+   "date": "2026-10-12T10:28:19.000Z",
+   "score": 6,
+   "topics": [
+    "UX"
+   ],
+   "summary": "Peugeot sort le grand jeu en présentant l’E-T16 Concept, une voiture électrique inspirée de la 205 T16. Elle est capable de passer de 0 à 300 km/h en 16 secondes et donne aussi un aperçu des futurs designs de la marque.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/plus-fou-gare-nord-paris-station-recu-tgv-toutes-40-secondes-1-million-passagers-une-seule-journee/",
+   "title": "Plus fou que la Gare du Nord à Paris, cette station a reçu un TGV toutes les 40 secondes et 1 million de passagers en une seule journée",
+   "source": "Presse-citron",
+   "date": "2026-10-12T10:02:31.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "La SNCF peine déjà à faire partir ses TGV à l'heure dans de nombreuses gares, une pénible réalité que vivent des millions de voyageurs chaque semaine. De l'autre côté du globe, la China Railway a réussi à expédier un tra",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/spiko-wiremind-vates-pres-de-270-millions-deuros-annonces-par-la-french-tech-cette-semaine/463906",
+   "title": "SPIKO, WIREMIND, VATES : près de 270 millions d’euros annoncés par la French Tech cette semaine",
+   "source": "FrenchWeb",
+   "date": "2026-10-12T09:55:26.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Du 5 au 11 octobre 2026, treize entreprises françaises de cette sélection ont annoncé près de 270 millions d’euros de financements en capital. Spiko, Wiremind et Vates concentrent plus de la moitié du montant. Derrière c",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/securiser-ses-actifs-crypto-les-bonnes-pratiques-du-portefeuille-materiel-aux-reseaux-sociaux/463899",
+   "title": "Sécuriser ses actifs crypto : les bonnes pratiques du portefeuille matériel aux réseaux sociaux",
+   "source": "FrenchWeb",
+   "date": "2026-10-12T08:13:34.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Le vol de crypto-actifs peut commencer par le piratage d’un compte sur une plateforme, la compromission d’un portefeuille logiciel ou l’altération d’un appareil matériel. Il peut aussi résulter d’une escroquerie : faux s",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogduwebdesign.com/blog/tech/gpt-6-chatgpt-intelligent-ui.html",
+   "title": "GPT-6 dans ChatGPT : ce que l’Intelligent UI change pour les designers",
+   "source": "Blog du Webdesign",
+   "date": "2026-10-12T08:00:49.000Z",
+   "score": 6,
+   "topics": [
+    "UX",
+    "IA"
+   ],
+   "summary": "Vous demandez un simulateur de devis. ChatGPT ne vous répond pas avec un pavé de texte. Il vous rend l’outil.Depuis le 7 octobre 2026, GPT-6 équipe l’onglet Chat de ChatGPT, pour tout le monde. Avec lui arrive l’Intellig",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/webmarketing/publicites-chatgpt-nouveau-format-visuel-92158/?utm_source=rss&utm_medium=rss&utm_campaign=publicites-chatgpt-nouveau-format-visuel",
+   "title": "Publicités ChatGPT : OpenAI teste un nouveau format visuel (ce qu’il faut savoir)",
+   "source": "Leptidigital",
+   "date": "2026-10-12T07:41:36.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "OpenAI va tester, d’ici la fin octobre aux États-Unis, un format publicitaire visuel affiché pendant que ChatGPT génère une image. Voici ce qu’il faut savoir sur cette nouveauté. L’essentiel en bref Le nouveau format vis",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/coup-de-tonnerre-dans-le-monde-du-sport-lvmh-entre-au-capital-de-la-marque-hyrox/",
+   "title": "Coup de tonnerre dans le monde du sport, LVMH entre au capital de la marque Hyrox",
+   "source": "Presse-citron",
+   "date": "2026-10-12T07:35:24.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Discrètement, LVMH s’immisce dans la discipline sportive qui fait fureur sur les réseaux sociaux. Et ce n’est pas anodin.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/crm-ia-donnees-clients-sous-exploitees",
+   "title": "CRM et IA : pourquoi la plupart des entreprises n’exploitent encore que 20 % de leurs données clients",
+   "source": "Webmarketing & co'm",
+   "date": "2026-10-12T07:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Chaque interaction avec un client laisse une trace : un clic, un email ouvert, un appel au support, un avis déposé, une visite sur une page produit. Les entreprises collectent aujourd'hui plus de données clients qu'à auc",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/reseaux-sociaux-preferes-community-managers-2026/",
+   "title": "Les réseaux sociaux préférés des community managers en 2026",
+   "source": "Blog du Modérateur",
+   "date": "2026-10-12T07:24:48.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Pour la deuxième année consécutive, LinkedIn reste le réseau social le plus important aux yeux des community managers, devant Instagram.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/positive-ouvre-suite-marketing-agentis-ia-serveurs-mcp/",
+   "title": "Positive ouvre sa suite marketing aux agents IA avec ses serveurs MCP",
+   "source": "Blog du Modérateur",
+   "date": "2026-10-12T07:14:43.000Z",
+   "score": 6,
+   "topics": [
+    "UX",
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Avec le protocole MCP, les éditeurs SaaS ne se contentent plus de proposer une interface. Positive ouvre trois de ses produits aux agents IA, sans surcoût pour ses clients.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/adieu-louverture-a-8h30-lidl-change-les-horaires-de-ses-supermarches-en-france-les-clients-vont-adorer/",
+   "title": "Adieu l’ouverture à 8h30 : Lidl change les horaires de ses supermarchés en France, les clients vont adorer",
+   "source": "Presse-citron",
+   "date": "2026-10-12T06:05:11.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Une évolution sensible pour les clients de Lidl.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/selection-formation-community-manager-321/",
+   "title": "5 formations pour devenir community manager à l’ère de l’IA",
+   "source": "Blog du Modérateur",
+   "date": "2026-10-12T06:00:41.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Une sélection de formations pour maîtriser les réseaux sociaux et savoir comment animer une communauté en ligne, tout en intégrant l'IA dans ses missions de community management.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/asus-googlebook-14-test/",
+   "title": "Googlebook OS, ça vaut quoi ? J’ai remplacé mon PC Windows par un Googlebook 14 d’Asus et je n’ai pas été entièrement convaincu",
+   "source": "Presse-citron",
+   "date": "2026-10-12T05:00:56.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Les Googlebook peuvent-ils réellement remplacer nos PC ? J’en ai utilisé un pendant une semaine. Si l’expérience a été agréable, elle ne m’a pas totalement convaincu.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/face-ai-overviews-ibou-veut-rendre-medias-visibilite-plateformes/",
+   "title": "Face aux AI Overviews, ibou veut « rendre aux médias la visibilité qu’ils n’ont pas toujours sur les plateformes »",
+   "source": "Blog du Modérateur",
+   "date": "2026-10-12T05:00:50.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "En réponse aux AIO, ibou veut renvoyer le trafic vers les médias. Sylvain Peyronnet, CEO d'ibou, explique comment ibou Actualités fonctionne et ce qu'il compte apporter aux éditeurs.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/project-suncatcher-premiere-etape-plan-google-envoyer-data-centers-lespace/",
+   "title": "Project Suncatcher : la première étape du plan de Google pour envoyer des data centers dans l’espace",
+   "source": "Presse-citron",
+   "date": "2026-10-11T18:03:28.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Google vient de mettre en orbite un satellite expérimental embarquant ses propres puces d’IA. L’objectif à terme : assembler des constellations de centres de calcul dans l’espace, alimentés par l’énergie solaire.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/adieu-le-portugal-cette-grande-ville-francaise-reputee-la-moins-chere-attire-les-retraites/",
+   "title": "Adieu le Portugal : cette grande ville française réputée la moins chère attire les retraités",
+   "source": "Presse-citron",
+   "date": "2026-10-11T13:45:37.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Une nouvelle tendance est à l’œuvre.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogduwebdesign.com/blog/creation-de-site/seo/comment-optimiser-site-web-pour-moteurs-de-recherche.html",
+   "title": "Optimiser son site pour Google et les IA : le guide SEO + GEO 2026",
+   "source": "Blog du Webdesign",
+   "date": "2026-10-11T06:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "10 472 impressions. Zéro clic. C’est le bilan de la version précédente de cette page, du 8 juillet au 6 octobre 2026. Google la montrait. Personne ne cliquait. Elle se classait en moyenne en 54e position, avec des consei",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogduwebdesign.com/blog/tech/synthid-detector-verifier-image-ia.html",
+   "title": "SynthID Detector : vérifier gratuitement si une image a été créée par l’IA",
+   "source": "Blog du Webdesign",
+   "date": "2026-10-10T07:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Un client vous envoie « ses » photos pour son nouveau site. Elles sont parfaites. Un peu trop parfaites. Vraie photo ou image générée ? Jusqu’ici, vous deviez vous fier à votre œil. Depuis le 7 octobre 2026, Google ouvre",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/09/insulter-claude-pourrait-bientot-vous-couter-votre-compte-anthropic/",
+   "title": "Insulter Claude pourrait bientôt vous coûter votre compte Anthropic",
+   "source": "Siècle Digital",
+   "date": "2026-10-09T14:01:12.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Dès le 12 novembre prochain, Anthropic interdira les comportements cruels ou abusifs. Les règles autour de Claude se durcissent. Seuls les comportements abusifs ou cruels, répétés et sans justification apparente, sont vi",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/09/les-sites-dinformation-francais-perdent-pres-dun-quart-de-leur-trafic-google-dans-le-viseur/",
+   "title": "Les sites d’information français perdent près d’un quart de leur trafic, Google dans le viseur",
+   "source": "Siècle Digital",
+   "date": "2026-10-09T13:55:27.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Selon une analyse de The Media Leader basée sur les données de l’Alliance pour les Chiffres de la Presse et des Médias (ACPM), les sites de 40 marques d’information ont perdu 22,9 % de leurs visites en un an. Une baisse ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/09/le-chiffre-daffaires-dopenai-seme-le-doute-a-wall-street-sur-la-rentabilite-de-lia/",
+   "title": "Le chiffre d’affaires d’OpenAI sème le doute à Wall Street sur la rentabilité de l’IA",
+   "source": "Siècle Digital",
+   "date": "2026-10-09T13:42:34.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Le rythme de revenus annualisé d’OpenAI approchait 50 milliards de dollars fin septembre, selon les informations rapportées par la presse. Pourtant, depuis quelques semaines, des estimations d’investisseurs indiquaient 7",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/09/gemini-ne-se-contente-plus-de-repondre-a-vos-questions-il-peut-desormais-travailler-pour-vous/",
+   "title": "Gemini ne se contente plus de répondre à vos questions, il peut désormais travailler pour vous",
+   "source": "Siècle Digital",
+   "date": "2026-10-09T13:35:24.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Google lance un nouvel agent Gemini qui ne se contentera plus de répondre à vos questions. Comme un véritable assistant, il sera désormais capable de réaliser des tâches complexes à votre place, avec une intervention hum",
+   "takeaway": ""
+  },
   {
    "url": "https://www.presse-citron.net/taxe-gafam-geants-web-assemblee-nationale/",
    "title": "De 890 millions à 4 milliards d’euros de “taxe GAFAM” pour les géants du web : la mesure vient d’être adoptée par la commission des finances de l’Assemblée nationale",
@@ -3345,103 +3682,6 @@
     "IA"
    ],
    "summary": "Le marché du freelance digital ne s’effondre pas mais il se scinde. D’un côté, les missions courtes et standardisées que les clients confient désormais à un modèle IA. De l’autre, des projets plus longs, mieux payés, et ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.frenchweb.fr/europe-next-week-de-paris-a-espoo-linnovation-face-au-test-de-lindustrialisation/463397",
-   "title": "EUROPE, NEXT WEEK: de Paris à Espoo, l’innovation face au test de l’industrialisation",
-   "source": "FrenchWeb",
-   "date": "2026-09-11T16:00:32.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Seize rendez-vous, douze villes, onze pays. Cette semaine, l’Europe de l’innovation cherchera moins la prochaine idée que les moyens de la déployer. À Paris, Cambridge, Hanovre, Lyon ou Espoo, la même question reviendra ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.frenchweb.fr/docaposte-mediawan-monaco-tech-les-mouvements-cles-de-la-semaine/463288",
-   "title": "DOCAPOSTE, MEDIAWAN, MONACO TECH: les mouvements clés de la semaine",
-   "source": "FrenchWeb",
-   "date": "2026-09-11T09:22:47.000Z",
-   "score": 6,
-   "topics": [
-    "CRO",
-    "Webmarketing"
-   ],
-   "summary": "Fatima Berral succédera à Olivier Vallet à la tête de Docaposte Fatima Berral deviendra, le 1er novembre 2026, présidente-directrice générale de Docaposte et directrice générale adjointe de la branche Grand Public et Num",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/deepseek-v4-1-flash-vs-claude-mythos-cybersecurite-91792/?utm_source=rss&utm_medium=rss&utm_campaign=deepseek-v4-1-flash-vs-claude-mythos-cybersecurite",
-   "title": "DeepSeek V4.1 Flash se revendique meilleur que Claude Mythos en cybersécurité : ce que vous devez savoir",
-   "source": "Leptidigital",
-   "date": "2026-09-11T08:29:31.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "DeepSeek a publié le 10 septembre V4.1 Flash, un modèle librement téléchargeable qui atteindrait 88,1 sur CyberGym, l’un des benchmarks de recherche de failles de sécurité les plus suivis par les pros du secteur. En comp",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.webmarketing-com.com/setter-closer-comment-construire-activite-durable",
-   "title": "Setter, closer : comment construire une activité durable plutôt que d’enchaîner les missions",
-   "source": "Webmarketing & co'm",
-   "date": "2026-09-11T07:30:00.000Z",
-   "score": 6,
-   "topics": [
-    "CRO"
-   ],
-   "summary": "Terminer une mission, quand on est setter ou closer indépendant, revient trop souvent à repartir de zéro pour décrocher la suivante. Les résultats obtenus restent éparpillés : captures d'écran, recommandations orales, CR",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.frenchweb.fr/ed-ai-leve-5-millions-deuros-pour-transformer-chaque-copie-en-plan-de-remediation/463368",
-   "title": "Ed.ai lève 5 millions d’euros pour aider les professeurs à faire progresser chaque élève",
-   "source": "FrenchWeb",
-   "date": "2026-09-10T11:05:25.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Ed.ai lève 5 millions d’euros auprès de Bpifrance, La Poste Ventures et 50 Partners. La startup lyonnaise ne cherche pas seulement à réduire le temps consacré à la correction : sa plateforme analyse les copies manuscrite",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/webmarketing/sea/etude-ctr-google-shopping-hausse-91777/?utm_source=rss&utm_medium=rss&utm_campaign=etude-ctr-google-shopping-hausse",
-   "title": "Le CTR Google Shopping en hausse ? Ce que révèlent 175 milliards d’impressions analysées",
-   "source": "Leptidigital",
-   "date": "2026-09-10T09:00:03.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Votre CTR Shopping progresse depuis un an ? Une récente analyse de Mike Ryan (Smarter Ecommerce) portant sur 175 milliards d’impressions montre que le CTR médian grimpe de 1,20 % à près de 1,55 % pendant que les impressi",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.webmarketing-com.com/seo-axe-sur-audience-nouvelle-strategie-google-doubler-prospects",
-   "title": "Le SEO axé sur l’audience : la nouvelle stratégie Google pour doubler vos prospects rapidement",
-   "source": "Webmarketing & co'm",
-   "date": "2026-09-10T09:00:00.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Cela fait 20 ans que le SEO fonctionne toujours de la même façon : vous ouvrez un outil de mots-clés, vous repérez les volumes, vous ciblez les plus gros. Sauf que cette méthode-là, mieux vaut l'oublier dès maintenant ! ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.frenchweb.fr/arlequin-ai-leve-28-millions-deuros-pour-construire-une-alternative-europeenne-a-palantir/463365",
-   "title": "ARLEQUIN AI lève 28 millions d’euros pour construire une alternative européenne à Palantir",
-   "source": "FrenchWeb",
-   "date": "2026-09-10T08:40:36.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Arlequin AI lève 28 millions d’euros auprès de redalpine, OTB Ventures et du Fonds Innovation Défense de Bpifrance, un peu plus d’un an après un amorçage de 4,4 millions d’euros. Fondée par le chercheur en sciences polit",
    "takeaway": ""
   }
  ]
