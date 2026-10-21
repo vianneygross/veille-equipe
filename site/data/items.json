@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T11:19:15.579Z",
+ "updatedAt": "2026-10-21T11:35:01.278Z",
  "topics": [
   "UX",
   "CRO",
@@ -8,6 +8,378 @@
   "IA"
  ],
  "items": [
+  {
+   "url": "https://siecledigital.fr/2026/10/21/chatgpt-permet-de-verrouiller-vos-conversations-pour-les-garder-a-labri-des-regards/",
+   "title": "ChatGPT permet de verrouiller vos conversations pour les garder à l’abri des regards",
+   "source": "Siècle Digital",
+   "date": "2026-10-21T11:27:58.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "OpenAI vient de dévoiler une nouvelle fonctionnalité destinée à renforcer la confidentialité des échanges sur ChatGPT. Les utilisateurs peuvent désormais verrouiller certaines de leurs conversations avec l’intelligence a",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/21/les-geants-chinois-commandent-pour-35-milliards-de-dollars-de-puces-nvidia-malgre-les-restrictions-americaines/",
+   "title": "Les géants chinois commandent pour 35 milliards de dollars de puces Nvidia malgré les restrictions américaines",
+   "source": "Siècle Digital",
+   "date": "2026-10-21T11:15:53.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Face à l’essor de l’IA, les entreprises chinoises cherchent à accroître leur puissance de calcul. Des commandes ont été passées par ByteDance, Alibaba ainsi que Tencent. Ces commandes représentent plus de 35 milliards de",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/mistral-vient-de-lancer-la-3e-meilleure-ia-du-monde-dans-ce-domaine-tres-precis/",
+   "title": "Mistral vient de lancer la 3e meilleure IA du monde dans ce domaine très précis",
+   "source": "Presse-citron",
+   "date": "2026-10-21T11:02:28.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Mistral propose désormais l’une des meilleures IA dans le monde pour la transcription. Celui-ci propose aussi un assistant complet qui est capable de raisonner et d’utiliser des outils, tout en assurant des interactions ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/21/tiktok-accuse-davoir-laisse-des-mineurs-en-danger-malgre-des-alertes-internes/",
+   "title": "TikTok accusé d’avoir laissé des mineurs en danger malgré des alertes internes",
+   "source": "Siècle Digital",
+   "date": "2026-10-21T09:48:35.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "TikTok se retrouve à nouveau sous le feu des critiques. L’entreprise est accusée d’avoir laissé des mineurs en danger alors qu’elle avait reçu plusieurs alertes en interne à ce sujet. Des documents judiciaires mettent en",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/webmarketing/etude-linkedin-marketeurs-b2b-francais-misent-leur-croissance-sur-generation-z-92269/?utm_source=rss&utm_medium=rss&utm_campaign=etude-linkedin-marketeurs-b2b-francais-misent-leur-croissance-sur-generation-z",
+   "title": "Étude LinkedIn : 89 % des marketeurs B2B français misent leur croissance sur la génération Z",
+   "source": "Leptidigital",
+   "date": "2026-10-21T09:45:00.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "Webmarketing"
+   ],
+   "summary": "Vos futurs acheteurs B2B ont moins de 30 ans et se méfient du discours de marque ? Selon une récente étude LinkedIn, 89 % des marketeurs B2B français lient leur croissance à leur influence sur la génération Z et les mill",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/21/pourquoi-amazon-prevoit-dinvestir-16-milliards-deuros-en-allemagne-en-2027/",
+   "title": "Pourquoi Amazon prévoit d’investir 16 milliards d’euros en Allemagne en 2027",
+   "source": "Siècle Digital",
+   "date": "2026-10-21T09:34:36.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Amazon vient d’annoncer sa volonté d’investir plus de 16 milliards d’euros en Allemagne en 2027. L’entreprise prévoit notamment de développer son réseau internet par satellite Amazon Leo ainsi que des centres de données ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/21/face-au-deluge-de-musiques-ia-spotify-retire-50-millions-de-titres-indesirables-de-ses-recommandations/",
+   "title": "Face au déluge de musiques IA, Spotify retire 50 millions de titres indésirables de ses recommandations",
+   "source": "Siècle Digital",
+   "date": "2026-10-21T09:27:59.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Un nouveau phénomène a été observé par Spotify depuis quelques mois. Certains morceaux présentent des caractéristiques de production automatisée. Le système de recommandations a donc été peaufiné. Avec ce nouveau concept",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.abondance.com/20261021-3027287-suivi-position-mesure-visibilite-sociale-ia-minddex.html",
+   "title": "YouTube, Reddit, TikTok : le suivi de positions ne mesure pas la visibilité sociale dans l’IA, selon Minddex",
+   "source": "Abondance",
+   "date": "2026-10-21T09:11:36.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Ce qu'il faut retenir : D'après l'étude Minddex, seules 7,8 % des URL YouTube citées par Google AI Overviews figurent aussi dans les résultats organiques relevés pour la même requête, contre 77,8 % des URL Reddit. 65,0 %",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/21/pour-566-milliards-de-dollars-salesforce-soffre-la-plateforme-marketing-braze/",
+   "title": "Pour 5,66 milliards de dollars, Salesforce s’offre la plateforme marketing Braze",
+   "source": "Siècle Digital",
+   "date": "2026-10-21T09:08:42.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Salesforce a signé un accord pour racheter Braze pour environ 5,66 milliards de dollars. Cette plateforme permet aux marques d’adapter leurs messages au comportement de leurs clients, sur les applications mobiles, les si",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/tpe-et-pme-comment-simplifier-la-gestion-administrative-pour-mieux-se-concentrer-sur-la-croissance/464013",
+   "title": "TPE et PME : comment simplifier la gestion administrative pour mieux se concentrer sur la croissance ?",
+   "source": "FrenchWeb",
+   "date": "2026-10-21T08:46:19.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "Webmarketing"
+   ],
+   "summary": "Les journées des dirigeants de TPE et PME sont souvent bien remplies. Ils doivent répondre aux clients, suivre les commandes, gérer les équipes et développer l’activité. À ces responsabilités s’ajoutent les tâches admini",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/maison-intelligente-7-appareils-samsung-bespoke-ai-a-prix-reduit-pour-passer-a-lelectromenager-connecte/",
+   "title": "Maison intelligente : 7 appareils Samsung Bespoke AI à prix réduit pour passer à l’électroménager connecté",
+   "source": "Presse-citron",
+   "date": "2026-10-21T08:16:30.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "La maison connectée de vos rêves est à votre portée grâce à Samsung.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogduwebdesign.com/blog/tech/motion-design-claude.html",
+   "title": "Motion design avec Claude : créer une animation vidéo, du prompt au MP4",
+   "source": "Blog du Webdesign",
+   "date": "2026-10-21T08:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "UX",
+    "IA"
+   ],
+   "summary": "30 secondes d’animation. 46 lignes de code. Aucune image générée.Vous voulez animer les chiffres d’un client, un titre ou un graphique, sans ouvrir After Effects ? Claude sait le faire : il n’invente pas de vidéo, il écr",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/vente-directe-et-si-les-hoteliers-tenaient-enfin-leur-revanche",
+   "title": "Vente directe : et si les hôteliers tenaient enfin leur revanche ?",
+   "source": "Webmarketing & co'm",
+   "date": "2026-10-21T07:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Vingt ans de domination des plateformes, un règlement européen qui se retourne contre ceux qu'il devait protéger, puis une fenêtre inédite ouverte par l'IA agentique. Encore faut-il que l'hôtel devienne lisible par une m",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/startup-apprendre-communiquer-avec-plantes-grace-ia-ecoute-activite-electrique/",
+   "title": "Cette startup veut apprendre à communiquer avec les plantes grâce à une IA qui « écoute » leur activité électrique",
+   "source": "Presse-citron",
+   "date": "2026-10-21T07:02:15.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Après le texte, l'image, la voix et la vidéo, l'IA est mise à l'épreuve d'un nouveau langage : celui des plantes. C'est le projet d'une start-up américaine, désireuse de décoder leurs signaux électriques pour mieux antic",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/webmarketing/seo/etude-usages-ia-marketeurs-contenus-ia-92266/?utm_source=rss&utm_medium=rss&utm_campaign=etude-usages-ia-marketeurs-contenus-ia",
+   "title": "Étude : 76,6 % des marketeurs jugent le contenu IA moins bon qu’un humain, mais la majorité travaille déjà leur GEO",
+   "source": "Leptidigital",
+   "date": "2026-10-21T06:45:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Le contenu généré par IA convainc-il encore les équipes marketing ? De moins en moins, selon l’étude Basis 2026 : 76,6 % des professionnels interrogés le jugent moins qualitatif que le contenu humain. Ceci dit, plus de l",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/la-multiprise-telle-que-vous-la-connaissez-cest-fini-voici-linvention-au-design-surprenant-qui-la-remplace/",
+   "title": "La multiprise telle que vous la connaissez, c’est fini : voici l’invention au design surprenant qui la remplace",
+   "source": "Presse-citron",
+   "date": "2026-10-21T06:00:03.000Z",
+   "score": 6,
+   "topics": [
+    "UX"
+   ],
+   "summary": "Les prises alignées telles que vous les connaissez se voient remplacées par un cube qui répond aux attentes d'aujourd'hui.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/diesel-des-millions-de-voitures-thermiques-bientot-sauvees-grace-a-cette-decouverte-totalement-inattendue/",
+   "title": "Diesel : des millions de voitures thermiques bientôt sauvées grâce à cette découverte totalement inattendue",
+   "source": "Presse-citron",
+   "date": "2026-10-21T05:58:48.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Une équipe de chercheurs a réalisé une percée majeure dans l’adaptation des moteurs diesel. Une innovation pouvant potentiellement sauver des millions de véhicules menacés par les restrictions environnementales.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/la-bulle-de-lia-menace-dexploser-et-leconomie-mondiale-pourrait-couler-avec-elle-alerte-le-fmi/",
+   "title": "La bulle de l’IA menace d’exploser et l’économie mondiale pourrait couler avec elle, alerte le FMI",
+   "source": "Presse-citron",
+   "date": "2026-10-21T05:00:30.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Si les géants de la tech balaient d’un revers de la main les craintes sur une bulle de l’IA, les analystes financiers, eux, s’inquiètent toujours plus. D’autant que le contexte géopolitique mondial met le feu aux poudres",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/test-garmin-cirqa/",
+   "title": "J’ai testé le Garmin Cirqa, le bracelet sans écran qui fait mieux la nuit que le jour",
+   "source": "Presse-citron",
+   "date": "2026-10-20T16:02:34.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Avec le Cirqa, Garmin s’invite sur le terrain de jeu du Whoop et, depuis peu, Google. La proposition de Garmin se veut audacieuse puisqu’elle est la seule à ne pas reposer sur un abonnement payant. J’ai donc porté le Cir",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/autos-a-quoi-correspond-la-plaque-dimmatriculation-rouge-que-lon-voit-sur-les-voitures-en-france/",
+   "title": "Autos : à quoi correspond la plaque d’immatriculation rouge que l’on voit sur les voitures en France ?",
+   "source": "Presse-citron",
+   "date": "2026-10-20T14:05:28.000Z",
+   "score": 6,
+   "topics": [
+    "CRO"
+   ],
+   "summary": "Voici à quoi correspondent ces plaques rouges que nous croisons sur la route.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/20/peut-on-deviner-ladresse-e-mail-professionnelle-dun-prospect-pour-le-contacter-la-cnil-clarifie-les-regles/",
+   "title": "Peut-on deviner l’adresse e-mail professionnelle d’un prospect pour le contacter ? La CNIL clarifie les règles",
+   "source": "Siècle Digital",
+   "date": "2026-10-20T13:45:57.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Alors que les outils d’IA sont de plus en plus utilisés pour faire de la prospection et deviner des adresses e-mail professionnelles, la CNIL fait le point sur la législation en vigueur. Si ce n’est pas complètement inte",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/20/apres-les-reseaux-sociaux-la-norvege-veut-interdire-certains-jeux-et-messageries-aux-moins-de-16-ans/",
+   "title": "Après les réseaux sociaux, la Norvège veut interdire certains jeux et messageries aux moins de 16 ans",
+   "source": "Siècle Digital",
+   "date": "2026-10-20T13:38:39.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "La Norvège prépare une loi pour limiter l’accès des jeunes aux réseaux sociaux. Certains services pourront être interdits aux moins de 16 ans alors qu’ils n’étaient pas forcément prévus dans le projet initial. Snapchat e",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/20/ovhcloud-prepare-sa-propre-ia-et-son-dirigeant-egratigne-mistral/",
+   "title": "OVHcloud prépare sa propre IA et son dirigeant égratigne Mistral",
+   "source": "Siècle Digital",
+   "date": "2026-10-20T13:32:16.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "OVHcloud est sur le point de terminer son premier modèle de langage. L’entreprise espère publier une première version de son modèle en open source fin novembre, même si Octave Klaba évoque désormais un lancement début 20",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/50-morts-ou-blesses-1-mds-de-de-dommages-voici-comment-anthropic-voudrait-reguler-sa-propre-technologie/",
+   "title": "50 morts ou blessés, 1 Mds de $ de dommages : voici comment Anthropic voudrait réguler sa propre technologie",
+   "source": "Presse-citron",
+   "date": "2026-10-20T13:31:44.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Aux États-Unis, Anthropic plaide en faveur d'une proposition de loi pour réguler l'intelligence artificielle. S'inspirant d'une loi californienne, cette proposition précise les seuils de risque qui devraient déclencher l",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/20/la-generation-z-bouleverse-les-regles-du-marketing-b2b-selon-linkedin/",
+   "title": "La génération Z bouleverse les règles du marketing B2B, selon LinkedIn",
+   "source": "Siècle Digital",
+   "date": "2026-10-20T13:27:58.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "Webmarketing"
+   ],
+   "summary": "Dans les achats professionnels, les jeunes décideurs prennent de plus en plus de poids. LinkedIn a mené une étude auprès de plus de 18 000 professionnels et de 6 000 spécialistes du marketing. Elle montre que 89 % des ex",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/20/deepseek-est-desormais-interdit-dans-les-administrations-americaines-pour-des-raisons-de-securite-nationale/",
+   "title": "DeepSeek dans le viseur des États-Unis pour des raisons de sécurité nationale",
+   "source": "Siècle Digital",
+   "date": "2026-10-20T13:20:47.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Le département de la Sécurité intérieure des États-Unis a annoncé l’interdiction des technologies de l’entreprise chinoise d’intelligence artificielle DeepSeek au sein des agences fédérales civiles américaines. La start-",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/10/20/chatgpt-sintegre-a-google-chrome-et-peut-agir-directement-sur-vos-onglets/",
+   "title": "ChatGPT s’intègre à Google Chrome et peut agir directement sur vos onglets",
+   "source": "Siècle Digital",
+   "date": "2026-10-20T13:13:01.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "ChatGPT peut désormais interagir avec Google Chrome grâce à une extension. Il ne s’agit pas d’une intégration native au navigateur. De quoi lui permettre d’agir sur vos onglets ouverts et de réaliser plusieurs actions da",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/google-lache-quatre-ia-minecraft-aucune-aide-humaine-elles-terminent-jeu-moins-30-h-speedrun-hors-norme/",
+   "title": "Google lâche quatre IA dans Minecraft sans aucune aide humaine : elles terminent le jeu en moins de 30 h, un speedrun hors norme",
+   "source": "Presse-citron",
+   "date": "2026-10-20T13:02:06.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Qui a dit que les IA n'avaient pas le droit de s'amuser à piocher pendant des heures en évitant de se faire péter la tronche par les creepers ? Google a voulu tenter l'expérience : pari réussi, malgré un nombre de ratés ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/une-premiere-station-de-1-500-kw-en-france-va-recharger-les-voitures-electriques-en-5-minutes/",
+   "title": "Une première station de 1 500 kW en France va recharger les voitures électriques en 5 minutes",
+   "source": "Presse-citron",
+   "date": "2026-10-20T12:30:26.000Z",
+   "score": 6,
+   "topics": [
+    "UX"
+   ],
+   "summary": "Les premières stèles seront accessible dans quelques jours. D’ici la fin de l’année, 30 stations de recharge seront disponibles sur le territoire.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/design-system-accessible-reseaux-sociaux-marquer-esprits",
+   "title": "Design system accessible pour les réseaux sociaux : vous voulez marquer les esprits ? Commencez par être lisible !",
+   "source": "Webmarketing & co'm",
+   "date": "2026-10-20T12:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "UX",
+    "Webmarketing"
+   ],
+   "summary": "Vous avez passé des heures à peaufiner votre dernier visuel : palette parfaite, typo stylée, ambiance de marque au top… et pourtant, personne ne s’arrête ? Et si le problème n’était pas votre créativité, mais votre lisib",
+   "takeaway": ""
+  },
   {
    "url": "https://www.presse-citron.net/chatgpt-vient-il-de-tuer-powerpoint-cette-nouvelle-fonctionnalite-genere-des-presentations-a-partir-de-vos-discussions-avec-lia/",
    "title": "ChatGPT vient-il de tuer PowerPoint ? Cette nouvelle fonctionnalité génère des présentations à partir de vos discussions avec l’IA",
@@ -3337,377 +3709,6 @@
     "IA"
    ],
    "summary": "Mistral vient d’officialiser Mistral Large 4, un modèle d’IA parmi les plus puissants du monde des technologies ouvertes (une catégorie dominée par la Chine).",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/06/donald-trump-remplace-l-ia-par-la-super-intelligence-elon-musk-le-suit-et-renomme-spacexai/",
-   "title": "Donald Trump remplace l’« IA » par la « super intelligence », Elon Musk le suit et renomme SpaceXAI",
-   "source": "Siècle Digital",
-   "date": "2026-10-06T14:37:26.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Alors que Donald Trump a déclaré pendant l’Assemblée générale de l’ONU vouloir rebaptiser le terme d’intelligence artificielle par celui de super intelligence, Elon Musk le suit. Ce dernier a annoncé qu’il allait adopter",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/06/comment-lia-agentique-peut-rendre-vos-campagnes-marketing-plus-efficaces/",
-   "title": "[WEBINAIRE GRATUIT] Comment l’IA agentique peut rendre vos campagnes marketing plus efficaces ?",
-   "source": "Siècle Digital",
-   "date": "2026-10-06T14:22:11.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Il est rare que les équipes marketing travaillent avec un seul outil. Elles ont besoin d’un CRM, de contenus, de données, de personnalisation et même d’automatisation. La communication entre ces outils est complexe et l’",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/creator-economy-loi-influence-change-createurs-marques/",
-   "title": "Creator economy : ce que la loi influence a changé pour les créateurs et les marques",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-06T13:52:50.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "L'avocat Alexandre Bigot-Joly est l'invité du podcast Follow Back, produit par Swello en partenariat avec BDM. Dans cet épisode, il revient sur le cadre juridique de la creator economy, entre transparence obligatoire et ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.abondance.com/20261006-2993446-goossips-seo-seo-programmatique-2.html",
-   "title": "Goossips SEO : SEO programmatique",
-   "source": "Abondance",
-   "date": "2026-10-06T13:48:23.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "L’article \"Goossips SEO : SEO programmatique\" a été publié sur le site Abondance.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.abondance.com/20261006-2992597-prochaine-mise-a-jour-massive-google-signaux.html",
-   "title": "Une prochaine mise à jour massive chez Google ? Les signes annonciateurs",
-   "source": "Abondance",
-   "date": "2026-10-06T12:21:35.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Ce qu'il faut retenir : Le 1er octobre 2026, Google a réécrit sa documentation sur les contenus générés par IA : leur vérification humaine avant publication devient « critique », y compris pour les balises title, les met",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/textes-chatgpt-filigrane-invisible/",
-   "title": "Les textes générés par ChatGPT vont intégrer un filigrane invisible",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-06T09:24:30.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "La technologie d'OpenAI oriente le choix des mots de ses modèles pour laisser une empreinte invisible, pouvant être repérée par son détecteur. Mais la méthode a ses failles.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/gemini-limite-modeles-accessibles-version-gratuite/",
-   "title": "Gemini limite les modèles accessibles sur la version gratuite",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-06T09:23:49.000Z",
-   "score": 6,
-   "topics": [
-    "UX",
-    "IA"
-   ],
-   "summary": "À partir du 9 octobre, les comptes Gemini sans abonnement n'auront plus accès qu'au modèle Flash-Lite. Les abonnés AI Plus perdent de leur côté l'accès au modèle Pro.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/gemini-4-argon-vrai-rival-google-claude-opus-5-5-gpt-6-astra-92121/?utm_source=rss&utm_medium=rss&utm_campaign=gemini-4-argon-vrai-rival-google-claude-opus-5-5-gpt-6-astra",
-   "title": "Gemini 4 Argon : enfin un vrai rival de Google pour Claude Opus 5.5 et GPT-6 Astra ?",
-   "source": "Leptidigital",
-   "date": "2026-10-06T08:37:26.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Avec Gemini 4 Argon, Google revient dans le trio de tête de l’IA. Artificial Analysis lui attribue 53 points sur son indice d’intelligence, exactement le score de GPT-6 Astra, pour un coût par tâche bien plus faible. Cla",
-   "takeaway": ""
-  },
-  {
-   "url": "https://blog-ux.com/canva-vs-figma-faq-design/",
-   "title": "Canva vs Figma : quel outil de design choisir en 2026 ?",
-   "source": "Blog UX",
-   "date": "2026-10-06T08:09:24.000Z",
-   "score": 6,
-   "topics": [
-    "UX"
-   ],
-   "summary": "Figma est aujourd’hui utilisé par 95 % des entreprises du Fortune 500 pour concevoir des produits numériques complexes. Mais comment choisir entre la précision technique de cet outil et la simplicité redoutable de Canva ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogduwebdesign.com/blog/business-web/outils-web-francais-europeens.html",
-   "title": "Outils web français et européens : 25 alternatives pour designers, freelances et agences",
-   "source": "Blog du Webdesign",
-   "date": "2026-10-06T07:55:17.000Z",
-   "score": 6,
-   "topics": [
-    "UX",
-    "Webmarketing"
-   ],
-   "summary": "Vos maquettes sont sur Figma. Vos fichiers partent par WeTransfer. Vos mails passent par Gmail, vos textes par ChatGPT. Quatre outils web, quatre entreprises américaines, et vos données clients avec.Ce n’est pas une fata",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/contenu-ia-relecture-enquete-ahrefs-92110/?utm_source=rss&utm_medium=rss&utm_campaign=contenu-ia-relecture-enquete-ahrefs",
-   "title": "Contenu IA et content marketing : ce que révèle l’enquête Ahrefs 2026 est inquiétant… (ou une opportunité ?)",
-   "source": "Leptidigital",
-   "date": "2026-10-06T07:50:44.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "La deuxième enquête d’Ahrefs sur l’utilisation de l’IA dans le content marketing confirme que l’IA est devenue l’outil priviligié pour la rédaction : 93 % des 301 marketeurs interrogés l’utilisent. Mais le chiffre qui po",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.webmarketing-com.com/7-etapes-mettre-en-place-premier-chatbot-sans-code",
-   "title": "7 étapes pour mettre en place son premier chatbot (sans code et sans se perdre)",
-   "source": "Webmarketing & co'm",
-   "date": "2026-10-06T07:30:00.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Lancer un chatbot sans méthode, c'est souvent la garantie d'un outil que personne n'utilise au bout de trois mois. Pas parce que la technologie ne fonctionne pas, mais parce que le périmètre est trop large, le canal mal ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/meilleurs-modeles-ia-llm-55427/?utm_source=rss&utm_medium=rss&utm_campaign=meilleurs-modeles-ia-llm",
-   "title": "Classement : les 20 meilleurs modèles d’IA (LLM) en octobre 2026",
-   "source": "Leptidigital",
-   "date": "2026-10-06T07:15:00.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Au 6 octobre 2026, Claude Opus 5.5 est le meilleur modèle d’IA du marché : 58 points sur l’Intelligence Index d’Artificial Analysis, devant Claude Sonnet 5.5 (56). GPT-6 Astra, Gemini 4 Argon et Claude Fable 5.1 suivent ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/un-tatouage-numerique-chatgpt-se-dote-dun-filigrane-invisible-sur-les-textes-generes-par-ia/",
-   "title": "« Un tatouage numérique » : ChatGPT se dote d’un filigrane invisible sur les textes générés par IA",
-   "source": "Presse-citron",
-   "date": "2026-10-06T07:00:49.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "OpenAI a annoncé l’incorporation d’un filigrane numérique dans les textes générés par ChatGPT et Codex. De quoi repérer plus facilement l’intervention de la machine.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/comparatif-prix-llm-plus-rentables-74692/?utm_source=rss&utm_medium=rss&utm_campaign=comparatif-prix-llm-plus-rentables",
-   "title": "Comparatif des prix des LLM : top 15 des modèles les plus rentables (en 2026)",
-   "source": "Leptidigital",
-   "date": "2026-10-06T06:52:00.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Le LLM le plus rentable du moment s’appelle GPT-6.1 Sol. Sur l’index d’intelligence d’Artificial Analysis, il obtient 51 points pour 0,39 $ la tâche, quand Claude Opus 5.5 facture 1,34 $ pour le même score. Pour les gros",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/adieu-les-parkings-lidl-change-tout-pour-ses-nouveaux-supermarches-en-france/",
-   "title": "Adieu les parkings : Lidl change tout pour ses nouveaux supermarchés en France",
-   "source": "Presse-citron",
-   "date": "2026-10-06T06:07:15.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "D'ici 2035, l'enseigne veut atteindre 2 000 supermarchés en France. Et pour y arriver, elle change de modèle.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/quels-metiers-sont-les-moins-menaces-par-lia-et-lesquels-le-sont-le-plus-anthropic-repond-tres-clairement/",
-   "title": "Quels métiers sont les moins menacés par l’IA, et lesquels le sont le plus ? Anthropic répond très clairement",
-   "source": "Presse-citron",
-   "date": "2026-10-06T06:02:18.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Anthropic publie une nouvelle méthode pour évaluer l’impact de l’intelligence artificielle sur l’emploi. Celle-ci ne s’appuie pas uniquement sur les données théoriques sur les performances de l’IA, mais aussi sur des don",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/meteo-adieu-chaleur-lautomne-arrive-chute-temperatures-brutale-pluie-orages-violents-attendus-large-partie-territoire/",
-   "title": "Météo : adieu la chaleur, l’automne arrive et la chute des températures sera brutale. Pluie et orages parfois violents sont attendus sur une large partie du territoire",
-   "source": "Presse-citron",
-   "date": "2026-10-06T05:31:02.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Difficile de regretter les quatre mois étouffants que nous venons de traverser cet été, mais la semaine qui se profile, caractérisée par une brusque descente du mercure, ne s'annonce pas pour autant plus réjouissante.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/test-gopro-mission-1-pro-ils/",
-   "title": "J’ai testé la GoPro Mission 1 Pro ILS : GoPro change d’objectif",
-   "source": "Presse-citron",
-   "date": "2026-10-06T05:03:18.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "En avril dernier, GoPro avait pris ses fans par surprise en annonçant la gamme Mission 1. Pensée pour les utilisateurs exigeants, elle s’éloigne des traditionnelles GoPro Hero Black et n’est plus présentée comme une camé",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/boite-outils-agences-augmentees-ia-marie-robin-fleet-forward/",
-   "title": "La boite à outil des agences augmentées par l’IA, par Marie Robin (Fleet Forward)",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-06T05:00:05.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Un outil n'a sa place dans une agence que s'il nourrit sa mémoire ou qu'un agent IA peut s'y brancher. Marie Robin, fondatrice de Fleet Forward, livre les 10 abonnements qu'elle garderait si elle devait résilier tous les",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/gemini-gratuit-perd-fonctionnalite-google/",
-   "title": "Votre compte Gemini gratuit perd une importante fonctionnalité le 9 octobre : voici tous les changements que Google vient d’annoncer",
-   "source": "Presse-citron",
-   "date": "2026-10-05T16:03:31.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Les utilisateurs de la version gratuite de Gemini vont perdre un avantage, le 9 octobre. Google ne proposera plus que le modèle \"Flash Lite\" sur celle-ci. Et il faudra prendre un abonnement Google AI Pro ou un abonnement",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/05/anthropic-debloque-100-millions-de-dollars-pour-former-une-nouvelle-generation-dexperts-en-ia/",
-   "title": "Anthropic débloque 100 millions de dollars pour former une nouvelle génération d’experts en IA",
-   "source": "Siècle Digital",
-   "date": "2026-10-05T14:36:56.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Anthropic investit 100 millions de dollars pour lancer la Claude Frontier Academy. Ce programme a pour objectif de former 10 000 ingénieurs au déploiement de l’IA en entreprise. Les ingénieurs logiciels sont de plus en p",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/grille-salaires-marketing-digital-tech-2027-postes-mieux-remuneres-france/",
-   "title": "Grille des salaires marketing, digital et tech en 2027 : les postes les mieux rémunérés en France",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-05T12:53:18.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Le cabinet Robert Half dévoile ses projections de salaires à l'embauche pour 2027. Tour d'horizon des grilles attendues et des compétences qui devraient peser dans les négociations.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/05/la-pepite-europeenne-elevenlabs-voit-sa-valorisation-doubler-a-22-milliards-de-dollars-en-seulement-huit-mois/",
-   "title": "La pépite européenne ElevenLabs voit sa valorisation doubler à 22 milliards de dollars en seulement huit mois",
-   "source": "Siècle Digital",
-   "date": "2026-10-05T12:10:05.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "En seulement huit mois, la start-up londonienne ElevenLabs voit sa valorisation doubler. Spécialisée dans les outils vocaux d’IA, l’entreprise vient d’atteindre une valorisation de 22 milliards de dollars. Une valorisati",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/05/lessor-des-agents-ia-fait-exploser-la-demande-pour-une-nouvelle-competence-dans-les-banques/",
-   "title": "L’essor des agents IA fait exploser la demande pour une nouvelle compétence dans les banques",
-   "source": "Siècle Digital",
-   "date": "2026-10-05T11:45:25.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Les banques américaines ne veulent pas seulement des ingénieurs capables de construire des modèles d’IA. Avec l’essor des agents, elles sont à la recherche de profils capables de les associer afin qu’ils puissent travail",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/google-accusee-davoir-detruit-une-foret-entiere-pour-y-construire-ses-data-centers-une-catastrophe-ecologique/",
-   "title": "Google accusée d’avoir détruit une forêt entière pour y construire ses data centers, une catastrophe écologique",
-   "source": "Presse-citron",
-   "date": "2026-10-05T11:00:59.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Google a détruit pour l’équivalent de 500 terrains de football de forêts en Finlande afin d’y construire des data centers. La colère gronde.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.abondance.com/20261005-2989933-faux-profils-auteurs-documentation-google.html",
-   "title": "« Un signal de page de faible qualité » : Google met en garde contre les faux profils d’auteurs",
-   "source": "Abondance",
-   "date": "2026-10-05T10:03:13.000Z",
-   "score": 6,
-   "topics": [
-    "CRO",
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Ce qu'il faut retenir : Google a ajouté un paragraphe à sa page sur le contenu « people-first », datée du 1er octobre 2026, qui qualifie de tromperie les profils d'auteurs fabriqués. Les exemples cités sont les portraits",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/voiture-electrique-contexte-social-politique-renault-investira-france/",
-   "title": "Voiture électrique : si “le contexte social et politique” le permet, Renault investira 10 milliards d’euros en France au cours des 5 prochaines années",
-   "source": "Presse-citron",
-   "date": "2026-10-05T10:01:31.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Le patron de Renault annonce que le constructeur automobile compte investir 10 milliards d’euros dans la voiture électrique, en France, si “le contexte social et politique” le permet.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/des-hackers-chinois-se-font-passer-pour-des-employes-danthropic-pour-voler-les-secrets-les-plus-sensibles-de-lia-americaine/",
-   "title": "Des hackers chinois se font passer pour des employés d’Anthropic pour voler les secrets les plus sensibles de l’IA américaine",
-   "source": "Presse-citron",
-   "date": "2026-10-05T09:30:21.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Des pirates informatiques auraient usurpé l’identité de chercheurs d’Anthropic et d’officiels du gouvernement pour voler des secrets industriels liés à l’IA. Tous les indices pointent vers un groupe dirigé par la Chine.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/leurope-fait-un-tres-beau-cadeau-aux-utilisateurs-dandroid-en-france-google-est-desormais-force-de-proposer-de-nouvelles-fonctionnalites-aux-rivaux-de-gemini/",
-   "title": "L’Europe fait un très beau cadeau aux utilisateurs d’Android en France : Google est désormais forcé de proposer de nouvelles fonctionnalités aux rivaux de Gemini",
-   "source": "Presse-citron",
-   "date": "2026-10-05T08:51:19.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "La Commission européenne oblige Google à ouvrir Android aux concurrents de Gemini. Cela permettra d’activer les assistants IA tiers avec la voix, et même d’utiliser ces assistants pour réaliser des actions sur les applic",
    "takeaway": ""
   }
  ]
