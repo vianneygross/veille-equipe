@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T11:35:01.278Z",
+ "updatedAt": "2026-10-22T11:35:06.062Z",
  "topics": [
   "UX",
   "CRO",
@@ -8,6 +8,215 @@
   "IA"
  ],
  "items": [
+  {
+   "url": "https://www.presse-citron.net/tiktok-france-groupe-media-racheter-reseau-social/",
+   "title": "Cela vous concerne si vous utilisez TikTok en France : ce célèbre groupe média veut racheter l’activité européenne du réseau social",
+   "source": "Presse-citron",
+   "date": "2026-10-22T11:02:54.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Un groupe européen confirme qu’il serait intéressé par le rachat de l’activité de TikTok dans l’UE, si le système américain était appliqué dans le bloc. Pour rappel, Bytedance a été forcé de céder la majorité de ses part",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/legora-nabla-abridge-les-ressorts-de-lhypercroissance-dune-nouvelle-generation-de-startups/464040",
+   "title": "LEGORA, NABLA, ABRIDGE : les ressorts de l’hypercroissance d’une nouvelle génération de startups",
+   "source": "FrenchWeb",
+   "date": "2026-10-22T10:53:10.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Legora, Pigment, Nabla, Abridge : une nouvelle génération de startups progresse à une vitesse inédite, attirant clients et investisseurs. Leur développement repose sur de nouveaux usages, des moyens financiers importants",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/avis-iphone-duo-premiers-tests/",
+   "title": "Test iPhone Duo : les premiers avis sont tombés, faut-il se laisser tenter par le premier smartphone pliant d’Apple ?",
+   "source": "Presse-citron",
+   "date": "2026-10-22T10:16:31.000Z",
+   "score": 6,
+   "topics": [
+    "UX",
+    "CRO"
+   ],
+   "summary": "Les tests de l'iPhone Duo sont tombés ce mercredi, deux jours avant sa sortie. En France comme aux États-Unis, le verdict est sans appel : l'iPhone Duo est le smartphone pliable dont la conception est la plus soignée. Ma",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/chatgpt-ads-le-seisme-publicitaire-de-la-rentree/464044",
+   "title": "ChatGPT Ads, le séisme publicitaire de la rentrée",
+   "source": "FrenchWeb",
+   "date": "2026-10-22T10:08:07.000Z",
+   "score": 6,
+   "topics": [
+    "UX",
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Par Marjorie Bicaïs, Head of SEA/Média CyberCité Dans le petit monde du digital, c’est LE sujet depuis quelques semaines : que vous soyez annonceur, agence ou même simple utilisateur du fameux LLM, vous n’avez pas pu pas",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/apres-le-show-du-roadster-la-douche-froide-les-benefices-de-tesla-plongent-de-43/",
+   "title": "Après le show du Roadster, la douche froide : les bénéfices de Tesla plongent de 43 %",
+   "source": "Presse-citron",
+   "date": "2026-10-22T10:00:52.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Le constructeur voit ses marges diminuer dangereusement, alors qu’il accélère son virage vers l’IA et la robotique. L’automobile n’est définitivement plus la priorité.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/failles-critiques-php-versions-mettre-a-jour-comment-proteger-serveurs/",
+   "title": "Failles critiques dans PHP : quelles versions mettre à jour et comment protéger ses serveurs",
+   "source": "Blog du Modérateur",
+   "date": "2026-10-22T09:32:58.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "L’équipe de sécurité de PHP a publié en urgence des correctifs pour deux vulnérabilités, dont l’une a été découverte avec l’aide de l’IA. Plusieurs administrations françaises et des sites web ont dû suspendre leurs servi",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/pistage-publicitaire-pourquoi-nouveau-blocage-safari-inquiete-adtech/",
+   "title": "Pistage publicitaire : pourquoi le nouveau blocage de Safari inquiète l’adtech",
+   "source": "Blog du Modérateur",
+   "date": "2026-10-22T08:32:21.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Apple a confirmé le 19 octobre un nouveau blocage dans Safari, qui vise les entreprises qui pistent les internautes à partir de leur adresse email. Une mesure déployée sans préavis, qui commence déjà à peser sur les reve",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/anthropic-lance-claude-duet-agent-ia-proactif/",
+   "title": "Claude Duet : Anthropic lance une application d’agent IA proactif",
+   "source": "Blog du Modérateur",
+   "date": "2026-10-22T08:29:30.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Basée sur Claude Opus 5.5, cette nouvelle application repère ce qui demande de l’attention dans les outils connectés, réalise des tâches en arrière-plan et demande une validation avant d’agir.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogduwebdesign.com/blog/graphisme/inspiration-graphique/game-ui-interfaces-jeux-video.html",
+   "title": "Game UI : 15 interfaces de jeux vidéo qui inspirent le webdesign",
+   "source": "Blog du Webdesign",
+   "date": "2026-10-22T08:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "UX"
+   ],
+   "summary": "Le designer de l’interface de Metaphor: ReFantazio n’avait jamais travaillé sur un jeu vidéo. Il venait du web.Ce détail dit beaucoup. Menus, jauges, notices, cartes : les meilleures interfaces de jeux résolvent les même",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/affaire-thelyson-orelien-lediteur-boreal-lache-son-auteur-et-affirme-quil-a-eu-recours-a-lia/",
+   "title": "Affaire Thélyson Orélien : l’éditeur Boréal lâche son auteur et affirme qu’il a eu recours à l’IA",
+   "source": "Presse-citron",
+   "date": "2026-10-22T07:53:08.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "L’écrivain nie pour sa part avoir eu recours à cette technologie.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/ecrans-entreprises-usages-bonnes-pratiques-communication-interne/",
+   "title": "Écrans en entreprise : usages et bonnes pratiques pour la communication interne",
+   "source": "Blog du Modérateur",
+   "date": "2026-10-22T07:44:29.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Emails, intranet et messageries collaboratives peuvent mal atteindre les salariés qui travaillent loin d'un ordinateur. Les écrans installés dans les locaux comblent ce manque, à condition d'en faire un canal à part enti",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/geo-citations-chatgpt-claude-perplexity",
+   "title": "GEO : ce que j’ai appris en mesurant nos citations dans ChatGPT, Claude et Perplexity",
+   "source": "Webmarketing & co'm",
+   "date": "2026-10-22T07:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Fin septembre, j'ai posé à plusieurs assistants IA les questions que nos prospects tapent dans Google. Je travaille dans une agence qui conseille ses clients sur la visibilité dans les moteurs génératifs ; le résultat au",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/robotique-enact-leve-pres-de-27-millions-deuros-pour-developper-le-sens-du-toucher/464031",
+   "title": "Robotique : ENACT lève près de 27 millions d’euros pour développer le sens du toucher",
+   "source": "FrenchWeb",
+   "date": "2026-10-22T06:21:20.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "La startup zurichoise réunit près de 27 millions d’euros en préamorçage pour développer des robots capables de mieux percevoir les forces et d’ajuster leurs mouvements au contact des objets. Son pari consiste à concevoir",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/cest-une-pepite-francaise-de-lia-et-elle-vient-de-signer-une-levee-de-fonds-record-3-choses-a-savoir-sur-pigment/",
+   "title": "C’est une pépite française de l’IA, et elle vient de signer une levée de fonds record : 3 choses à savoir sur Pigment",
+   "source": "Presse-citron",
+   "date": "2026-10-22T05:00:06.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Il n’y a pas que Mistral AI en France. Une autre start-up, plus discrète, s’impose comme un véritable poids lourd de l’IA, et séduit même les géants de la tech. Elle s’appelle Pigment.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/oppo-find-x10-pro-max-test/",
+   "title": "Je cherchais le smartphone parfait depuis un bail, puis je suis tombé sur l’Oppo Find X10 Pro Max",
+   "source": "Presse-citron",
+   "date": "2026-10-21T15:05:41.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Le Find X10 Pro Max est le nouveau smartphone haut de gamme d’Oppo. J’ai pu l’essayer pendant un mois et il m’a conquis. Voici pourquoi.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.journaldunet.com/solutions/dsi/1555251-votre-dns-fonctionne-mais-est-il-suffisamment-securise/",
+   "title": "Votre DNS fonctionne, mais est-il suffisamment sécurisé ?",
+   "source": "JDN E-business",
+   "date": "2026-10-21T14:52:01.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Mal protégé ou mal géré, le DNS peut fragiliser la sécurité et l'activité de l'entreprise. Prévenir ces risques exige des protections adaptées, mais aussi les compétences pour les mettre en œuvre.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.journaldunet.com/solutions/dsi/1555581-souverainete-numerique-et-si-la-vraie-liberte-residait-dans-la-robustesse-plutot-que-dans-la-surperformance/",
+   "title": "Souveraineté numérique : et si la vraie liberté résidait dans la robustesse plutôt que dans la surperformance ?",
+   "source": "JDN E-business",
+   "date": "2026-10-21T14:51:31.000Z",
+   "score": 6,
+   "topics": [
+    "UX"
+   ],
+   "summary": "Conserver la maîtrise de son patrimoine informationnel face aux lois extraterritoriales est une démarche stratégique et opérationnelle accessible à toutes les organisations.",
+   "takeaway": ""
+  },
   {
    "url": "https://siecledigital.fr/2026/10/21/chatgpt-permet-de-verrouiller-vos-conversations-pour-les-garder-a-labri-des-regards/",
    "title": "ChatGPT permet de verrouiller vos conversations pour les garder à l’abri des regards",
@@ -42,6 +251,19 @@
     "IA"
    ],
    "summary": "Mistral propose désormais l’une des meilleures IA dans le monde pour la transcription. Celui-ci propose aussi un assistant complet qui est capable de raisonner et d’utiliser des outils, tout en assurant des interactions ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/chiffres-cles-internet-reseaux-sociaux-monde-octobre-2026/",
+   "title": "Les chiffres clés d’Internet et des réseaux sociaux dans le monde en octobre 2026",
+   "source": "Blog du Modérateur",
+   "date": "2026-10-21T10:32:17.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "IA générative, trafic web, réseaux sociaux : quels sont les usages numériques en octobre 2026 ? Les réponses avec le Digital 2027, le nouveau rapport de We Are Social et Meltwater.",
    "takeaway": ""
   },
   {
@@ -240,6 +462,19 @@
     "IA"
    ],
    "summary": "Avec le Cirqa, Garmin s’invite sur le terrain de jeu du Whoop et, depuis peu, Google. La proposition de Garmin se veut audacieuse puisqu’elle est la seule à ne pas reposer sur un abonnement payant. J’ai donc porté le Cir",
+   "takeaway": ""
+  },
+  {
+   "url": "https://blog-ux.com/meilleurs-logiciels-presentation-comparatif/",
+   "title": "Top 3 des meilleurs logiciels de présentation en 2026",
+   "source": "Blog UX",
+   "date": "2026-10-20T15:12:59.000Z",
+   "score": 6,
+   "topics": [
+    "UX",
+    "Webmarketing"
+   ],
+   "summary": "Le top 3 des meilleurs logiciels de présentation pour vous aider à identifier la solution adaptée à vos besoins spécifiques. Ce comparatif décortique les forces de chaque plateforme afin de transformer vos idées en suppo",
    "takeaway": ""
   },
   {
@@ -3473,242 +3708,6 @@
     "Webmarketing"
    ],
    "summary": "Un rapport parlementaire, publié ce mercredi, recommande d’interdire la vente de Red Bull, Monster et autres boissons énergisantes aux moins de 16 ans. Son rapporteur, l’ancien ministre de la Santé Yannick Neuder, alerte",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/instagram-6-freins-strategie-2027/",
-   "title": "Instagram : 6 freins à identifier avant de bâtir votre stratégie 2027",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-07T08:25:26.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Score sur 100, benchmark sectoriel et conseils actionnables : l'audit Instagram gratuit d'Auguste permet de repartir sur des bases solides avant de relancer sa stratégie social media.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/anthropic-lance-extension-claude-google-docs-sheets-slides/",
-   "title": "Anthropic lance une extension Claude pour Google Docs, Sheets et Slides",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-07T08:21:47.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Anthropic aborde Google Workspace par les deux bouts, avec une extension qui travaille dans le fichier ouvert et des connecteurs qui pilotent Docs, Sheets et Slides depuis le chat.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/chatgpt-filigrane-ue-changements-contenus-marketing-92133/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-filigrane-ue-changements-contenus-marketing",
-   "title": "ChatGPT filigrané dans l’UE : ce que ça change pour vos contenus marketing",
-   "source": "Leptidigital",
-   "date": "2026-10-07T08:15:42.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "OpenAI a confirmé le 5 octobre 2026 qu’un filigrane invisible, baptisé textGrain, sera ajouté dans les prochaines semaines aux textes générés par ChatGPT et Codex dans l’Union européenne, dans le même esprit que Claude. ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.abondance.com/20261007-2994729-annonce-mistral-le-chonk-large-4.html",
-   "title": "Le Chonk : Mistral dévoile Large 4, un modèle ouvert à 1 000 milliards de paramètres",
-   "source": "Abondance",
-   "date": "2026-10-07T08:14:55.000Z",
-   "score": 6,
-   "topics": [
-    "UX",
-    "IA"
-   ],
-   "summary": "Ce qu'il faut retenir : Mistral a ouvert le 6 octobre 2026 la préversion de Mistral Large 4 (ML4), un modèle multimodal de 1 000 milliards de paramètres, accessible dès maintenant par API sur Mistral Studio. Selon Mistra",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.webmarketing-com.com/standardistes-ia-faut-il-automatiser-dernier-canal-humain-relation-client",
-   "title": "Standardistes IA : faut-il vraiment automatiser le dernier canal humain de la relation client ?",
-   "source": "Webmarketing & co'm",
-   "date": "2026-10-07T07:30:00.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Pendant des années, le téléphone a résisté à presque toutes les vagues d’automatisation de la relation client. Les sites se sont enrichis de FAQ, les formulaires sont devenus plus sophistiqués, les chatbots se sont multi",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/pourquoi-agents-ia-echouent-entreprise/",
-   "title": "Pourquoi les agents IA échouent en entreprise",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-07T07:15:22.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Mémoire absente, chemin figé, validation floue : Raphaël Khalifa, fondateur de Syniaps, détaille les trois causes qui font échouer les projets d’agents IA en entreprise.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/the-batman-part-ii-tournage-suspendu-realisateur-pause-raisons-personnelles/",
-   "title": "The Batman Part II voit son tournage suspendu : le réalisateur doit faire une pause pour des raisons personnelles",
-   "source": "Presse-citron",
-   "date": "2026-10-07T05:32:55.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Dire que le film est maudit serait un euphémisme. Depuis 2022, il semble y avoir une véritable conspiration pour empêcher Robert Pattinson de renfiler la cape du Chevalier Noir.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/outils-gratuits-detecter-signaler-contenu-genere-ia/",
-   "title": "12 outils gratuits pour détecter et signaler un contenu généré par IA",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-07T05:00:26.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Depuis le 2 août 2026, l'AI Act impose de signaler certains contenus produits par IA. Nous avons sélectionné 12 outils gratuits pour déclarer un contenu généré par IA et analyser un texte, une image ou une vidéo dont la ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.frenchweb.fr/mistral-veut-peser-dans-lindustrie-de-lia-pas-seulement-dans-les-discours-demmanuel-macron/463791",
-   "title": "MISTRAL veut peser dans l’industrie de l’IA, pas seulement dans les discours d’Emmanuel Macron",
-   "source": "FrenchWeb",
-   "date": "2026-10-07T04:58:19.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Érigée par Emmanuel Macron en étendard de l’innovation française, Mistral a porté sur les scènes nationale et internationale les ambitions de la « startup nation ». Le costume était oversized pour une entreprise encore s",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/pourquoi-moustiques-continuent-ils-nous-envahir-automne/",
-   "title": "Pourquoi les moustiques continuent-ils de nous envahir, même en plein automne ?",
-   "source": "Presse-citron",
-   "date": "2026-10-06T16:03:06.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Après la canicule de cet été, ils auraient tous dû crever, mais ces petits vampires sur pattes sont toujours présents, alors même que l'automne a commencé depuis plus de deux semaines. Qu'est-ce qui ne tourne pas rond ?",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/elle-gagnait-1-600-e-dallocation-chomage-et-avait-600-000-e-sur-son-compte-une-femme-va-devoir-tout-rembourser-a-rembourser-ladministration/",
-   "title": "Elle gagnait 1 600 € d’allocation chômage et avait 600 000 € sur son compte : une femme va devoir tout rembourser à rembourser l’administration",
-   "source": "Presse-citron",
-   "date": "2026-10-06T15:46:48.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Une histoire très peu banale.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/mistral-large-4-mistral-ai-veut-reduire-ecart-modeles-open-weight-chinois/",
-   "title": "Mistral Large 4 : Mistral AI veut réduire l’écart avec les modèles open weight chinois",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-06T15:17:48.000Z",
-   "score": 6,
-   "topics": [
-    "CRO",
-    "IA"
-   ],
-   "summary": "Mistral AI présente Mistral Large 4 comme le meilleur modèle à poids ouverts d'Europe et des États-Unis. Un lancement très attendu pour une entreprise soupçonnée d'avoir décroché face aux laboratoires chinois et américai",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/claude-code-personnalisable-mods/",
-   "title": "Claude Code devient plus personnalisable grâce aux mods",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-06T15:15:23.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Anthropic veut que chaque développeur puisse adapter Claude Code à sa manière de travailler.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/06/les-textes-de-chatgpt-seront-bientot-reconnaissables-grace-a-un-filigrane-invisible/",
-   "title": "Les textes de ChatGPT seront bientôt reconnaissables grâce à un filigrane invisible",
-   "source": "Siècle Digital",
-   "date": "2026-10-06T15:14:02.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Afin de se conformer aux exigences de l’AI Act, ChatGPT va intégrer un système de marquage invisible dans les textes qu’il génère. Une méthode qui sera déployée dans l’Union européenne dans les semaines à venir. Un filig",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/06/google-suspend-ses-recompenses-pour-la-decouverte-de-failles-submerge-par-les-rapports-generes-par-ia/",
-   "title": "Google suspend ses récompenses pour la découverte de failles, submergé par les rapports générés par IA",
-   "source": "Siècle Digital",
-   "date": "2026-10-06T15:08:46.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Pour améliorer la sécurité des produits, Google mise de plus en plus sur l’IA. Les chercheurs externes sont toutefois à l’origine d’un problème inattendu. Depuis le 1er octobre, le programme OSS VRP est en pause. Il réco",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/06/arnaques-piratages-sam-altman-estime-que-certaines-derives-de-lia-sont-inevitables/",
-   "title": "Arnaques, piratages… Sam Altman estime que certaines dérives de l’IA sont inévitables",
-   "source": "Siècle Digital",
-   "date": "2026-10-06T15:04:23.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Au cours d’une interview pour Politico, le patron d’OpenAI, Sam Altman, a affirmé que certaines dérives liées au développement de l’IA étaient inévitables et que « le monde devrait accepter que certaines mauvaises choses",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/06/gemini-va-devenir-beaucoup-moins-puissant-pour-les-utilisateurs-qui-ne-paient-pas/",
-   "title": "Gemini va devenir beaucoup moins puissant pour les utilisateurs qui ne paient pas",
-   "source": "Siècle Digital",
-   "date": "2026-10-06T14:54:40.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Google a mis à jour sa documentation pour annoncer qu’à partir du 9 octobre, l’accès à ses modèles Gemini serait restreint pour les utilisateurs qui ne paient pas. Ces derniers ne pourront plus profiter de Gemini Flash e",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/06/sony-music-demande-le-retrait-de-260-000-chansons-generees-par-ia/",
-   "title": "Sony Music demande le retrait de 260 000 chansons générées par IA",
-   "source": "Siècle Digital",
-   "date": "2026-10-06T14:45:02.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "De nombreux morceaux exploitent la voix et l’identité des artistes de Sony Music. Le label a demandé aux plateformes de supprimer près de 260 000 titres générés à l’aide de l’IA. À la fin du mois de mars, ce nombre s’éle",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/mistral-large-4-france-rattrape-chine-ia-ouverts/",
-   "title": "Mistral Large 4 est officiel : la France rattrape enfin la Chine en proposant l’un des meilleurs modèles d’IA ouverts du monde entier",
-   "source": "Presse-citron",
-   "date": "2026-10-06T14:43:26.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Mistral vient d’officialiser Mistral Large 4, un modèle d’IA parmi les plus puissants du monde des technologies ouvertes (une catégorie dominée par la Chine).",
    "takeaway": ""
   }
  ]
