@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T15:27:25.346Z",
+ "updatedAt": "2026-11-03T13:58:47.779Z",
  "topics": [
   "UX",
   "CRO",
@@ -8,6 +8,314 @@
   "IA"
  ],
  "items": [
+  {
+   "url": "https://www.leptidigital.fr/webmarketing/seo/etudes-declenchement-ai-overviews-google-semrush-se-ranking-99413/",
+   "title": "AI Overviews partout dans Google ? Ce que les études de Semrush et SE Ranking nous révèlent",
+   "source": "Leptidigital",
+   "date": "2026-11-03T13:47:40.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Les AI Overviews s’affichent-ils vraiment sur 80 % des recherches Google ? Semrush et SE Ranking viennent de publier deux études qui le laissent penser, mais elles ne mesurent ni le même périmètre ni le même marché. Voic",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webrankinfo.com/dossiers/ia/bloquer-chatgpt-openai",
+   "title": "Bloquer ChatGPT et OpenAI sur son site",
+   "source": "WebRankInfo",
+   "date": "2026-11-03T13:37:04.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "OpenAi et ChatGPT peuvent utiliser les contenus de votre site pour \"apprendre\" (et fournir des réponses). Si vous souhaitez (essayer de) les bloquer, lisez cet article.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webrankinfo.com/dossiers/ia/chatgpt-search",
+   "title": "Conseils SEO pour ChatGPT Search",
+   "source": "WebRankInfo",
+   "date": "2026-11-03T13:32:01.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "ChatGPT Search pourrait prendre de l'ampleur dans les mois et années à venir. Voici des conseils pour optimiser la visibilité de votre site dans le moteur de recherche d'OpenAI.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webrankinfo.com/dossiers/ia/fichier-llms-txt",
+   "title": "Le fichier LLMS.txt",
+   "source": "WebRankInfo",
+   "date": "2026-11-03T13:29:27.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Le fichier llms.txt est une proposition pour aider les éditeurs de sites à mieux interagir avec les IA comme ChatGPT ou Gemini. Attention aux idées reçues : ce fichier est mal compris par beaucoup. Je vais vous expliquer",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webrankinfo.com/dossiers/ia/crawlers",
+   "title": "Liste des crawlers des moteurs IA",
+   "source": "WebRankInfo",
+   "date": "2026-11-03T13:27:22.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Si vous souhaitez les bloquer ou au contraire assurer qu'ils accèdent bien à votre site, voici la liste des principaux crawlers des \"moteurs IA\" (ChatGPT, Gemini, Perplexity, Claude, Mistral et tous les autres)",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webrankinfo.com/dossiers/ia/comment-assurer-un-bon-crawl-des-moteurs-ia",
+   "title": "Comment assurer un bon crawl des moteurs IA",
+   "source": "WebRankInfo",
+   "date": "2026-11-03T13:25:19.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Les moteurs IA comme ChatGPT, Claude ou Perplexity explorent aussi vos pages. Pour que vos contenus soient correctement crawlés et utilisés par ces systèmes, vous devez vérifier plusieurs points techniques. Voici ce qu'i",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/redmagic-12-pro-test/",
+   "title": "J’ai testé le REDMAGIC 12 Pro, un téléphone dédié aux g@m3rz : est-il un incontournable de son segment ?",
+   "source": "Presse-citron",
+   "date": "2026-11-03T12:00:12.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Le REDMAGIC 12 Pro est le nouveau smartphone de la marque chinoise REDMAGIC. Pour se démarquer, il mise tout sur un segment bien particulier : le gaming.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/webmarketing/etude-performances-publicites-chatgpt-vs-google-ads-quelle-rentabilite-99410/",
+   "title": "Étude sur les performances des publicités ChatGPT vs Google Ads : quelle rentabilité espérer ?",
+   "source": "Leptidigital",
+   "date": "2026-11-03T09:30:21.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Combien rapporte vraiment un clic sur une publicité ChatGPT ? Deux chercheurs européens viennent de publier un rare comparatif indépendant entre ChatGPT Ads et Google Search, chiffres de ventes à l’appui. De quoi intéres",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/quiz-vocabulaire-social-media-manager/",
+   "title": "Newsjacking, UGC, dark posting : maîtrisez-vous vraiment le vocabulaire du social media manager ?",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-03T09:09:18.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Les acronymes et anglicismes obscurs du social media n’ont aucun secret pour vous ? Testez vos connaissances avec notre quiz.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/comment-happyvore-mise-humour-positivite-se-demarquer-reseaux-sociaux/",
+   "title": "Comment HappyVore mise sur l’humour et la positivité pour se démarquer sur les réseaux sociaux",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-03T09:05:31.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Laura Wawerka, responsable marque et communication chez HappyVore, est l’invitée du podcast Follow Back, produit par Swello en partenariat avec BDM. Elle y décrypte la stratégie social media de la marque végétale et sa g",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.abondance.com/20261103-3058144-pilotage-seo-sedestral-connexion-mcp-claude-chatgpt.html",
+   "title": "Piloter son SEO depuis son IA : Sedestral connecte ses agents à Claude et ChatGPT grâce au MCP",
+   "source": "Abondance",
+   "date": "2026-11-03T08:27:22.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Le MCP en deux mots, et pourquoi c’est un game changer pour le SEO Ouvrez Claude ou ChatGPT chez la plupart des référenceurs, et vous y trouverez une bonne partie de leur journée : analyse d'un export Search Console, réd",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/inconnu-25-ans-vit-depuis-plus-mois-terminal-dun-aeroport-personne-sait-qui-il-est/",
+   "title": "Un inconnu de 25 ans vit depuis plus d’un mois dans le terminal d’un aéroport et personne ne sait qui il est",
+   "source": "Presse-citron",
+   "date": "2026-11-03T06:31:44.000Z",
+   "score": 6,
+   "topics": [
+    "Parcours utilisateur"
+   ],
+   "summary": "Cet homme habite dans un hall du terminal de l'aéroport de Naples-Capodichino (Italie), sans déranger les voyageurs. Visiblement amnésique, il ne parvient pas à raconter son parcours ni à expliquer comment il s'est retro",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/frigos-pirates-les-installations-locales-angle-mort-de-la-cybersecurite-des-enseignes/900000015?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "title": "Frigos piratés : les installations locales, angle mort de la cybersécurité des enseignes",
+   "source": "FrenchWeb",
+   "date": "2026-11-03T06:14:55.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "CYBER IRL · La rédaction · 03/11/2026 Trois semaines après les attaques contre des supermarchés français, de nouveaux incidents frappent le froid commercial en Europe. Des installations locales révèlent les limites de la",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/infrastructures-numeriques-suivre-essor-ia/",
+   "title": "Les infrastructures numériques peuvent-elles suivre l’essor de l’IA ?",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-03T06:00:47.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Maher El Fekih, président de Colt Technology Services France, explique à BDM pourquoi la connectivité limite désormais l’IA, au même titre que l’énergie et les GPU.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/android-grande-nouveaute-samsung-lunettes-connectees-google/",
+   "title": "Après les PC sous Android, une autre grande nouveauté arrive : Samsung lancerait enfin ses lunettes connectées, développées avec Google, avant la fin de l’année",
+   "source": "Presse-citron",
+   "date": "2026-11-03T05:57:10.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Samsung et Google travaillent sur des lunettes connectées pour concurrencer les Ray-Ban Meta. Et le produit serait enfin lancé à la mi-décembre, d’après un média coréen.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/commerce-agentique-guide-pratique-pour-preparer-votre-entreprise/900000013?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "title": "Commerce agentique : guide pratique pour préparer votre entreprise",
+   "source": "FrenchWeb",
+   "date": "2026-11-03T05:49:36.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "PARTNER'S VOICE · Partners'Voice · 03/11/2026 Avec les agents IA, les boutiques en ligne doivent apprendre à vendre à des intermédiaires capables de comparer et d’acheter pour le compte des consommateurs. Données produit",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/elon-musk-reconnait-ia-grok-coute-beaucoup-trop-cher-malgre-succes-fulgurant/",
+   "title": "Elon Musk reconnaît que son IA Grok lui coûte beaucoup trop cher, malgré son succès fulgurant",
+   "source": "Presse-citron",
+   "date": "2026-11-02T19:02:11.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Grok, l'enfant terrible dont Elon Musk était si fier, qu'il nous a vanté à maintes reprises comme étant le chatbot « supérieur » aus autres, est aussi celui qui crame le plus rapidement la trésorerie de son entreprise, x",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/etre-une-femme-dans-lespace-cest-la-panacee-sophie-adenot-nous-livre-un-temoignage-inedit-sur-ladaptation-du-corps-feminin-en-orbite/",
+   "title": "« Être une femme dans l’espace, c’est la panacée » : Sophie Adenot nous livre un témoignage inédit sur l’adaptation du corps féminin en orbite",
+   "source": "Presse-citron",
+   "date": "2026-11-02T18:00:08.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "L’astronaute française l’assure : le corps féminin s’adapte très bien aux conditions de l’apesanteur.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/adobe-offre-firefly-acrobat-semrush-startups/",
+   "title": "Adobe offre un an de Firefly, Acrobat et Semrush aux startups : comment en profiter",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-02T17:00:44.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Adobe lance Adobe for Startups, un programme qui donne accès gratuitement pendant 12 mois à Firefly Pro Plus, Acrobat Studio et Semrush. Il s'adresse aux startups de moins de cinq ans ayant levé moins de 15 millions de d",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.abondance.com/20261102-3056564-reddit-baisse-trafic-connexion-obligatoire.html",
+   "title": "Trafic Google en baisse : Reddit va tester la connexion obligatoire pour accéder au site",
+   "source": "Abondance",
+   "date": "2026-11-02T16:20:15.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Ce qu'il faut retenir : Interrogé par CNBC le 29 octobre 2026, Steve Huffman, PDG de Reddit, affirme que le trafic issu de Google a baissé de manière significative au troisième trimestre, en raison d'AI Overviews et d'AI",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/02/google-openai-et-microsoft-promettent-de-ne-plus-utiliser-certains-contenus-pour-entrainer-leurs-ia/",
+   "title": "Google, OpenAI et Microsoft s’accordent pour permettre aux sites web de refuser l’utilisation de leurs contenus par les IA",
+   "source": "Siècle Digital",
+   "date": "2026-11-02T16:07:05.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Google, OpenAI et Microsoft se sont mis d’accord pour permettre aux éditeurs de sites web de refuser plus facilement l’utilisation de leurs contenus pour entraîner les intelligences artificielles. De quoi simplifier les ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/02/openai-rapproche-chatgpt-et-codex-en-unifiant-leurs-quotas-dutilisation/",
+   "title": "OpenAI rapproche ChatGPT et Codex en unifiant leurs quotas d’utilisation",
+   "source": "Siècle Digital",
+   "date": "2026-11-02T15:58:11.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Plusieurs nouveautés ont été déployées par ChatGPT ces dernières semaines. Après avoir temporairement limité l’accès à l’offre à 200 dollars en raison d’une forte demande, OpenAI annonce aujourd’hui de nouveaux quotas. S",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/02/tiktok-etend-ses-activites-et-sattaque-au-marche-de-la-recommandation-de-restaurants/",
+   "title": "TikTok étend ses activités et s’attaque au marché de la recommandation de restaurants",
+   "source": "Siècle Digital",
+   "date": "2026-11-02T15:52:18.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Au départ, TikTok était un réseau social ; il a ensuite ouvert un Shop et, désormais, il propose Must Eat. Il s’agit d’un guide de restaurants qui doit concurrencer Google Maps et Yelp. Vous y trouverez des avis, la poss",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/02/instagram-propose-jusqua-500-000-dollars-aux-createurs-de-youtube-pour-les-attirer-sur-sa-plateforme/",
+   "title": "Instagram prêt à débourser jusqu’à 500 000 dollars pour attirer les créateurs de contenus présents sur YouTube",
+   "source": "Siècle Digital",
+   "date": "2026-11-02T15:47:02.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Instagram a dévoilé une nouvelle fonctionnalité, baptisée Features, qui permet à certains créateurs de publier des vidéos d’une durée maximale de 90 minutes. Aujourd’hui, la plateforme semble chercher du contenu pour la ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/02/cinq-organisations-francaises-dediteurs-de-presse-portent-plainte-contre-google-pour-son-ia/",
+   "title": "Cinq organisations françaises portent plainte contre Google pour dénoncer l’impact de ses réponses IA sur le trafic des sites web",
+   "source": "Siècle Digital",
+   "date": "2026-11-02T15:43:16.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Cinq organisations françaises d’éditeurs de sites web, le CPA, la FNPS, le GESTE, le SEPM et le SPIIL, ont déposé plainte contre Google auprès de la Commission européenne. Une plainte concernant les fonctionnalités d’int",
+   "takeaway": ""
+  },
   {
    "url": "https://www.frenchweb.fr/french-tech-la-bataille-des-10-millions-d-euros-portee-par-paul-midy/900000010?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
    "title": "French Tech : la bataille des 10 millions d’euros portée par Paul Midy",
@@ -3405,316 +3713,6 @@
     "IA"
    ],
    "summary": "Vos pages sont citées dans les Aperçus IA, mais les clics ne suivent pas ? Google vient d’annoncer des liens plus nombreux et placés plus haut dans les réponses du Mode IA et des Aperçus IA, et des liens connexes avec mi",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/webmarketing/seo/cite-apercus-ia-sans-clics-changements-google-92243/",
-   "title": "Cité dans les Aperçus IA mais sans clics ? Google promet des changements (ce qu’il faut retenir)",
-   "source": "Leptidigital",
-   "date": "2026-10-19T07:38:05.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Vos pages sont citées dans les Aperçus IA, mais les clics ne suivent pas ? Google vient d’annoncer des liens plus nombreux et placés plus haut dans les réponses du Mode IA et des Aperçus IA, et des liens connexes avec mi",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.webmarketing-com.com/automatisation-contenu-integrer-api-synchroniser-reseaux-sociaux-dynamiser-inbound-marketing",
-   "title": "Automatisation de contenu : comment intégrer des API pour synchroniser tes réseaux sociaux et dynamiser ton Inbound Marketing",
-   "source": "Webmarketing & co'm",
-   "date": "2026-10-19T07:30:00.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Soyons honnêtes : quand on travaille dans le marketing digital, le début du mois peut vite devenir un petit casse-tête. Ton calendrier éditorial est devant toi, tu viens de terminer un excellent article de blog après plu",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/ils-ont-calcule-voici-ce-quon-economiserait-en-remplacant-un-vehicule-diesel-par-un-electrique/",
-   "title": "Ils ont calculé : voici ce qu’on économiserait en remplaçant un véhicule diesel par un électrique",
-   "source": "Presse-citron",
-   "date": "2026-10-19T06:03:56.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Un avis de l’Ademe montrerait les économies qu’on fait lorsqu’on remplace une voiture diesel par une voiture électrique neuve, en tenant compte du prix d’achat, mais aussi des prix de recharge ou du plein et des coûts d’",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/adieu-les-amendes-pour-exces-de-vitesse-voici-le-tableau-des-marges-derreur-de-radar-en-octobre-2026/",
-   "title": "Adieu les amendes pour excès de vitesse : voici le tableau des marges d’erreur de radar en octobre 2026",
-   "source": "Presse-citron",
-   "date": "2026-10-19T06:00:30.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Entre la vitesse réelle, la vitesse affichée sur le compteur et la vitesse prise en compte par le radar, difficile de s'en sortir. Pour vous simplifier les règles, vous trouverez ci-dessous le tableau officiel avec les m",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/selection-formation-devops-322/",
-   "title": "5 formations pour devenir DevOps",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-19T06:00:25.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Notre sélection de formations de la semaine est dédiée à celles et ceux souhaitant se spécialiser dans ce domaine à la frontière entre le développement web et les opérations.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.frenchweb.fr/pourquoi-leurope-pourrait-devenir-le-premier-marche-mondial-des-robots-humanoides/462732",
-   "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes",
-   "source": "FrenchWeb",
-   "date": "2026-10-19T05:52:25.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Les robots humanoïdes ne sont plus un simple exercice de démonstration technologique, depuis deux ans, les annonces se multiplient : Tesla accélère le développement d’Optimus, Figure AI déploie ses premiers robots dans l",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.frenchweb.fr/pourquoi-leurope-pourrait-devenir-le-premier-marche-mondial-des-robots-humanoides/462732?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-   "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes",
-   "source": "FrenchWeb",
-   "date": "2026-10-19T05:52:25.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "INDUSTRIAL SHIFT · LA REDACTION DE FRENCHWEB.FR · 19/10/2026 Les robots humanoïdes ne sont plus un simple exercice de démonstration technologique, depuis deux ans, les annonces se multiplient : Tesla accélère le développ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/google-traduction-change-de-visage-sur-android-voici-ce-qui-va-vraiment-changer/",
-   "title": "Google Traduction change de visage sur Android : voici ce qui va vraiment changer",
-   "source": "Presse-citron",
-   "date": "2026-10-19T05:33:59.000Z",
-   "score": 6,
-   "topics": [
-    "UX",
-    "Webmarketing"
-   ],
-   "summary": "Google Traduction s’offre un nouveau design résolument plus moderne.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/jai-teste-les-enceintes-denon-home-200-400-600-et-oui-jai-ete-seduit-laudio-multiroom-en-2026/",
-   "title": "J’ai testé les enceintes Denon Home 200, 400, 600 et oui, j’ai été séduit l’audio multiroom… en 2026",
-   "source": "Presse-citron",
-   "date": "2026-10-19T05:00:28.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Porté par Sonos depuis plus de deux décennies, l’audio multiroom semblait dernièrement être retombé dans les limbes. Avec ses nouvelles enceintes Home 200, 400 et 600, Denon veut redonner de l’éclat à cette pratique. Nou",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/notion-5-questions-david-tibbitts-head-product-marketing/",
-   "title": "Notion vu de l’intérieur : 5 questions à David Tibbitts, Product Marketing",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-19T05:00:22.000Z",
-   "score": 6,
-   "topics": [
-    "CRO",
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Arrivé chez Notion fin 2018, David Tibbitts revient sur sa première année passée au support, la croissance portée par la communauté, les coulisses du lancement de Notion AI et la fermeture de Notion Mail.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/test-iphone-18-pro-apple/",
-   "title": "J’ai testé l’iPhone 18 Pro pendant 1 mois : la valeur sûre, si on ne regarde pas ailleurs",
-   "source": "Presse-citron",
-   "date": "2026-10-18T16:02:48.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Moins innovant, mais plus mature que le très attendu iPhone Duo, l’iPhone 18 Pro a de sacrés arguments à faire valoir. Parmi eux, sa nouvelle puce A20 Pro ultra-puissante, l’autonomie améliorée ou encore l’appareil photo",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/quand-la-banque-dit-non-cette-pepite-francaise-a-une-astuce-peu-commune-pour-financer-vos-travaux-de-renovation/",
-   "title": "Quand la banque dit non, cette pépite française a une astuce peu commune pour financer vos travaux de rénovation",
-   "source": "Presse-citron",
-   "date": "2026-10-18T12:00:11.000Z",
-   "score": 6,
-   "topics": [
-    "Parcours utilisateur"
-   ],
-   "summary": "Entre l'inflation, la hausse du coût de l'énergie et la frilosité des banques face aux dossiers complexes, rénover sa maison relève souvent du parcours du combattant. La startup française Vasco propose une alternative au",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/carte-bancaire-adieu-le-code-a-4-chiffres-voici-la-methode-qui-le-remplace-des-aujourdhui-en-france/",
-   "title": "Carte bancaire : adieu le code à 4 chiffres, voici la méthode qui le remplace dès aujourd’hui en France",
-   "source": "Presse-citron",
-   "date": "2026-10-18T11:36:22.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Une nouvelle technique s’impose peu à peu au sein des banques françaises",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/adieu-les-parkings-lidl-change-tout-pour-ses-nouveaux-magasins-en-france/",
-   "title": "Adieu les parkings : Lidl change tout pour ses nouveaux magasins en France",
-   "source": "Presse-citron",
-   "date": "2026-10-18T08:47:15.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "D'ici 2035, l'enseigne veut atteindre 2 000 supermarchés en France. Et pour y arriver, elle change de modèle.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/test-opel-corsa-gse-comment-tours-circuit-coute-moins-un-euro/",
-   "title": "J’ai testé l’Opel Corsa GSE : comment mes tours de circuit pied au plancher m’ont coûté moins d’un euro",
-   "source": "Presse-citron",
-   "date": "2026-10-18T08:00:54.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "L’Opel Corsa GSE ne fait pas dans le paraître. Son truc à elle, c’est la puissance sur route et l’agilité sur piste. Bluffant, d’autant plus que le coût d'utilisation a de quoi faire sourire même à rythme élevé. Suis-je ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/acer-googlebook-14-test/",
-   "title": "Test de l’Acer Googlebook 14 : let it cook",
-   "source": "Presse-citron",
-   "date": "2026-10-18T06:00:31.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Que vaut l’Acer Googlebook 14, parmi les premiers représentants des Googlebook ? Voici notre test.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://blog-ux.com/meilleures-plateformes-freelance-designers-ux-ui/",
-   "title": "Top 3 des plateformes freelance pour designers UX/UI",
-   "source": "Blog UX",
-   "date": "2026-10-17T15:12:06.000Z",
-   "score": 6,
-   "topics": [
-    "UX",
-    "Webmarketing"
-   ],
-   "summary": "Le top 3 des meilleures plateformes freelance pour designers UX/UI afin de vous aider à sélectionner l’écosystème le plus adapté à vos ambitions professionnelles. Le marché du freelancing numérique connaît une expansion ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogduwebdesign.com/blog/tech/artcraft-clones-adobe-gratuits-claude.html",
-   "title": "ArtCraft : des clones gratuits d’Adobe codés avec Claude, notre test de PhotoCraft",
-   "source": "Blog du Webdesign",
-   "date": "2026-10-17T08:00:00.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Un Photoshop gratuit, open source, qui tourne sous Linux et dans le navigateur. Codé en quelques jours par un seul développeur, avec une IA. C’est la promesse d’ArtCraft, lancé le 8 octobre 2026 : sept logiciels qui repr",
-   "takeaway": ""
-  },
-  {
-   "url": "https://blog-ux.com/memoire-ux-design-comment-presenter-ses-resultats-de-tests-utilisateurs/",
-   "title": "Mémoire UX Design : comment présenter ses résultats de tests utilisateurs",
-   "source": "Blog UX",
-   "date": "2026-10-16T14:11:53.000Z",
-   "score": 6,
-   "topics": [
-    "UX"
-   ],
-   "summary": "Dans un mémoire, il ne suffit pas de montrer qu’on a fait des tests. Ce qu’on attend de vous, c’est de savoir les analyser, les organiser et en tirer des recommandations qu’on peut vraiment appliquer. En clair, il s’agit",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/webmarketing/seo/pdf-et-seo-indexation-liens-limite-selon-google-92203/?utm_source=rss&utm_medium=rss&utm_campaign=pdf-et-seo-indexation-liens-limite-selon-google",
-   "title": "PDF et SEO : indexation, liens et limite de 64 Mo selon Google",
-   "source": "Leptidigital",
-   "date": "2026-10-16T13:18:24.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Vous publiez vos livres blancs, études ou fiches techniques en PDF ? Dans l’épisode 115 de Search Off the Record, Martin Splitt et John Mueller (Google) détaillent comment ces fichiers sont indexés, jusque dans les fonct",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/webmarketing/seo/pdf-et-seo-indexation-liens-limite-selon-google-92203/",
-   "title": "PDF et SEO : indexation, liens et limite de 64 Mo selon Google",
-   "source": "Leptidigital",
-   "date": "2026-10-16T13:18:24.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Vous publiez vos livres blancs, études ou fiches techniques en PDF ? Dans l’épisode 115 de Search Off the Record, Martin Splitt et John Mueller (Google) détaillent comment ces fichiers sont indexés, jusque dans les fonct",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/meta-puissante-ia-muse-spark-open/",
-   "title": "Cette nouveauté Meta vous permet d’avoir une puissante IA à la maison. Il faudra juste dépenser une fortune pour faire tourner Muse Spark Open localement",
-   "source": "Presse-citron",
-   "date": "2026-10-16T10:02:48.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Meta vient de présenter Muse Spark Open, un modèle ouvert qui rivalise avec les concurrents chinois, et qui peut tourner localement sur des Mac Studio.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/16/chatgpt-accuse-de-mettre-les-enfants-en-danger-huit-etats-americains-attaquent-openai/",
-   "title": "ChatGPT accusé de mettre les enfants en danger, huit États américains attaquent OpenAI",
-   "source": "Siècle Digital",
-   "date": "2026-10-16T09:40:46.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "La question de la sécurité des enfants face à ces chatbots prend de l’ampleur, notamment aux États-Unis. Des poursuites ont été engagées contre OpenAI par huit États le 14 octobre dernier. Ils accusent ChatGPT d’exposer ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/16/voici-les-20-startups-francaises-qui-pourraient-exploser-en-2026-selon-linkedin/",
-   "title": "Voici les 20 startups françaises qui pourraient exploser en 2026 selon LinkedIn",
-   "source": "Siècle Digital",
-   "date": "2026-10-16T09:33:42.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Pour la neuvième édition, LinkedIn vient de dévoiler son classement des Top Startups. À partir des données de la plateforme, ce dernier rassemble les 20 startups françaises qui pourraient bien exploser en 2026. Mistral A",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/16/mozilla-devoile-firefox-enterprise-un-navigateur-qui-mise-sur-la-securite-pour-seduire-les-pros/",
-   "title": "Mozilla dévoile Firefox Enterprise, un navigateur qui mise sur la sécurité pour séduire les pros",
-   "source": "Siècle Digital",
-   "date": "2026-10-16T09:27:42.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Les navigateurs donnent accès à des SaaS, à des données internes ou encore à des outils collaboratifs. Ils occupent aussi une place centrale du côté des assistants d’IA. Mozilla souhaite miser sur cette évolution avec Fi",
    "takeaway": ""
   }
  ]
