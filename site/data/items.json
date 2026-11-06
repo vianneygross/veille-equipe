@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T14:27:49.672Z",
+ "updatedAt": "2026-11-06T14:04:43.432Z",
  "topics": [
   "UX",
   "CRO",
@@ -8,6 +8,242 @@
   "IA"
  ],
  "items": [
+  {
+   "url": "https://www.leptidigital.fr/webmarketing/chatgpt-ads-openai-change-fonctionnement-encheres-des-9-novembre-99471/",
+   "title": "ChatGPT Ads : OpenAI change le fonctionnement de ses enchères (dès le 9 novembre)",
+   "source": "Leptidigital",
+   "date": "2026-11-06T13:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "OpenAI fait évoluer les stratégies d’enchères de ChatGPT Ads. À partir du 9 novembre 2026, les annonceurs pourront utiliser Target CPA et Target CPC à la place de Max Bid et Max CPC pour leurs nouvelles campagnes. Un cha",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/prospection-linkedin-4086-invitations-apprennent-qui-accepte-et-qui-repond",
+   "title": "Prospection LinkedIn : ce que 4 086 invitations nous apprennent sur qui accepte et qui répond",
+   "source": "Webmarketing & co'm",
+   "date": "2026-11-06T13:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "On lit beaucoup de conseils sur la prospection LinkedIn, et peu de chiffres. Combien d'invitations sont acceptées ? Est-ce que la source du contact compte plus que le message ? Faut-il relancer, et combien de fois ? J'ai",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/ils-ont-tout-calcule-voici-ce-quon-economiserait-en-remplacant-un-vehicule-diesel-par-un-electrique/",
+   "title": "Ils ont tout calculé : voici ce qu’on économiserait en remplaçant un véhicule diesel par un électrique",
+   "source": "Presse-citron",
+   "date": "2026-11-06T12:58:56.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Un avis de l’Ademe montrerait les économies qu’on fait lorsqu’on remplace une voiture diesel par une voiture électrique neuve, en tenant compte du prix d’achat, mais aussi des prix de recharge ou du plein et des coûts d’",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/certificat-ia-15-ans-ue-eduquer-intelligence-artificielle/",
+   "title": "Bientôt, un certificat d’IA à 15 ans : l’UE déroule son plan pour éduquer les ados à l’intelligence artificielle",
+   "source": "Presse-citron",
+   "date": "2026-11-06T10:57:10.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "La Commission européenne vient de présenter son plan pour améliorer les systèmes éducatifs et y a intégré un certificat d’intelligence artificielle délivré aux élèves à 15 ans.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/gemini-omni-1-2-flash-google-nouveautes-99469/",
+   "title": "Google lance Gemini Omni 1.2 Flash (avec deux changements qui vont plaire)",
+   "source": "Leptidigital",
+   "date": "2026-11-06T10:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Google vient de dévoiler Gemini Omni 1.2 Flash, une nouvelle version de son modèle de génération vidéo par intelligence artificielle : des vidéos plus longues, des modifications simplifiées et des tarifs revus à la baiss",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/anthropic-devoile-personal-finance-outil-suivre-gerer-finances-claude/",
+   "title": "Anthropic dévoile Personal Finance, un outil pour suivre et gérer ses finances avec Claude",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-06T09:42:49.000Z",
+   "score": 6,
+   "topics": [
+    "Parcours utilisateur",
+    "IA"
+   ],
+   "summary": "Près de six mois après OpenAI, Anthropic propose à son tour une fonctionnalité dédiée aux finances personnelles. Elle est d'abord déployée en bêta aux États-Unis, pour les abonnés Pro, Max et Ultra.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/openai-lance-gpt-6-cyber/",
+   "title": "OpenAI lance GPT-6 Cyber, un modèle d’IA dédié à la recherche de failles de sécurité",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-06T09:42:22.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "OpenAI étoffe son offre dédiée à la sécurité avec un modèle classé « critique », qui conçoit des attaques fonctionnelles. Mozilla a déjà publié des correctifs pour de nombreuses failles détectées dans Firefox.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/chatgpt-images-2-6-openai-ajoute-gif-animes-export-svg-images-reference-sauvegardees-99466/",
+   "title": "OpenAI lance ChatGPT Images 2.6 : GIF animés, SVG… (ce qu’il faut savoir)",
+   "source": "Leptidigital",
+   "date": "2026-11-06T08:52:17.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Vos équipes créa réalisent encore leurs GIF et leurs SVG à la main ? OpenAI vient de lancer ChatGPT Images 2.6, qui supporte désormais les GIF animés, images de référence réutilisables, annotation et l’export en SVG. Ope",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/guide-reporting-social-media-data-studio/",
+   "title": "Reporting social media : le guide pour créer et automatiser son tableau de bord avec Data Studio",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-06T08:11:13.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Comment créer un reporting social media vraiment utile, et l’automatiser sans perdre en fiabilité ? Bryan Coder partage sa méthode pour construire un tableau de bord sur mesure avec Data Studio.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/3-000-milliards-envoles-en-24-heures-lia-vit-son-pire-jeudi-noir-a-wall-street-le-debut-dune-nouvelle-ere/",
+   "title": "3 000 milliards envolés en 24 h : l’IA vit son pire jeudi noir à Wall Street, le début d’une nouvelle ère ?",
+   "source": "Presse-citron",
+   "date": "2026-11-06T07:45:30.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Les élections américaines viennent de porter un coup de massue historique au secteur de la tech. C’est la fin de la carte blanche accordée par le président.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.abondance.com/20261106-3063834-nddcamp-rennes-2026-20-novembre.html",
+   "title": "NDD Camp Rennes : le 20 novembre, sur les extensions géographiques et le GEO",
+   "source": "Abondance",
+   "date": "2026-11-06T07:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Ce qu'il faut retenir : Le NDD Camp Rennes a lieu le vendredi 20 novembre 2026, de 9h à 18h, au Carré des Alliés (1 rue de l'Alma). J'interviens à 10h00 sur les extensions géographiques et à 15h15 sur le SEO et le GEO. L",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/instagram-editeur-controler-ia/",
+   "title": "Vous n’avez plus besoin d’être bon en montage pour créer de bonnes vidéos : Instagram lance un éditeur qu’on peut contrôler avec l’IA",
+   "source": "Presse-citron",
+   "date": "2026-11-06T06:27:42.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Instagram vient de lancer la version pour ordinateur d’Edits, sont outil de montage vidéo, sur macOS. Celle-ci propose une palette complète d’outils et peut être contrôlée par un agent IA, grâce au protocole MCP.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/immobilier-qui-controlera-l-agence-a-l-heure-de-l-ia/900000027?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "title": "Immobilier : qui contrôlera l’agence à l’heure de l’IA?",
+   "source": "FrenchWeb",
+   "date": "2026-11-06T05:42:49.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "IA"
+   ],
+   "summary": "PROPTECH · La rédaction de FrenchWeb.fr · 06/11/2026 À RENT 2026, les éditeurs installés et les startups proposent de prendre en charge une part croissante du travail immobilier. De la recherche d’un logement au suivi de",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/gestion-entreprise/tableau-de-bord-social-objectifs-indicateurs-et-exemples-pour-piloter-vos-rh-99464/",
+   "title": "Tableau de bord social : objectifs, indicateurs et exemples pour piloter vos RH",
+   "source": "Leptidigital",
+   "date": "2026-11-06T05:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Les données sociales d’une entreprise vivent rarement au même endroit : les absences dans le SIRH, les salaires dans la paie, les entrées et sorties dans un fichier Excel tenu par une seule personne. Résultat, chaque que",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.abondance.com/20261105-3063664-parasite-seo-google-actions-manuelles-notifications-europe.html",
+   "title": "Parasite SEO : Google prévient les sites que leurs actions manuelles ne s’appliquent plus en Europe",
+   "source": "Abondance",
+   "date": "2026-11-05T17:51:35.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Ce qu'il faut retenir : Google envoie depuis début novembre 2026 des e-mails et des notifications Search Console aux sites sanctionnés pour « site reputation abuse », selon des captures partagées par le consultant Glenn ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/05/le-marche-des-createurs-de-contenu-explose-en-france-avec-une-croissance-de-24-en-un-an/",
+   "title": "Le marché des créateurs de contenu explose en France avec une croissance de 24 % en un an",
+   "source": "Siècle Digital",
+   "date": "2026-11-05T15:16:24.000Z",
+   "score": 6,
+   "topics": [
+    "CRO"
+   ],
+   "summary": "Le marché des créateurs de contenu est en pleine expansion partout dans le monde. En France, ce dernier a augmenté de près de 24 % en seulement un an. Ce qui place le pays au 7e rang mondial. Un marché français qui est e",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/05/snapchat-depasse-les-30-millions-dabonnes-payants-un-nouveau-record-pour-le-reseau-social/",
+   "title": "Snapchat dépasse les 30 millions d’abonnés payants, un nouveau record pour le réseau social",
+   "source": "Siècle Digital",
+   "date": "2026-11-05T15:12:59.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "Webmarketing"
+   ],
+   "summary": "Selon le communiqué de presse de Snapchat, le cap des 30 millions d’abonnés payants a été franchi, toutes offres confondues. Depuis février, une hausse de 5 millions d’abonnés a même été relevée. Cela montre que les offr",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/05/canva-en-difficulte-face-a-lia-plus-de-1-200-salaries-concernes-par-une-restructuration/",
+   "title": "Canva en difficulté face à l’IA, plus de 1 200 salariés concernés par une restructuration",
+   "source": "Siècle Digital",
+   "date": "2026-11-05T15:09:12.000Z",
+   "score": 6,
+   "topics": [
+    "UX",
+    "CRO",
+    "IA"
+   ],
+   "summary": "Alors que l’intelligence artificielle prend de plus en plus de place, le site de création graphique Canva se retrouve confronté à un ralentissement de sa croissance. L’entreprise lance une restructuration majeure de ses ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/la-multiprise-telle-que-vous-la-connaissez-cest-termine-voici-linvention-au-design-surprenant-qui-est-en-train-de-la-remplacer/",
+   "title": "La multiprise telle que vous la connaissez, c’est terminé : voici l’invention au design surprenant qui est en train de la remplacer",
+   "source": "Presse-citron",
+   "date": "2026-11-05T14:56:03.000Z",
+   "score": 6,
+   "topics": [
+    "UX"
+   ],
+   "summary": "Les prises alignées telles que vous les connaissez se voient remplacées par un cube qui répond aux attentes d'aujourd'hui.",
+   "takeaway": ""
+  },
   {
    "url": "https://www.frenchweb.fr/domiciliation-d-entreprise-bien-choisir-son-adresse/900000026?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
    "title": "Domiciliation d'entreprise : bien choisir son adresse",
@@ -3471,243 +3707,6 @@
     "IA"
    ],
    "summary": "Mistral propose désormais l’une des meilleures IA dans le monde pour la transcription. Celui-ci propose aussi un assistant complet qui est capable de raisonner et d’utiliser des outils, tout en assurant des interactions ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/chiffres-cles-internet-reseaux-sociaux-monde-octobre-2026/",
-   "title": "Les chiffres clés d’Internet et des réseaux sociaux dans le monde en octobre 2026",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-21T10:32:17.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "IA générative, trafic web, réseaux sociaux : quels sont les usages numériques en octobre 2026 ? Les réponses avec le Digital 2027, le nouveau rapport de We Are Social et Meltwater.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/21/tiktok-accuse-davoir-laisse-des-mineurs-en-danger-malgre-des-alertes-internes/",
-   "title": "TikTok accusé d’avoir laissé des mineurs en danger malgré des alertes internes",
-   "source": "Siècle Digital",
-   "date": "2026-10-21T09:48:35.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "TikTok se retrouve à nouveau sous le feu des critiques. L’entreprise est accusée d’avoir laissé des mineurs en danger alors qu’elle avait reçu plusieurs alertes en interne à ce sujet. Des documents judiciaires mettent en",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/webmarketing/etude-linkedin-marketeurs-b2b-francais-misent-leur-croissance-sur-generation-z-92269/?utm_source=rss&utm_medium=rss&utm_campaign=etude-linkedin-marketeurs-b2b-francais-misent-leur-croissance-sur-generation-z",
-   "title": "Étude LinkedIn : 89 % des marketeurs B2B français misent leur croissance sur la génération Z",
-   "source": "Leptidigital",
-   "date": "2026-10-21T09:45:00.000Z",
-   "score": 6,
-   "topics": [
-    "CRO",
-    "Webmarketing"
-   ],
-   "summary": "Vos futurs acheteurs B2B ont moins de 30 ans et se méfient du discours de marque ? Selon une récente étude LinkedIn, 89 % des marketeurs B2B français lient leur croissance à leur influence sur la génération Z et les mill",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/webmarketing/etude-linkedin-marketeurs-b2b-francais-misent-leur-croissance-sur-generation-z-92269/",
-   "title": "Étude LinkedIn : 89 % des marketeurs B2B français misent leur croissance sur la génération Z",
-   "source": "Leptidigital",
-   "date": "2026-10-21T09:45:00.000Z",
-   "score": 6,
-   "topics": [
-    "CRO",
-    "Webmarketing"
-   ],
-   "summary": "Vos futurs acheteurs B2B ont moins de 30 ans et se méfient du discours de marque ? Selon une récente étude LinkedIn, 89 % des marketeurs B2B français lient leur croissance à leur influence sur la génération Z et les mill",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/21/pourquoi-amazon-prevoit-dinvestir-16-milliards-deuros-en-allemagne-en-2027/",
-   "title": "Pourquoi Amazon prévoit d’investir 16 milliards d’euros en Allemagne en 2027",
-   "source": "Siècle Digital",
-   "date": "2026-10-21T09:34:36.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Amazon vient d’annoncer sa volonté d’investir plus de 16 milliards d’euros en Allemagne en 2027. L’entreprise prévoit notamment de développer son réseau internet par satellite Amazon Leo ainsi que des centres de données ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/21/face-au-deluge-de-musiques-ia-spotify-retire-50-millions-de-titres-indesirables-de-ses-recommandations/",
-   "title": "Face au déluge de musiques IA, Spotify retire 50 millions de titres indésirables de ses recommandations",
-   "source": "Siècle Digital",
-   "date": "2026-10-21T09:27:59.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Un nouveau phénomène a été observé par Spotify depuis quelques mois. Certains morceaux présentent des caractéristiques de production automatisée. Le système de recommandations a donc été peaufiné. Avec ce nouveau concept",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.abondance.com/20261021-3027287-suivi-position-mesure-visibilite-sociale-ia-minddex.html",
-   "title": "YouTube, Reddit, TikTok : le suivi de positions ne mesure pas la visibilité sociale dans l’IA, selon Minddex",
-   "source": "Abondance",
-   "date": "2026-10-21T09:11:36.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Ce qu'il faut retenir : D'après l'étude Minddex, seules 7,8 % des URL YouTube citées par Google AI Overviews figurent aussi dans les résultats organiques relevés pour la même requête, contre 77,8 % des URL Reddit. 65,0 %",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/21/pour-566-milliards-de-dollars-salesforce-soffre-la-plateforme-marketing-braze/",
-   "title": "Pour 5,66 milliards de dollars, Salesforce s’offre la plateforme marketing Braze",
-   "source": "Siècle Digital",
-   "date": "2026-10-21T09:08:42.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Salesforce a signé un accord pour racheter Braze pour environ 5,66 milliards de dollars. Cette plateforme permet aux marques d’adapter leurs messages au comportement de leurs clients, sur les applications mobiles, les si",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.frenchweb.fr/tpe-et-pme-comment-simplifier-la-gestion-administrative-pour-mieux-se-concentrer-sur-la-croissance/464013",
-   "title": "TPE et PME : comment simplifier la gestion administrative pour mieux se concentrer sur la croissance ?",
-   "source": "FrenchWeb",
-   "date": "2026-10-21T08:46:19.000Z",
-   "score": 6,
-   "topics": [
-    "CRO",
-    "Webmarketing"
-   ],
-   "summary": "Les journées des dirigeants de TPE et PME sont souvent bien remplies. Ils doivent répondre aux clients, suivre les commandes, gérer les équipes et développer l’activité. À ces responsabilités s’ajoutent les tâches admini",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.frenchweb.fr/tpe-et-pme-comment-simplifier-la-gestion-administrative-pour-mieux-se-concentrer-sur-la-croissance/464013?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-   "title": "TPE et PME : comment simplifier la gestion administrative pour mieux se concentrer sur la croissance ?",
-   "source": "FrenchWeb",
-   "date": "2026-10-21T08:46:19.000Z",
-   "score": 6,
-   "topics": [
-    "CRO",
-    "Webmarketing"
-   ],
-   "summary": "TOPICS INDEX · Partners’ Voice · 21/10/2026 Les journées des dirigeants de TPE et PME sont souvent bien remplies. Ils doivent répondre aux clients, suivre les commandes, gérer les équipes et développer l’activité. À ces ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/maison-intelligente-7-appareils-samsung-bespoke-ai-a-prix-reduit-pour-passer-a-lelectromenager-connecte/",
-   "title": "Maison intelligente : 7 appareils Samsung Bespoke AI à prix réduit pour passer à l’électroménager connecté",
-   "source": "Presse-citron",
-   "date": "2026-10-21T08:16:30.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "La maison connectée de vos rêves est à votre portée grâce à Samsung.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogduwebdesign.com/blog/tech/motion-design-claude.html",
-   "title": "Motion design avec Claude : créer une animation vidéo, du prompt au MP4",
-   "source": "Blog du Webdesign",
-   "date": "2026-10-21T08:00:00.000Z",
-   "score": 6,
-   "topics": [
-    "UX",
-    "IA"
-   ],
-   "summary": "30 secondes d’animation. 46 lignes de code. Aucune image générée.Vous voulez animer les chiffres d’un client, un titre ou un graphique, sans ouvrir After Effects ? Claude sait le faire : il n’invente pas de vidéo, il écr",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.webmarketing-com.com/vente-directe-et-si-les-hoteliers-tenaient-enfin-leur-revanche",
-   "title": "Vente directe : et si les hôteliers tenaient enfin leur revanche ?",
-   "source": "Webmarketing & co'm",
-   "date": "2026-10-21T07:30:00.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Vingt ans de domination des plateformes, un règlement européen qui se retourne contre ceux qu'il devait protéger, puis une fenêtre inédite ouverte par l'IA agentique. Encore faut-il que l'hôtel devienne lisible par une m",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/startup-apprendre-communiquer-avec-plantes-grace-ia-ecoute-activite-electrique/",
-   "title": "Cette startup veut apprendre à communiquer avec les plantes grâce à une IA qui « écoute » leur activité électrique",
-   "source": "Presse-citron",
-   "date": "2026-10-21T07:02:15.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Après le texte, l'image, la voix et la vidéo, l'IA est mise à l'épreuve d'un nouveau langage : celui des plantes. C'est le projet d'une start-up américaine, désireuse de décoder leurs signaux électriques pour mieux antic",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/webmarketing/seo/etude-usages-ia-marketeurs-contenus-ia-92266/?utm_source=rss&utm_medium=rss&utm_campaign=etude-usages-ia-marketeurs-contenus-ia",
-   "title": "Étude : 76,6 % des marketeurs jugent le contenu IA moins bon qu’un humain, mais la majorité travaille déjà leur GEO",
-   "source": "Leptidigital",
-   "date": "2026-10-21T06:45:00.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Le contenu généré par IA convainc-il encore les équipes marketing ? De moins en moins, selon l’étude Basis 2026 : 76,6 % des professionnels interrogés le jugent moins qualitatif que le contenu humain. Ceci dit, plus de l",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/webmarketing/seo/etude-usages-ia-marketeurs-contenus-ia-92266/",
-   "title": "Étude : 76,6 % des marketeurs jugent le contenu IA moins bon qu’un humain, mais la majorité travaille déjà leur GEO",
-   "source": "Leptidigital",
-   "date": "2026-10-21T06:45:00.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Le contenu généré par IA convainc-il encore les équipes marketing ? De moins en moins, selon l’étude Basis 2026 : 76,6 % des professionnels interrogés le jugent moins qualitatif que le contenu humain. Ceci dit, plus de l",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/la-multiprise-telle-que-vous-la-connaissez-cest-fini-voici-linvention-au-design-surprenant-qui-la-remplace/",
-   "title": "La multiprise telle que vous la connaissez, c’est fini : voici l’invention au design surprenant qui la remplace",
-   "source": "Presse-citron",
-   "date": "2026-10-21T06:00:03.000Z",
-   "score": 6,
-   "topics": [
-    "UX"
-   ],
-   "summary": "Les prises alignées telles que vous les connaissez se voient remplacées par un cube qui répond aux attentes d'aujourd'hui.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/diesel-des-millions-de-voitures-thermiques-bientot-sauvees-grace-a-cette-decouverte-totalement-inattendue/",
-   "title": "Diesel : des millions de voitures thermiques bientôt sauvées grâce à cette découverte totalement inattendue",
-   "source": "Presse-citron",
-   "date": "2026-10-21T05:58:48.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Une équipe de chercheurs a réalisé une percée majeure dans l’adaptation des moteurs diesel. Une innovation pouvant potentiellement sauver des millions de véhicules menacés par les restrictions environnementales.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/la-bulle-de-lia-menace-dexploser-et-leconomie-mondiale-pourrait-couler-avec-elle-alerte-le-fmi/",
-   "title": "La bulle de l’IA menace d’exploser et l’économie mondiale pourrait couler avec elle, alerte le FMI",
-   "source": "Presse-citron",
-   "date": "2026-10-21T05:00:30.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Si les géants de la tech balaient d’un revers de la main les craintes sur une bulle de l’IA, les analystes financiers, eux, s’inquiètent toujours plus. D’autant que le contexte géopolitique mondial met le feu aux poudres",
    "takeaway": ""
   }
  ]
