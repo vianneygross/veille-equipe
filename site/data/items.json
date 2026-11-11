@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T14:42:03.400Z",
+ "updatedAt": "2026-11-11T13:57:53.033Z",
  "topics": [
   "UX",
   "CRO",
@@ -8,6 +8,243 @@
   "IA"
  ],
  "items": [
+  {
+   "url": "https://www.presse-citron.net/adieu-microsoft-excel-voici-la-nouvelle-alternative-integree-a-claude/",
+   "title": "Adieu Microsoft Excel : voici la nouvelle alternative intégrée à Claude",
+   "source": "Presse-citron",
+   "date": "2026-11-11T11:03:30.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Anthropic muscle son concurrent de Microsoft Office. Claude dispose désormais d’une alternative à Microsoft Excel qui est directement intégré au chatbot IA. Juste avant son IPO, l’entreprise veut positionner son chatbot ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.abondance.com/20261111-3074272-google-core-update-de-novembre-2026-nouvelle-mise-a-jour.html",
+   "title": "Google Core Update de novembre 2026 : nouvelle mise à jour !",
+   "source": "Abondance",
+   "date": "2026-11-11T10:28:25.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "L’article \"Google Core Update de novembre 2026 : nouvelle mise à jour !\" a été publié sur le site Abondance.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/cycliste-waze-garmin-securite-routiere/",
+   "title": "Attention, cycliste devant : Waze et Garmin annoncent une collaboration qui va améliorer la sécurité routière",
+   "source": "Presse-citron",
+   "date": "2026-11-11T10:02:17.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "Webmarketing"
+   ],
+   "summary": "Waze va afficher une alerte pour prévenir les conducteurs s’ils sont sur le point de dépasser ou de croiser un cycliste, à condition que celui-ci utilise un produit Garmin compatible. Cette alerte vise à réduire les risq",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.abondance.com/20261111-3074128-business-hub-openai-chatgpt-lancement.html",
+   "title": "Business Hub : OpenAI permet aux entreprises de revendiquer leur fiche dans ChatGPT",
+   "source": "Abondance",
+   "date": "2026-11-11T09:41:45.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Ce qu'il faut retenir : OpenAI a lancé le 10 novembre 2026, en bêta, Businesses in ChatGPT, qui permet à toute entreprise éligible de revendiquer sa fiche via le Business Hub, partout où ChatGPT est disponible. Une fois ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/du-sujet-a-wordpress-comment-automatiser-chaine-editoriale-seo-avec-ia",
+   "title": "Du sujet à WordPress : comment automatiser une chaîne éditoriale SEO avec l’IA sans perdre le contrôle",
+   "source": "Webmarketing & co'm",
+   "date": "2026-11-11T08:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "L’IA générative a rendu la production de contenus plus rapide. Mais gagner du temps sur la rédaction ne suffit pas à construire une stratégie éditoriale performante. Le vrai enjeu est ailleurs : comment automatiser une p",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogduwebdesign.com/blog/tech/adobe-max-2026.html",
+   "title": "Adobe MAX 2026 : les annonces qui comptent pour les designers",
+   "source": "Blog du Webdesign",
+   "date": "2026-11-11T08:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "UX",
+    "Webmarketing"
+   ],
+   "summary": "Vous tapez une phrase. Photoshop, Illustrator ou Premiere enchaînent les retouches à votre place. C’est la promesse qu’Adobe a martelée le 10 novembre 2026, en ouverture d’Adobe MAX à Miami Beach.Sur scène, tout a l’air ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/asus-proart-p14-test/",
+   "title": "J’ai testé l’Asus ProArt P14 : sa puce Nvidia RTX Spark, conçue pour les pros de l’IA, peut-elle convenir pour le grand public ?",
+   "source": "Presse-citron",
+   "date": "2026-11-11T07:00:28.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Grâce à sa puce Nvidia RTX Spark, le ProArt P14 excelle dans de nombreux domaines, allant de la création graphique aux jeux, en passant par toutes les tâches, plus ou moins intensives, faisant appel à l'IA. Si ses 128 Go",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/chatgpt-lance-fiches-entreprises-statistiques-mentions-clics/",
+   "title": "ChatGPT lance les fiches entreprises, avec statistiques de mentions et de clics",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-10T22:16:39.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Avec Businesses in ChatGPT, OpenAI permet aux entreprises de revendiquer leur fiche, de la mettre à jour et de suivre leur visibilité dans le chatbot.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/microsoft-sauver-pc-windows-11-8-go-de-ram/",
+   "title": "Microsoft vient de sauver mon PC : cette mise à jour Windows 11 fait du bien aux machines qui n’ont que 8 Go de RAM",
+   "source": "Presse-citron",
+   "date": "2026-11-10T18:57:35.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "En pleine pénurie de RAM, Microsoft lance une mise à jour qui permet à Windows 11 d’être plus fluide sur les PC qui doivent se contenter de 8 Go.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/seo-google-november-2026-core-update/",
+   "title": "SEO : Google déploie une mise à jour majeure de ses algorithmes (November 2026 Core Update)",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-10T18:38:01.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Google lance sa troisième Core Update de 2026, la première depuis l'arrivée d'AI Overviews et de l'AI Mode en France. Le déploiement peut durer jusqu'à deux semaines.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/anthropic-prepare-une-ipo-de-64-milliards-de-dollars-ce-que-revelent-ses-comptes/900000035?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "title": "ANTHROPIC prépare une IPO de 64 milliards de dollars : ce que révèlent ses comptes",
+   "source": "FrenchWeb",
+   "date": "2026-11-10T17:10:34.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "AI SHIFT · La rédaction · 10/11/2026 Le créateur de Claude associe son introduction en Bourse à un placement privé de 26 milliards de dollars. Ses revenus progressent rapidement et ses pertes d’exploitation restent conte",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/softbank-dans-la-tourmente-le-geant-de-la-tech-japonaise-annonce-une-perte-de-7-milliards-a-cause-de-lia/",
+   "title": "SoftBank dans la tourmente : le géant de la Tech japonaise annonce une perte de 7 milliards $ à cause de l’IA",
+   "source": "Presse-citron",
+   "date": "2026-11-10T15:52:01.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Le groupe traverse une période difficile mais tient à rassurer les investisseurs.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/10/orange-reunit-les-ia-dopenai-google-anthropic-et-mistral-dans-une-application-ouverte-a-tous/",
+   "title": "Orange réunit les IA d’OpenAI, Google, Anthropic et Mistral dans une application ouverte à tous",
+   "source": "Siècle Digital",
+   "date": "2026-11-10T15:08:03.000Z",
+   "score": 6,
+   "topics": [
+    "UX",
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Orange vient de dévoiler une toute nouvelle version de son application, ouverte à tous, y compris aux clients des autres opérateurs. Baptisée Orange France sur l’App Store, elle réunit les IA d’OpenAI, Google, Anthropic ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/10/linkedin-devoile-comment-son-nouvel-algorithme-selectionne-les-publications-que-vous-voyez/",
+   "title": "LinkedIn dévoile comment son nouvel algorithme sélectionne les publications que vous voyez",
+   "source": "Siècle Digital",
+   "date": "2026-11-10T15:05:35.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "LinkedIn ajoute un système de recommandation basé sur l’IA afin de proposer des publications qui répondent mieux à vos attentes. Depuis quelques mois, le réseau social professionnel tente d’améliorer son fonctionnement a",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/10/emmanuel-macron-veut-interdire-lia-lorsquelle-presente-un-risque-pour-les-enfants/",
+   "title": "Emmanuel Macron veut interdire l’IA lorsqu’elle présente un risque pour les enfants",
+   "source": "Siècle Digital",
+   "date": "2026-11-10T15:03:29.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Alors que les fêtes de fin d’année approchent, Emmanuel Macron souhaite interdire certains usages de l’IA lorsqu’ils présentent un risque pour les enfants. Cela concerne notamment les chatbots, mais également les jouets ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/breaking-news/mirakl-nomme-l-ancien-patron-de-sitecore-co-ceo-adrien-nussenbaum-prend-la-presidence-du-conseil/daabe5df-bd7e-467c-a120-91febc1d1d40?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
+   "title": "MIRAKL nomme l’ancien patron de SITECORE co-CEO, ADRIEN NUSSENBAUM prend la présidence du conseil",
+   "source": "FrenchWeb",
+   "date": "2026-11-10T15:03:06.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "MIRAKL nomme l’ancien patron de SITECORE co-CEO, ADRIEN NUSSENBAUM prend la présidence du conseil",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/10/meta-generalise-ses-controles-pour-demasquer-les-adolescents-qui-se-declarent-majeurs/",
+   "title": "Meta généralise ses contrôles pour démasquer les adolescents qui se déclarent majeurs",
+   "source": "Siècle Digital",
+   "date": "2026-11-10T15:00:35.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Face aux dangers des réseaux sociaux pour les plus jeunes, Meta décide d’étendre son système de détection de l’âge par IA à l’échelle mondiale sur ses différentes plateformes. De quoi démasquer plus facilement les adoles",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/autos-la-vignette-devient-obligatoire-pour-toutes-les-voitures-dans-quelques-semaines/",
+   "title": "Autos : la vignette devient obligatoire pour toutes les voitures dans quelques semaines",
+   "source": "Presse-citron",
+   "date": "2026-11-10T14:55:30.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Le changement sera bientôt effectif.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/10/leurope-veut-durcir-les-regles-contre-les-influenceurs-et-les-pratiques-trompeuses-sur-internet/",
+   "title": "L’Europe veut durcir les règles contre les influenceurs et les pratiques trompeuses sur Internet",
+   "source": "Siècle Digital",
+   "date": "2026-11-10T14:53:20.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Les essais gratuits sont problématiques, car ils débouchent parfois sur un abonnement payant, en toute discrétion. Dès que vous vous en rendez compte, c’est déjà trop tard. L’UE souhaite donc interdire certaines pratique",
+   "takeaway": ""
+  },
   {
    "url": "https://www.presse-citron.net/test-opera-air/",
    "title": "J’ai testé Opera Air, le navigateur web qui vous veut du bien",
@@ -204,6 +441,18 @@
     "IA"
    ],
    "summary": "Anthropic vient de lancer ses modèles Claude Fable et Mythos 5.2. Ceux-ci sont plus puissants sur les benchmarks, et peuvent gérer des tâches plus complexes. Mais la véritable avancée est la capacité de ces nouvelles IA ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/breaking-news/orange-reunit-claude-gemini-gpt-et-mistral-dans-sa-nouvelle-application-orange-france/5cdbb94f-77af-48e0-9b06-df502e2c28c9?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
+   "title": "Orange réunit Claude, Gemini, GPT et Mistral dans sa nouvelle application Orange France",
+   "source": "FrenchWeb",
+   "date": "2026-11-09T18:24:25.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Orange réunit Claude, Gemini, GPT et Mistral dans sa nouvelle application Orange France",
    "takeaway": ""
   },
   {
@@ -3459,252 +3708,6 @@
     "Webmarketing"
    ],
    "summary": "Leur papier, « Decomposing Staleness in Recommender Systems », sera présenté à la conférence CIKM, à Rome, du 7 au 11 novembre. Il décrit SDF, un système déployé dans Discover depuis deux ans. Sur cette période, les sign",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/ia-10-generateurs-images-performants-octobre-2026/",
-   "title": "IA : les 10 générateurs d’images les plus performants en octobre 2026",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-26T08:57:27.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "OpenAI garde la main sur les classements images d’Arena. Derrière son podium, Nano Banana 2.1, Krea 3 Ultra et l'amélioration de Grok Imagine 2.0 rebattent les cartes.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.webmarketing-com.com/il-conseille-vos-clients-jour-et-nuit-il-ne-connait-pas-votre-nom",
-   "title": "Il conseille vos clients jour et nuit. Il ne connaît pas votre nom",
-   "source": "Webmarketing & co'm",
-   "date": "2026-10-26T08:30:00.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Il ne prend pas de commission, ne dort jamais et répond à chaque client qui hésite. Il s'appelle ChatGPT, Claude, Gemini ou Perplexity. Et quand on lui demande quelle marque acheter, il cite vos concurrents. Sur 74 marqu",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/jeu-video-industrie-attire-jeunes-malgre-contexte-emploi-fragilise/",
-   "title": "Jeu vidéo : une industrie qui attire les jeunes, malgré un contexte d’emploi fragilisé",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-26T08:20:48.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Les jeunes sont nombreux à envisager de travailler dans ce secteur, et plus encore les adolescentes, d’après l’étude annuelle réalisée par Médiamétrie pour le SELL, qui mesure aussi l’image du jeu vidéo auprès des França",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogduwebdesign.com/blog/creation-de-site/e-commerce/black-friday-checklist-site-e-commerce.html",
-   "title": "Black Friday 2026 : la checklist en 30 points pour préparer votre site e-commerce",
-   "source": "Blog du Webdesign",
-   "date": "2026-10-26T08:00:00.000Z",
-   "score": 6,
-   "topics": [
-    "UX",
-    "Webmarketing"
-   ],
-   "summary": "Black Friday : vendredi 27 novembre 2026. Il vous reste cinq semaines.Cinq semaines, c’est assez pour préparer une boutique en ligne, et trop peu pour tout refaire. Cette année, deux règles sont aussi nouvelles pour beau",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/26/zeina-zakhour-atos-la-cybersecurite-doit-fonctionner-a-la-vitesse-de-lia/",
-   "title": "Zeina Zakhour (Atos) : « La cybersécurité doit fonctionner à la vitesse de l’IA »",
-   "source": "Siècle Digital",
-   "date": "2026-10-26T07:45:24.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "L’intelligence artificielle accélère la découverte et l’exploitation des vulnérabilités, tout en donnant aux cybercriminels de nouveaux moyens d’action. Elle fait également apparaître un autre risque : celui de systèmes ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/selection-formation-photoshop-indesign-illustrator-323/",
-   "title": "5 formations pour maîtriser Photoshop, InDesign et Illustrator",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-26T07:00:42.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Besoin de monter en compétences sur les logiciels incontournables de la suite Adobe ? Cette sélection de formations est faite pour vous.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/ia-mathematiciens/",
-   "title": "« La preuve, c’est vital » : face à l’IA, les mathématiciens défendent le chemin plutôt que le résultat",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-26T06:00:08.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "En six semaines, les laboratoires d'IA ont multiplié les démonstrations de force en mathématiques, jusqu'à tirer les larmes d'un médaillé Fields. Matthieu Alfaro, professeur de mathématiques appliquées, explique ce que c",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/entreprises/agents-vocaux-ia-5-cas-usage-rentables-pme-95060/",
-   "title": "Agents vocaux IA : 5 cas d’usage rentables pour les PME",
-   "source": "Leptidigital",
-   "date": "2026-10-26T04:45:00.000Z",
-   "score": 6,
-   "topics": [
-    "CRO",
-    "IA"
-   ],
-   "summary": "Un appel qui sonne dans le vide, c’est souvent un client qui compose le numéro du concurrent. Les agents vocaux IA promettent de décrocher à votre place, jour et nuit, pour quelques dizaines de centimes la minute. Sur qu",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/adieu-la-silicon-valley-new-york-est-desormais-le-plus-gros-pourvoyeur-demplois-de-la-tech-americaine/",
-   "title": "Adieu la Silicon Valley, New York est désormais le plus gros pourvoyeur d’emplois de la Tech américaine",
-   "source": "Presse-citron",
-   "date": "2026-10-25T17:00:42.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "L’IA chamboule beaucoup de choses aux États-Unis : la Silicon Valley n’a plus le monopole de la tech dans le pays. Il faut désormais se rendre à New York pour trouver les opportunités les plus alléchantes !",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/cest-un-privilege-le-pdg-de-nvidia-adore-payer-des-impots-meme-si-cela-lui-coute-8-milliards/",
-   "title": "« C’est un privilège » : le PDG de Nvidia adore payer des impôts, même si cela lui coûte 8 milliards $",
-   "source": "Presse-citron",
-   "date": "2026-10-25T14:45:23.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Le dirigeant ne tient pas le même discours que d’autres grands patrons de la Tech.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/ces-6-outils-ia-meconnus-vont-faire-gagner-un-temps-precieux-aux-auto-entrepreneurs/",
-   "title": "Ces 6 outils IA méconnus vont faire gagner un temps précieux aux auto-entrepreneurs",
-   "source": "Presse-citron",
-   "date": "2026-10-25T13:00:45.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Vous êtes free-lance ? On a réuni 6 outils IA, parfois méconnus du grand public, qui vous permettront de libérer du temps à coup sûr.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/test-citroen-ami-rouler-pour-prix-baguette-pain-ca-vous-dit/",
-   "title": "J’ai testé la Citroën Ami : rouler pour le prix d’une baguette de pain, ça vous dit ?",
-   "source": "Presse-citron",
-   "date": "2026-10-25T09:00:23.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Citroën remet un peu de vie dans l’Ami avec une inédite série limitée Rip Curl. Puisque je n’ai jamais essayé le véhicule, l’occasion était parfaite pour en découvrir toutes les vertus. Dont une frugalité extrême permett",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogduwebdesign.com/blog/business-web/ai-act.html",
-   "title": "AI Act : ce que le règlement européen sur l’IA change pour les designers, freelances et agences web",
-   "source": "Blog du Webdesign",
-   "date": "2026-10-25T08:00:00.000Z",
-   "score": 6,
-   "topics": [
-    "UX",
-    "IA"
-   ],
-   "summary": "Le chatbot que vous avez installé sur le site d’un client dit-il qu’il est une IA ? Depuis le 2 août 2026, il le doit.Ce jour-là, les règles de transparence de l’AI Act sont entrées en application. Elles touchent directe",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/nostalgie-quand-tu-nous-tiens-sony-dit-adieu-a-son-dernier-lecteur-blu-ray-4k/",
-   "title": "Nostalgie, quand tu nous tiens… Sony dit adieu à son dernier lecteur Blu-ray 4K",
-   "source": "Presse-citron",
-   "date": "2026-10-24T16:00:58.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Sony met fin à son tout dernier lecteur Blu-ray au Japon, signalant une démarche similaire dans le reste du monde. Le streaming a définitivement gagné.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://blog-ux.com/meilleurs-outils-no-code-designers/",
-   "title": "Top 3 des meilleurs website builders no-code pour designers",
-   "source": "Blog UX",
-   "date": "2026-10-24T15:14:15.000Z",
-   "score": 6,
-   "topics": [
-    "UX"
-   ],
-   "summary": "Nous avons sélectionné le Top 3 des meilleurs outils no-code website builders pour designers afin de vous aider à identifier la solution idéale pour vos futurs projets. Ce comparatif décortique les performances de Webflo",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/les-3-bonnes-nouvelles-de-la-semaine-133/",
-   "title": "Les 3 bonnes nouvelles de la semaine",
-   "source": "Presse-citron",
-   "date": "2026-10-24T09:48:47.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Parce que l’actualité est parfois déprimante, on a sélectionné 3 informations réjouissantes.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/test-huawei-watch-buds-2/",
-   "title": "J’ai testé la Huawei Watch Buds 2, la montre qui cache une paire d’écouteurs",
-   "source": "Presse-citron",
-   "date": "2026-10-24T06:00:15.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Et si, au lieu de se trimballer des écouteurs dans un boîtier classique, on pouvait les ranger directement dans sa montre ? C’est ce que propose Huawei avec sa Watch Buds 2, héritière du modèle lancé il y a maintenant tr",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/reseaux-sociaux-streams-rencontres-jeu-video-gen-z/",
-   "title": "Réseaux sociaux, streams, rencontres : le jeu vidéo, une pratique communautaire pour la Gen Z",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-23T12:00:21.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Selon l'enquête annuelle du SELL et de Médiamétrie, la Gen Z vit le jeu vidéo comme une culture partagée, qui passe autant par les réseaux sociaux et le streaming que par les rencontres physiques.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/intelligence-artificielle-ia/canva-lance-craft-son-propre-modele-images-ia-97272/",
-   "title": "Canva lance Craft, son propre modèle d’images IA : un modèle adapté pour les cas d’usages pros ?",
-   "source": "Leptidigital",
-   "date": "2026-10-23T10:27:33.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Vous produisez chaque semaine des posts, des bannières ou des visuels produit ? Canva vient de lancer Craft, son premier modèle de génération d’images entraîné en interne, déjà intégré à Dream Lab et ouvert aux développe",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/android-lance-nouvelle-fonctionnalite-antivols/",
-   "title": "Android lance une nouvelle fonctionnalité antivols (elle est simple, mais terriblement efficace)",
-   "source": "Presse-citron",
-   "date": "2026-10-23T10:23:32.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Google va proposer une nouvelle fonctionnalité antivols, qui est déjà disponible sur une version beta d’Android 17. Celle-ci permet de bloquer les réglages liés à la connectivité lorsque l’appareil est verrouillé. Cela e",
    "takeaway": ""
   }
  ]
