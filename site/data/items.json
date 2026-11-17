@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T15:29:00.481Z",
+ "updatedAt": "2026-11-17T15:50:21.021Z",
  "topics": [
   "UX",
   "CRO",
@@ -8,6 +8,266 @@
   "IA"
  ],
  "items": [
+  {
+   "url": "https://www.presse-citron.net/mistral-a-de-la-compagnie-une-nouvelle-ia-francaise-vient-detre-presentee-par-ovhcloud/",
+   "title": "Mistral a de la compagnie : une nouvelle IA française vient d’être présentée par OVHcloud",
+   "source": "Presse-citron",
+   "date": "2026-11-17T15:26:54.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "OVHcloud se lance dans la course à l’intelligence artificielle. Sa première IA française est baptisée Olala mini 7A1B.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/reseaux-sociaux/linkedin-declasse-commentaires-generes-par-ia-ce-qui-change-105882/",
+   "title": "LinkedIn déclasse les commentaires générés par IA : ce qui change pour les créateurs et les marques",
+   "source": "Leptidigital",
+   "date": "2026-11-17T14:48:42.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Vous commentez sur LinkedIn à coups de « Super post, merci pour le partage » produits en un clic ? LinkedIn teste de nouveaux classifieurs qui sortent ces commentaires creux de la vue « Les plus pertinents ». Community m",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/17/openai-signe-un-accord-avec-17-medias-francais-dont-le-parisien-et-les-echos/",
+   "title": "OpenAI signe un accord avec 17 médias français dont Le Parisien et Les Échos",
+   "source": "Siècle Digital",
+   "date": "2026-11-17T14:25:48.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "OpenAI offre de la visibilité aux médias de LVMH, puisque plusieurs d’entre eux, dont Le Parisien et Les Échos, seront mis en avant. Cet accord stratégique comprend également l’utilisation de plusieurs outils, notamment ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/17/chatgpt-peut-desormais-utiliser-votre-carte-bancaire-pour-payer-vos-achats/",
+   "title": "ChatGPT peut désormais utiliser votre carte bancaire pour payer vos achats",
+   "source": "Siècle Digital",
+   "date": "2026-11-17T14:19:12.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Le chemin parcouru par les IA est fulgurant. Lors de son déploiement, ChatGPT était pointé du doigt pour la qualité de ses textes, mais aujourd’hui, il a bien évolué et vous propose même de régler vos achats. Le monde de",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/17/linkedin-part-a-la-chasse-aux-commentaires-generes-par-intelligence-artificielle/",
+   "title": "LinkedIn part à la chasse aux commentaires générés par intelligence artificielle",
+   "source": "Siècle Digital",
+   "date": "2026-11-17T14:10:35.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Alors que de plus en plus d’utilisateurs et d’entreprises se servent de l’IA sur les réseaux sociaux, LinkedIn a décidé de faire la chasse aux commentaires qu’il estime de faible qualité, notamment ceux générés par l’int",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/17/ovhcloud-devoile-olala-sa-premiere-ia-francaise-pour-concurrencer-les-geants-americains/",
+   "title": "OVHcloud dévoile Olala, sa première IA française pour concurrencer les géants américains",
+   "source": "Siècle Digital",
+   "date": "2026-11-17T14:06:51.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Le marché de l’IA ne cesse de prendre de l’ampleur : même OVHcloud propose désormais son propre modèle. Baptisé Olala, il sera disponible cette semaine sur Hugging Face. L’objectif est également ambitieux, puisque l’entr",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/ovhcloud-llm-olala-petit-modele-ouvert/",
+   "title": "Le Français OVHcloud se lance dans les LLM avec Olala, un petit modèle ouvert",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-17T14:05:13.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Le spécialiste roubaisien du cloud publie son premier LLM, entraîné sur des supercalculateurs publics européens, et se pose en concurrent direct de Mistral AI.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/genesis-ai-leve-425-millions-d-euros-pour-deployer-ses-robots-en-usine/900000051?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "title": "GENESIS AI lève 425 millions d’euros pour déployer ses robots en usine",
+   "source": "FrenchWeb",
+   "date": "2026-11-17T14:00:10.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "AI FIRST · Richard Menneveux · 17/11/2026 GENESIS AI annonce une série A de 500 millions de dollars qui valorise la société autour de 3 milliards d’euros. L’entreprise veut accélérer la production d’Eno, son robot à roue",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/trois-anciens-de-h-company-levent-25-5-millions-d-euros-pour-remanence/900000050?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "title": "Trois anciens de H COMPANY lèvent 25,5 millions d’euros pour REMANENCE",
+   "source": "FrenchWeb",
+   "date": "2026-11-17T13:23:14.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "AI FIRST · La rédaction · 17/11/2026 PIERRE-LOUIS CEDOZ, HAMZA BENCHEKROUN et AXEL MOYAL ont travaillé ensemble sur les modèles Holo chez H COMPANY. Avec REMANENCE, ils veulent aider les entreprises à entraîner leurs pro",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/gta-6-de-nouvelles-images-du-jeu-devoilees-par-la-chaine-meteo/",
+   "title": "GTA 6 : de nouvelles images du jeu dévoilées par… la chaîne météo",
+   "source": "Presse-citron",
+   "date": "2026-11-17T12:30:30.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Le monde de GTA 6 adoptera une météo réaliste. La chaîne météo américaine partage de nouvelles images du jeu mettant en scène certains effets climatiques.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://blog-ux.com/video-explicative-et-onboarding-utilisateur-comment-fluidifier-lentree-de-vos-nouveaux-clients/",
+   "title": "Vidéo explicative et onboarding utilisateur : comment fluidifier l’entrée de vos nouveaux clients",
+   "source": "Blog UX",
+   "date": "2026-11-17T10:53:32.000Z",
+   "score": 6,
+   "topics": [
+    "Parcours utilisateur"
+   ],
+   "summary": "Les vidéos pour l’onboarding utilisateur s’imposent aujourd’hui comme un levier stratégique majeur pour les entreprises numériques, les éditeurs de logiciels et les plateformes de services. Lorsqu’un client découvre un n",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.abondance.com/20261117-3085934-regression-seo.html",
+   "title": "Un week-end de 403 : méfiez-vous des régressions SEO",
+   "source": "Abondance",
+   "date": "2026-11-17T10:50:25.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Un week-end de 403, et des pages qui sortent de Google Lundi matin, une alerte de la Search Console nous a mis la puce à l'oreille sur le site d'un de nos clients, un e-commerce qui vend des activités de loisirs. Le cont",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/cest-plus-grande-evolution-google-maps-dix-ans-grace-gemini-votre-gps-devient-assistant-personnel/",
+   "title": "C’est la plus grande évolution de Google Maps depuis dix ans : grâce à Gemini, votre GPS devient un véritable assistant personnel",
+   "source": "Presse-citron",
+   "date": "2026-11-17T10:47:50.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Huit mois après son lancement aux États-Unis, la fonction la plus ambitieuse de Google Maps traverse enfin l’Atlantique : vous pourrez maintenant converser avec la célèbre application de cartographie.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/visibilite-chatgpt-jai-lu-robots-txt-50-sites-francais",
+   "title": "Visibilité dans ChatGPT : j’ai lu le robots.txt de 50 sites français",
+   "source": "Webmarketing & co'm",
+   "date": "2026-11-17T10:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Depuis un an, la question qu'on me pose le plus souvent sur le référencement a changé. Avant, c'était comment passer devant un concurrent sur Google. Aujourd'hui, c'est comment faire pour que ChatGPT cite mon site. La ré",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.abondance.com/20261117-3085845-google-search-analytics-api-filte-marque-multimodal-filtre-multipays.html",
+   "title": "Search Analytics API : Google ajoute le filtre de marque, le multimodal et les filtres multi-pays",
+   "source": "Abondance",
+   "date": "2026-11-17T08:51:06.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Ce qu'il faut retenir : Google a annoncé le 16 novembre 2026, sur son blog Search Central, que la Search Analytics API intègre désormais trois fonctions déjà présentes dans le rapport Performances de Search Console. Le c",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/pour-proteger-ses-clients-apple-ferme-la-porte-aux-agents-ia-sur-mac/",
+   "title": "Pour protéger ses clients, Apple ferme la porte aux agents IA sur Mac",
+   "source": "Presse-citron",
+   "date": "2026-11-17T08:21:27.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Apple va modifier l’accès des agents d’IA aux applications et aux données du disque dur sur Mac. La firme ne bloque pas ces agents, mais s’assure que les utilisateurs sont bien conscients des privilèges étendus qu’ils ac",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/comment-equipe-france-olympique-paralympique-cree-emotion-reseaux-sociaux/",
+   "title": "Comment l’équipe de France olympique et paralympique crée de l’émotion sur les réseaux sociaux",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-17T08:21:21.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Leïla Gammouh, ancienne social media manager de l'équipe de France olympique et paralympique, est l'invitée du podcast vidéo produit par Swello, en partenariat avec BDM.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogduwebdesign.com/blog/webdesign/dark-patterns-digital-fairness-act.html",
+   "title": "Dark patterns : les 10 pratiques que l’UE veut interdire sur vos sites",
+   "source": "Blog du Webdesign",
+   "date": "2026-11-17T07:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "UX"
+   ],
+   "summary": "« Plus que 2 en stock ! » Votre client veut ce bandeau sur toutes ses fiches produits pour le Black Friday du 27 novembre. Le stock, lui, en compte 340. Ce genre d’écran est dans le viseur de Bruxelles. Le 11 novembre 20",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/instinct-agent-ia-10-milliards/",
+   "title": "Instinct, l’agent IA qui valait 10 milliards",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-17T06:00:31.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Des prouesses qui font le tour des réseaux, des invitations revendues à prix d'or, une valorisation à 10 milliards de dollars : Instinct, l'agent IA que l'on commande via WhatsApp ou iMessage, est devenu un phénomène en ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/ia-nombreuses-personnes-tombent-amoureuses-chatbot-scientifiques-decouvrent-lenvers-inquietant-relations/",
+   "title": "IA : de nombreuses personnes tombent amoureuses de leur chatbot. Des scientifiques découvrent l’envers inquiétant de ces relations",
+   "source": "Presse-citron",
+   "date": "2026-11-16T19:03:07.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "IA"
+   ],
+   "summary": "Au-delà du travail ou de la curiosité, certains confient à leur chatbot leurs malheurs, leurs fantasmes, leurs doutes existentiels ou leurs peurs, comme ils le feraient avec l’être aimé. Fidèles à ce pour quoi elles ont ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/blanchiment-mafia-revolut-sous-tutelle-judiciaire-en-italie-la-neobanque-a-laisse-passer-des-millions-deuros-suspects/",
+   "title": "Blanchiment, mafia… Revolut sous tutelle judiciaire en Italie : la néobanque a laissé passer des millions d’euros suspects",
+   "source": "Presse-citron",
+   "date": "2026-11-16T18:00:10.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "La justice italienne a placé la succursale de Revolut sous administration judiciaire, pointant du doigt des failles majeures de contrôle face à des flux financiers suspects.",
+   "takeaway": ""
+  },
   {
    "url": "https://siecledigital.fr/2026/11/16/lia-nous-fait-elle-vraiment-gagner-du-temps-les-resultats-dune-etude-sur-9-000-salaries-surprennent/",
    "title": "L’IA nous fait-elle vraiment gagner du temps ? Les résultats d’une étude sur 9 000 salariés surprennent",
@@ -3454,269 +3714,6 @@
     "Webmarketing"
    ],
    "summary": "Les meilleurs outils de collaboration UX sont souvent la clé d’un projet de conception réussi, car la fluidité des échanges au sein de l’équipe en détermine l’efficacité. Pourtant, face à la multitude de solutions dispon",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/que-passerait-reellement-vous-etiez-avale-vivant-cachalot-scientifiques-etudie-question/",
-   "title": "Que se passerait-il réellement si vous étiez avalé vivant par un cachalot ? Des scientifiques ont sérieusement étudié la question",
-   "source": "Presse-citron",
-   "date": "2026-10-29T16:02:21.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Que ce soit à travers le Livre de Jonas, Pinocchio, Moby Dick, ou plus récemment, le film Englouti, l'humanité fantasme depuis 3 000 ans sur ce qu'il adviendrait d'un être humain s'il se retrouvait dans l'estomac d'un cé",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.abondance.com/20261029-3047464-google-connected-apps-platform-google-mcp-search-gemini.html",
-   "title": "Connected Apps Platform : Google ouvre Search et l’app Gemini aux développeurs via MCP",
-   "source": "Abondance",
-   "date": "2026-10-29T15:21:12.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Ce qu'il faut retenir : Google a lancé le 28 octobre 2026 la préversion de la Connected Apps Platform, qui permet de développer une seule intégration et de la publier dans Google Search, dans l'app Gemini ou dans les deu",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.webmarketing-com.com/audit-ia-que-cachent-vos-contenus-a-chatgpt-et-a-google",
-   "title": "Audit IA : que cachent vos contenus à ChatGPT et à Google ?",
-   "source": "Webmarketing & co'm",
-   "date": "2026-10-29T15:00:00.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Votre trafic stagne alors que vous publiez plus que jamais ? Pire : vos concurrents sont cités par ChatGPT, Perplexity ou Google, et pas vous ? Pas de panique, mais il est temps de regarder sous le capot. Pour mieux appr",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/bloomberg-paierait-jusqua-100-000-par-mois-pour-acceder-aux-publications-de-donald-trump-plus-tot-que-les-autres/",
-   "title": "Bloomberg paierait jusqu’à 100 000 $ par mois pour accéder aux publications de Donald Trump plus tôt que les autres",
-   "source": "Presse-citron",
-   "date": "2026-10-29T14:04:40.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "D’après des révélations de Rueters, Bloomberg ferait partie des clients de Truth API, une fonctionnalité payante qui permet d’accéder en temps réel aux publications des personnes les plus influentes sur Truth Social (don",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.webmarketing-com.com/chatgpt-recommande-vos-concurrents-mais-pas-vous-6-leviers-inverser-tendance",
-   "title": "ChatGPT recommande vos concurrents, mais pas vous ? Les 6 leviers pour inverser la tendance",
-   "source": "Webmarketing & co'm",
-   "date": "2026-10-29T13:00:00.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Imaginez la scène : une directrice formation tape « quel organisme choisir pour apprendre le SEO ? » dans ChatGPT. Trois noms s’affichent, et le vôtre n’y figure pas. Aïe ! Bonne nouvelle : cette visibilité se travaille,",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/29/meta-ressuscite-le-tamagotchi-avec-une-ia-qui-apprend-a-vous-connaitre/",
-   "title": "Meta ressuscite le Tamagotchi avec une IA qui apprend à vous connaître",
-   "source": "Siècle Digital",
-   "date": "2026-10-29T12:59:38.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Vous vous souvenez du fameux Tamagotchi : il rythmait notre quotidien puisqu’il fallait le divertir, lui donner à manger… Ce sont sans doute les plus de 30 ans qui ont eu un tel accessoire, mais la nouvelle génération po",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/29/microsoft-a-gagne-10-milliards-de-dollars-grace-a-openai-en-seulement-trois-mois/",
-   "title": "Microsoft a gagné 10 milliards de dollars grâce à OpenAI en seulement trois mois",
-   "source": "Siècle Digital",
-   "date": "2026-10-29T12:54:20.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Microsoft a généré 10 milliards de dollars grâce à ses accords commerciaux avec OpenAI en seulement trois mois. Un montant qui représente près de 11 % du chiffre d’affaires de l’entreprise sur les trois derniers mois. De",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/29/google-mise-sur-les-publicites-dans-son-ia-pour-relancer-la-croissance-de-ses-revenus/",
-   "title": "Google mise sur les publicités dans son IA pour relancer la croissance de ses revenus",
-   "source": "Siècle Digital",
-   "date": "2026-10-29T12:52:00.000Z",
-   "score": 6,
-   "topics": [
-    "CRO",
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Google accélère le déploiement de la publicité dans son moteur de recherche dopé à l’IA. Déjà testées aux États-Unis depuis 2025, les annonces intégrées à AI Mode arrivent désormais dans dix nouveaux pays. Cette annonce ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/10/29/des-medias-norvegiens-remportent-une-premiere-victoire-contre-meta-et-son-ia/",
-   "title": "Des médias norvégiens remportent une première victoire contre Meta et son IA",
-   "source": "Siècle Digital",
-   "date": "2026-10-29T12:43:26.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "La collecte des données est au cœur de nombreux débats, notamment depuis l’essor de l’IA. Meta pourrait récupérer des articles, des images et des vidéos, mais cela ne plaît pas aux médias norvégiens. Ils ont engagé une a",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/github-plus-40-pourcent-pull-requests-demarrent-avec-agent-ia/",
-   "title": "GitHub : plus de 40 % des pull requests démarrent désormais avec un agent IA",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-29T11:25:25.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Le rapport Octoverse 2026 de GitHub mesure une bascule nette vers le travail avec des agents IA, sur fond de volumes records.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/elonville-pour-etendre-ses-data-centers-ia-elon-musk-rachete-un-quartier-entier-et-achete-le-silence-des-riverains/",
-   "title": "« Elonville » : pour étendre ses data centers IA, Elon Musk rachète un quartier entier et achète le silence des riverains",
-   "source": "Presse-citron",
-   "date": "2026-10-29T11:00:26.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Avec l’appui des autorités, l’homme le plus riche du monde n’hésite pas à déloger les riverains de ses infrastructures IA. Les habitants sont littéralement à bout.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/reseaux-sociaux/nouvel-algorithme-meta-ads-changements-99108/",
-   "title": "Nouvel algorithme Meta Ads : +1,4 % de conversions annoncées (ce qui change)",
-   "source": "Leptidigital",
-   "date": "2026-10-29T10:55:00.000Z",
-   "score": 6,
-   "topics": [
-    "CRO",
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Vos nouvelles créas Meta Ads mettent du temps à trouver leur public ? Meta vient de revoir son algorithme publicitaire : Andromeda refondu avec Nvidia, un GEM plus gros et GenRecs, un modèle fondé sur des LLM. Voici ce q",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/webmarketing/sea/google-ads-annonces-arrivent-ai-mode-10-pays-supplementaires-99106/",
-   "title": "Google Ads : les annonces arrivent dans AI Mode dans 10 pays, la France toujours absente",
-   "source": "Leptidigital",
-   "date": "2026-10-29T10:30:00.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Vos campagnes Search, Shopping ou Performance Max pourraient-elles s’afficher dans les réponses du mode IA de Google ? Google Ads étend les annonces dans AI Mode à dix nouveaux pays et lance, aux États-Unis, des annonces",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.webmarketing-com.com/comment-utiliser-ia-developper-entreprise-sans-embaucher",
-   "title": "Comment utiliser l’IA pour développer son entreprise sans embaucher ?",
-   "source": "Webmarketing & co'm",
-   "date": "2026-10-29T10:00:00.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Pour utiliser l’IA pour développer son entreprise sans embaucher, appuyez-vous sur trois leviers : confiez à l’IA les premiers jets (textes, fiches produits, visuels), automatisez les réponses répétitives (chatbot, résea",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/responses-api-mistral-simplifier-creation-agents-ia/",
-   "title": "Avec Responses API, Mistral AI veut simplifier la création d’agents IA",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-29T09:54:28.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Disponible en préversion publique, la nouvelle API de Mistral AI renvoie séparément la réponse du modèle, son raisonnement et ses appels d’outils.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/claude-enterprise-anthropic-rapports-mesurer-ia-equipes/",
-   "title": "Claude Enterprise : Anthropic lance des rapports pour mesurer ce que l’IA apporte aux équipes",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-29T09:49:07.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "En pleine préparation de son entrée en Bourse, Anthropic livre aux entreprises de quoi justifier leurs dépenses dans Claude, avec des rapports d’usage et des budgets d’équipe.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/google-gemini-4-carbon-modele-puissant-cyberdefense/",
-   "title": "Google lance Gemini 4 Carbon, son modèle le plus puissant, d’abord réservé à la cyberdéfense",
-   "source": "Blog du Modérateur",
-   "date": "2026-10-29T09:47:57.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Réservé pour l'instant à un cercle restreint d'acteurs de la cyberdéfense, Gemini 4 Carbon succède à Argon avec des progrès sur le code, les tâches agentiques longues et la sécurité.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.abondance.com/20261029-3046575-chatgpt-shopping-difference-us-europe.html",
-   "title": "ChatGPT Shopping : pourquoi un e-commerçant n’est pas classé de la même façon aux États-Unis et en Europe",
-   "source": "Abondance",
-   "date": "2026-10-29T09:23:57.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Ce qu'il faut retenir : Selon Peec AI, ChatGPT Shopping s'appuie aux États-Unis sur Labrador, l'index d'OpenAI alimenté par des flux produits, alors qu'en Europe il récupère toujours les résultats de Google Shopping via ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/webmarketing/seo/etude-geo-part-citations-ia-type-source-99086/",
-   "title": "Étude GEO : 84 % des citations des IA viennent d’un seul type de source",
-   "source": "Leptidigital",
-   "date": "2026-10-29T09:07:07.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Savez-vous quels sont les types de contenus qui optimisent vraiment vos citations dans les IA ? Cette étude GEO fondée sur plus de 40 millions de réponses d’IA devrait peut être vous inviter à revoir vos priorités. Voici",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.webmarketing-com.com/strategie-geo-comment-devenir-visible-chatgpt-moteurs-ia",
-   "title": "Stratégie GEO : comment devenir visible sur ChatGPT et les moteurs IA ?",
-   "source": "Webmarketing & co'm",
-   "date": "2026-10-29T08:30:00.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "L'essor de l'intelligence artificielle générative transforme les habitudes de recherche et les stratégies de visibilité en ligne. Désormais, les internautes utilisent ChatGPT, Perplexity, Gemini et Google AI Overviews po",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/alerte-en-belgique-le-fisc-vise-par-une-cyberattaque-les-services-en-ligne-coupes-en-urgence/",
-   "title": "Alerte en Belgique : le fisc visé par une cyberattaque, les services en ligne coupés en urgence",
-   "source": "Presse-citron",
-   "date": "2026-10-29T08:00:54.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "C’est un scénario noir pour l'administration fiscale et des milliers de contribuables belges. Alors que l'échéance cruciale du 31 octobre approchait à grands pas, une attaque informatique a brutalement paralysé les porta",
    "takeaway": ""
   }
  ]
