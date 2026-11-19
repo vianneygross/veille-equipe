@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T15:29:12.366Z",
+ "updatedAt": "2026-11-19T15:35:53.548Z",
  "topics": [
   "UX",
   "CRO",
@@ -8,6 +8,388 @@
   "IA"
  ],
  "items": [
+  {
+   "url": "https://www.presse-citron.net/anthropic-sapprete-a-signer-la-plus-grosse-entree-en-bourse-de-tous-les-temps-faut-il-investir-5-questions-pour-tout-comprendre/",
+   "title": "Anthropic vient de signer la plus grosse entrée en Bourse de tous les temps, faut-il investir ? 5 questions pour tout comprendre",
+   "source": "Presse-citron",
+   "date": "2026-11-19T15:23:52.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Le créateur de Claude a fait trembler Wall Street comme prévu avec une valorisation vertigineuse, et l’effervescence est totale chez les investisseurs. Prix de l’action, risques cachés et guide pratique : voici tout ce q",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/refonte-site-web-verifier-parcours-demande-avant-mise-en-ligne",
+   "title": "Refonte de site web : vérifier le parcours de demande avant la mise en ligne",
+   "source": "Webmarketing & co'm",
+   "date": "2026-11-19T15:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "Parcours utilisateur"
+   ],
+   "summary": "Une refonte de site web se juge aussi à ce qui se passe après un clic sur « Envoyer ». Si une demande ne parvient pas à la bonne équipe, une page soignée ne suffit pas. Avant la mise en ligne, il est utile de vérifier un",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/19/modifier-une-story-instagram-apres-publication-est-desormais-possible/",
+   "title": "Modifier une Story Instagram après publication est désormais possible",
+   "source": "Siècle Digital",
+   "date": "2026-11-19T14:20:35.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Instagram lance une nouvelle fonctionnalité que ses utilisateurs attendaient depuis longtemps. La plateforme permet désormais de modifier ses Stories après leur publication. Il est désormais possible de modifier ses Stor",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/19/anthropic-realise-la-plus-grosse-introduction-en-bourse-de-lhistoire-et-pulverise-le-record-de-spacex/",
+   "title": "Anthropic réalise la plus grosse introduction en Bourse de l’histoire et pulvérise le record de SpaceX",
+   "source": "Siècle Digital",
+   "date": "2026-11-19T14:15:57.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Alors qu’OpenAI a repoussé une éventuelle arrivée en Bourse, Anthropic fait son entrée ce jeudi. L’entreprise a levé 81,3 milliards de dollars lors de son introduction en bourse. L’objectif initial était de vendre l’acti",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/19/tiktok-revele-a-quel-point-la-plateforme-influence-desormais-les-succes-musicaux-mondiaux/",
+   "title": "TikTok révèle à quel point la plateforme influence désormais les succès musicaux mondiaux",
+   "source": "Siècle Digital",
+   "date": "2026-11-19T14:12:37.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Vous avez déjà découvert une musique sur TikTok ? Vous n’êtes sans doute pas le seul, puisque la plateforme semble parfaite pour découvrir de nouveaux artistes. D’ailleurs, un rapport illustre parfaitement cette tendance",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/19/des-millions-de-sites-web-doivent-etre-mis-a-jour-en-urgence-apres-la-decouverte-de-deux-failles-critiques/",
+   "title": "Des millions de sites web doivent être mis à jour en urgence après la découverte de deux failles critiques",
+   "source": "Siècle Digital",
+   "date": "2026-11-19T14:05:21.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "L’intelligence artificielle vient de révéler la présence de deux failles critiques cachées au sein du serveur NGINX. Des millions de sites web pourraient être concernés et les administrateurs doivent installer les correc",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/pas-une-entreprise-dia-sure-des-experts-dezinguent-le-double-discours-danthropic-qui-cacherait-bien-son-jeu/",
+   "title": "« Pas une entreprise d’IA sûre » : des experts dézinguent le double discours d’Anthropic, qui cacherait bien son jeu",
+   "source": "Presse-citron",
+   "date": "2026-11-19T13:48:53.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Anthropic prétend prioriser la sécurité, mais une coalition d’experts assure que c’est tout l’inverse.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/integration-ia-pme-guide-budget-et-roi",
+   "title": "Intégration de l’IA en PME : par où commencer sans gaspiller son budget ?",
+   "source": "Webmarketing & co'm",
+   "date": "2026-11-19T13:00:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "L'intégration de l'IA en PME s'impose comme un levier stratégique majeur pour la compétitivité des entreprises. Cependant, son adoption suscite encore de vives inquiétudes financières chez les dirigeants. En effet, l'éch",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/obsedes-gta-vi-classement-france-deuxieme/",
+   "title": "Quels sont les pays les plus obsédés par GTA VI ? Un classement situe la France en deuxième position",
+   "source": "Presse-citron",
+   "date": "2026-11-19T12:26:07.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "D'après cette étude, la France serait l'un des pays où la population est la plus \"obsedée\" par GTA VI. Celle-ci s'appuie sur une analyse de données de recherches Google sur 12 mois.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/millionnaires-employes-anthropic-entree-en-bourse-intelligence-artificielle/",
+   "title": "Ils seront millionnaires du jour au lendemain : des employés d’Anthropic toucheront le gros lot après l’entrée en Bourse du géant de l’intelligence artificielle",
+   "source": "Presse-citron",
+   "date": "2026-11-19T11:02:11.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "L'IPO d'Anthropic ne profite pas uniquement aux investisseurs et aux fondateurs. De nombreux employés et anciens employés, qui détiennent des actions, vont devenir millionnaires grâce à cette entrée en Bourse qui fera ex",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/publicite-marche-toujours-tire-digital-previsions-2026-baisse/",
+   "title": "Publicité : un marché toujours tiré par le digital, des prévisions 2026 à la baisse",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-19T09:52:53.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "Webmarketing"
+   ],
+   "summary": "Vidéo, audio, social, retail media : le baromètre BUMP détaille les leviers qui soutiennent un marché publicitaire en croissance de 4,1 %.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/securite-informatique/loi-resilience-nis2-ce-qui-attend-les-entreprises-sur-le-numerique-et-cybersecurite-105887/",
+   "title": "Loi Résilience NIS2 : ce qui attend les entreprises sur le numérique",
+   "source": "Leptidigital",
+   "date": "2026-11-19T09:43:26.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Votre entreprise compte plus de 50 salariés ou réalise plus de 10 M€ de chiffre d’affaires ? Les députés ont adopté mardi 17 novembre 2026 la loi Résilience, la version française de la directive européenne NIS2 sur la cy",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.abondance.com/20261119-3090036-google-agent-ouverture-cdn-pare-feu.html",
+   "title": "Agents IA : Google demande aux sites d’ouvrir leurs CDN et pare-feu à Google-Agent",
+   "source": "Abondance",
+   "date": "2026-11-19T08:51:19.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Ce qu'il faut retenir : Google a publié le 17 novembre 2026 un guide intitulé « Allow Google-Agent traffic », qui explique comment laisser passer ses agents IA dans les CDN, les pare-feu applicatifs (WAF) et les services",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/webmecanik-alternative-francaise-crm-marketing-automation/",
+   "title": "Webmecanik, l’alternative française de CRM et marketing automation aux solutions américaines",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-19T08:41:38.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "On vous explique pourquoi Webmecanik Automation et Webmecanik Pipeline constituent des alternatives plus que crédibles aux solutions américaines.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.webmarketing-com.com/comment-developper-media-en-ligne-construire-audience-seo",
+   "title": "Comment développer un média en ligne et construire une audience durable grâce au SEO",
+   "source": "Webmarketing & co'm",
+   "date": "2026-11-19T08:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "UX",
+    "Webmarketing"
+   ],
+   "summary": "Créer un média d'information sur Internet est devenu plus accessible que jamais. Pourtant, attirer des lecteurs, gagner leur confiance et conserver une audience régulière reste un véritable défi. Entre la concurrence des",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/droits-a-limage-gestion-douteuse-et-adieux-rates-lionel-messi-serait-en-guerre-contre-la-selection-argentine/",
+   "title": "Droits à l’image, gestion douteuse et adieux ratés : Lionel Messi serait en guerre contre la sélection argentine",
+   "source": "Presse-citron",
+   "date": "2026-11-19T08:00:12.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Lionel Messi serait en pleine rupture avec la direction de la Fédération argentine autour de son image. Il chercherait avant tout à protéger son nom et ses contrats. Un possible scandale dans son pays d’origine.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/anti-drones-comment-stryx-ai-compte-rattraper-les-premiers-fournisseurs-des-armees/900000058?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "title": "Anti-drones : comment STRYX AI compte rattraper les premiers fournisseurs des armées",
+   "source": "FrenchWeb",
+   "date": "2026-11-19T07:54:38.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "IA"
+   ],
+   "summary": "IN THE ARMY NOW · La rédaction · 19/11/2026 La startup d’Armand THIBERGE lève 7,7 M€ pour mettre en production son système anti-drones en France et le commercialiser début 2027. Les armées françaises ont déjà sélectionné",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/francais-payer-prix-souverainete-numerique/",
+   "title": "Les Français sont-ils prêts à payer le prix de la souveraineté numérique ?",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-19T07:00:53.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Selon une enquête menée par Ipsos bva auprès de 1 000 Français pour Entreprises & Médias, 77 % jugent nécessaire de renforcer la souveraineté du pays sur les outils d'IA. Mais pas au détriment du prix ou de la performanc",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/picard-pour-faire-de-belles-economies-choisissez-ces-jours-de-la-semaine-pour-faire-vos-courses/",
+   "title": "Picard : pour faire de belles économies, choisissez ces jours de la semaine pour faire vos courses",
+   "source": "Presse-citron",
+   "date": "2026-11-19T06:46:47.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Certains moments sont plus propices que d’autres.",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/on-lappelle-le-bouton-magique-dacia-et-renault-ont-ajoute-un-nouveau-bouton-dans-leurs-voitures-les-automobilistes-ladorent-deja/",
+   "title": "“On l’appelle le bouton magique” : Dacia et Renault ont ajouté un nouveau bouton dans leurs voitures, les automobilistes l’adorent déjà",
+   "source": "Presse-citron",
+   "date": "2026-11-19T06:38:38.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Depuis juillet 2024, chaque voiture neuve vendue en Europe embarque une batterie d'aides à la conduite obligatoires. Chez Dacia, le bouton le plus utilisé par les conducteurs est justement celui qui permet de les faire t",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/anthropic-signe-la-plus-grosse-ipo-de-l-histoire-combien-lui-coute-la-croissance-de-claude/900000057?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "title": "ANTHROPIC signe la plus grosse IPO de l’histoire. Combien lui coûte la croissance de CLAUDE ?",
+   "source": "FrenchWeb",
+   "date": "2026-11-19T06:24:15.000Z",
+   "score": 6,
+   "topics": [
+    "CRO",
+    "IA"
+   ],
+   "summary": "IN THE LOOP · La rédaction · 19/11/2026 À 83 dollars par action, l’offre publique d’ANTHROPIC atteint 81,34 milliards de dollars et dépasse le record de SPACEX. CLAUDE rapproche le laboratoire de l’équilibre d’exploitati",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.frenchweb.fr/le-courrier-adresse-a-l-ere-de-la-data-comment-rendre-les-campagnes-papier-plus-mesurables-et-efficaces/900000056?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+   "title": "Le courrier adressé à l’ère de la data : comment rendre les campagnes papier plus mesurables et efficaces",
+   "source": "FrenchWeb",
+   "date": "2026-11-19T06:22:52.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "Parcours utilisateur"
+   ],
+   "summary": "TOPICS INDEX · Topics Index · 19/11/2026 Le courrier adressé n’est plus un média difficile à mesurer. Les données clients, les identifiants de campagne et les tests comparatifs permettent désormais de suivre les effets d",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.blogdumoderateur.com/visibilite-chatgpt-que-valents-premieres-statistiques-openai/",
+   "title": "Visibilité dans ChatGPT : que valent les premières statistiques d’OpenAI ?",
+   "source": "Blog du Modérateur",
+   "date": "2026-11-19T06:00:22.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "OpenAI ouvre enfin aux entreprises leurs chiffres de visibilité dans ChatGPT. Mais quand les IA envoient si peu de trafic, quel intérêt présentent ces données pour les marques ?",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.leptidigital.fr/entreprises/solution-de-facturation-electronique-integree-au-compte-pro-checklist-freelances-et-tpe-avant-2027-105801/",
+   "title": "Solution de facturation électronique intégrée au compte pro : la checklist freelances et TPE avant 2027",
+   "source": "Leptidigital",
+   "date": "2026-11-19T05:30:00.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "La gestion administrative devient plus encadrée pour les indépendants. Pour un freelance ou une très petite entreprise (TPE) en France, choisir une solution de facturation électronique intégrée à son compte professionnel",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/createur-sims-revient-jeu-completement-fou-transforme-vie-jeu-video-grace-lia/",
+   "title": "Le créateur des Sims revient avec un projet complètement fou qui transforme votre vie en jeu vidéo grâce à l’IA",
+   "source": "Presse-citron",
+   "date": "2026-11-18T19:01:27.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Après nous avoir confié la gestion de villes, de fourmilières, de créatures en pleine évolution et de familles entières, le légendaire Will Wright s’attaque à un sujet le plus intime : votre propre mémoire, que l’IA se c",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/18/une-ia-capable-de-mener-seule-des-cyberattaques-frappe-des-sites-francais-selon-google/",
+   "title": "Une IA capable de mener seule des cyberattaques frappe des sites français, selon Google",
+   "source": "Siècle Digital",
+   "date": "2026-11-18T16:56:16.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "Les cyberattaques se multiplient ces derniers mois et la situation ne devrait pas s’arranger au vu des déclarations de Google. La firme de Mountain View estime que les attaques autonomes devraient se multiplier dans les ",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/18/lia-generative-a-deja-conquis-plus-de-3-francais-sur-4-selon-une-nouvelle-etude/",
+   "title": "L’IA générative a déjà conquis plus de 3 Français sur 4 selon une nouvelle étude",
+   "source": "Siècle Digital",
+   "date": "2026-11-18T16:48:48.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing",
+    "IA"
+   ],
+   "summary": "D’après une étude menée par Havas Market, plus de 3 Français sur 4 utilisent désormais l’IA générative. Parmi eux, 77 % s’en servent également pour préparer leurs achats. De quoi questionner l’objectivité des réponses av",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/18/youtube-change-sa-maniere-de-compter-les-vues-et-les-chiffres-pourraient-exploser/",
+   "title": "YouTube change sa manière de compter les vues et les chiffres pourraient exploser",
+   "source": "Siècle Digital",
+   "date": "2026-11-18T16:46:47.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "YouTube a décidé de changer sa manière de comptabiliser les vues. Aujourd’hui, la plateforme de Google peut estimer le nombre de personnes devant un même écran de télévision. Cela permet ainsi de mieux mesurer l’audience",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/18/des-milliers-dentreprises-vont-devoir-renforcer-leur-cybersecurite-apres-un-vote-majeur-des-deputes/",
+   "title": "Des milliers d’entreprises vont devoir renforcer leur cybersécurité après un vote majeur des députés",
+   "source": "Siècle Digital",
+   "date": "2026-11-18T16:41:56.000Z",
+   "score": 6,
+   "topics": [
+    "Webmarketing"
+   ],
+   "summary": "Alors que les cyberattaques se multiplient en France, les députés viennent d’adopter un projet de loi visant à renforcer la cybersécurité. Ce dernier prévoit de durcir les obligations de sécurité informatique pour des mi",
+   "takeaway": ""
+  },
+  {
+   "url": "https://siecledigital.fr/2026/11/17/25-000-offres-demploi-en-moins-en-france-une-etude-revele-les-premiers-degats-de-lia/",
+   "title": "25 000 offres d’emploi en moins en France, une étude révèle les premiers dégâts de l’IA",
+   "source": "Siècle Digital",
+   "date": "2026-11-18T16:38:39.000Z",
+   "score": 6,
+   "topics": [
+    "IA"
+   ],
+   "summary": "Une étude de la Coface, dévoilée mardi 17 novembre, révèle que 25 000 offres d’emploi de moins que prévu ont été publiées sur France Travail au troisième trimestre 2026. Une baisse significative qui pourrait témoigner de",
+   "takeaway": ""
+  },
+  {
+   "url": "https://www.presse-citron.net/changement-grand-theft-auto-6-revolution/",
+   "title": "“C’est un véritable changement pour Grand Theft Auto” : GTA 6 sort demain, et sa vraie révolution n’est pas celle qu’on croit",
+   "source": "Presse-citron",
+   "date": "2026-11-18T15:53:19.000Z",
+   "score": 6,
+   "topics": [
+    "CRO"
+   ],
+   "summary": "Le producteur de GTA 6 s’exprime sur l’une des grandes nouveautés de ce jeu : la relation entre Jason et Lucia.",
+   "takeaway": ""
+  },
   {
    "url": "https://www.presse-citron.net/land-rover-perd-sa-bataille-judiciaire-contre-byd-les-juges-ne-reconnaissent-pas-le-plagiat-du-defender/",
    "title": "Land Rover perd sa bataille judiciaire contre BYD : les juges ne reconnaissent pas le plagiat du Defender",
@@ -3327,388 +3709,6 @@
     "Webmarketing"
    ],
    "summary": "Les acronymes et anglicismes obscurs du social media n’ont aucun secret pour vous ? Testez vos connaissances avec notre quiz.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/comment-happyvore-mise-humour-positivite-se-demarquer-reseaux-sociaux/",
-   "title": "Comment HappyVore mise sur l’humour et la positivité pour se démarquer sur les réseaux sociaux",
-   "source": "Blog du Modérateur",
-   "date": "2026-11-03T09:05:31.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Laura Wawerka, responsable marque et communication chez HappyVore, est l’invitée du podcast Follow Back, produit par Swello en partenariat avec BDM. Elle y décrypte la stratégie social media de la marque végétale et sa g",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.abondance.com/20261103-3058144-pilotage-seo-sedestral-connexion-mcp-claude-chatgpt.html",
-   "title": "Piloter son SEO depuis son IA : Sedestral connecte ses agents à Claude et ChatGPT grâce au MCP",
-   "source": "Abondance",
-   "date": "2026-11-03T08:27:22.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Le MCP en deux mots, et pourquoi c’est un game changer pour le SEO Ouvrez Claude ou ChatGPT chez la plupart des référenceurs, et vous y trouverez une bonne partie de leur journée : analyse d'un export Search Console, réd",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/inconnu-25-ans-vit-depuis-plus-mois-terminal-dun-aeroport-personne-sait-qui-il-est/",
-   "title": "Un inconnu de 25 ans vit depuis plus d’un mois dans le terminal d’un aéroport et personne ne sait qui il est",
-   "source": "Presse-citron",
-   "date": "2026-11-03T06:31:44.000Z",
-   "score": 6,
-   "topics": [
-    "Parcours utilisateur"
-   ],
-   "summary": "Cet homme habite dans un hall du terminal de l'aéroport de Naples-Capodichino (Italie), sans déranger les voyageurs. Visiblement amnésique, il ne parvient pas à raconter son parcours ni à expliquer comment il s'est retro",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.frenchweb.fr/frigos-pirates-les-installations-locales-angle-mort-de-la-cybersecurite-des-enseignes/900000015?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-   "title": "Frigos piratés : les installations locales, angle mort de la cybersécurité des enseignes",
-   "source": "FrenchWeb",
-   "date": "2026-11-03T06:14:55.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "CYBER IRL · La rédaction · 03/11/2026 Trois semaines après les attaques contre des supermarchés français, de nouveaux incidents frappent le froid commercial en Europe. Des installations locales révèlent les limites de la",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/infrastructures-numeriques-suivre-essor-ia/",
-   "title": "Les infrastructures numériques peuvent-elles suivre l’essor de l’IA ?",
-   "source": "Blog du Modérateur",
-   "date": "2026-11-03T06:00:47.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Maher El Fekih, président de Colt Technology Services France, explique à BDM pourquoi la connectivité limite désormais l’IA, au même titre que l’énergie et les GPU.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/android-grande-nouveaute-samsung-lunettes-connectees-google/",
-   "title": "Après les PC sous Android, une autre grande nouveauté arrive : Samsung lancerait enfin ses lunettes connectées, développées avec Google, avant la fin de l’année",
-   "source": "Presse-citron",
-   "date": "2026-11-03T05:57:10.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Samsung et Google travaillent sur des lunettes connectées pour concurrencer les Ray-Ban Meta. Et le produit serait enfin lancé à la mi-décembre, d’après un média coréen.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.frenchweb.fr/commerce-agentique-guide-pratique-pour-preparer-votre-entreprise/900000013?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-   "title": "Commerce agentique : guide pratique pour préparer votre entreprise",
-   "source": "FrenchWeb",
-   "date": "2026-11-03T05:49:36.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "PARTNER'S VOICE · Partners'Voice · 03/11/2026 Avec les agents IA, les boutiques en ligne doivent apprendre à vendre à des intermédiaires capables de comparer et d’acheter pour le compte des consommateurs. Données produit",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/elon-musk-reconnait-ia-grok-coute-beaucoup-trop-cher-malgre-succes-fulgurant/",
-   "title": "Elon Musk reconnaît que son IA Grok lui coûte beaucoup trop cher, malgré son succès fulgurant",
-   "source": "Presse-citron",
-   "date": "2026-11-02T19:02:11.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Grok, l'enfant terrible dont Elon Musk était si fier, qu'il nous a vanté à maintes reprises comme étant le chatbot « supérieur » aus autres, est aussi celui qui crame le plus rapidement la trésorerie de son entreprise, x",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/etre-une-femme-dans-lespace-cest-la-panacee-sophie-adenot-nous-livre-un-temoignage-inedit-sur-ladaptation-du-corps-feminin-en-orbite/",
-   "title": "« Être une femme dans l’espace, c’est la panacée » : Sophie Adenot nous livre un témoignage inédit sur l’adaptation du corps féminin en orbite",
-   "source": "Presse-citron",
-   "date": "2026-11-02T18:00:08.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "L’astronaute française l’assure : le corps féminin s’adapte très bien aux conditions de l’apesanteur.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/adobe-offre-firefly-acrobat-semrush-startups/",
-   "title": "Adobe offre un an de Firefly, Acrobat et Semrush aux startups : comment en profiter",
-   "source": "Blog du Modérateur",
-   "date": "2026-11-02T17:00:44.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Adobe lance Adobe for Startups, un programme qui donne accès gratuitement pendant 12 mois à Firefly Pro Plus, Acrobat Studio et Semrush. Il s'adresse aux startups de moins de cinq ans ayant levé moins de 15 millions de d",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.abondance.com/20261102-3056564-reddit-baisse-trafic-connexion-obligatoire.html",
-   "title": "Trafic Google en baisse : Reddit va tester la connexion obligatoire pour accéder au site",
-   "source": "Abondance",
-   "date": "2026-11-02T16:20:15.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Ce qu'il faut retenir : Interrogé par CNBC le 29 octobre 2026, Steve Huffman, PDG de Reddit, affirme que le trafic issu de Google a baissé de manière significative au troisième trimestre, en raison d'AI Overviews et d'AI",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/11/02/google-openai-et-microsoft-promettent-de-ne-plus-utiliser-certains-contenus-pour-entrainer-leurs-ia/",
-   "title": "Google, OpenAI et Microsoft s’accordent pour permettre aux sites web de refuser l’utilisation de leurs contenus par les IA",
-   "source": "Siècle Digital",
-   "date": "2026-11-02T16:07:05.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Google, OpenAI et Microsoft se sont mis d’accord pour permettre aux éditeurs de sites web de refuser plus facilement l’utilisation de leurs contenus pour entraîner les intelligences artificielles. De quoi simplifier les ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/11/02/openai-rapproche-chatgpt-et-codex-en-unifiant-leurs-quotas-dutilisation/",
-   "title": "OpenAI rapproche ChatGPT et Codex en unifiant leurs quotas d’utilisation",
-   "source": "Siècle Digital",
-   "date": "2026-11-02T15:58:11.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Plusieurs nouveautés ont été déployées par ChatGPT ces dernières semaines. Après avoir temporairement limité l’accès à l’offre à 200 dollars en raison d’une forte demande, OpenAI annonce aujourd’hui de nouveaux quotas. S",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/11/02/tiktok-etend-ses-activites-et-sattaque-au-marche-de-la-recommandation-de-restaurants/",
-   "title": "TikTok étend ses activités et s’attaque au marché de la recommandation de restaurants",
-   "source": "Siècle Digital",
-   "date": "2026-11-02T15:52:18.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Au départ, TikTok était un réseau social ; il a ensuite ouvert un Shop et, désormais, il propose Must Eat. Il s’agit d’un guide de restaurants qui doit concurrencer Google Maps et Yelp. Vous y trouverez des avis, la poss",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/11/02/instagram-propose-jusqua-500-000-dollars-aux-createurs-de-youtube-pour-les-attirer-sur-sa-plateforme/",
-   "title": "Instagram prêt à débourser jusqu’à 500 000 dollars pour attirer les créateurs de contenus présents sur YouTube",
-   "source": "Siècle Digital",
-   "date": "2026-11-02T15:47:02.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Instagram a dévoilé une nouvelle fonctionnalité, baptisée Features, qui permet à certains créateurs de publier des vidéos d’une durée maximale de 90 minutes. Aujourd’hui, la plateforme semble chercher du contenu pour la ",
-   "takeaway": ""
-  },
-  {
-   "url": "https://siecledigital.fr/2026/11/02/cinq-organisations-francaises-dediteurs-de-presse-portent-plainte-contre-google-pour-son-ia/",
-   "title": "Cinq organisations françaises portent plainte contre Google pour dénoncer l’impact de ses réponses IA sur le trafic des sites web",
-   "source": "Siècle Digital",
-   "date": "2026-11-02T15:43:16.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Cinq organisations françaises d’éditeurs de sites web, le CPA, la FNPS, le GESTE, le SEPM et le SPIIL, ont déposé plainte contre Google auprès de la Commission européenne. Une plainte concernant les fonctionnalités d’int",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.frenchweb.fr/french-tech-la-bataille-des-10-millions-d-euros-portee-par-paul-midy/900000010?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-   "title": "French Tech : la bataille des 10 millions d’euros portée par Paul Midy",
-   "source": "FrenchWeb",
-   "date": "2026-11-02T14:54:59.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "ECOSYSTEME · La Rédaction · 02/11/2026 Crédit : FRENCHWEB.FR En réponse au projet de loi de finance 2027, Paul Midy a annoncé vendredi dernier l’adoption d’un amendement pour réabonder les crédits French Tech. Derrière l",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/55-centimes-par-go-telecharge-cette-nouvelle-taxe-va-faire-exploser-les-prix-de-vos-abonnements-netflix-youtube-google-et-vos-telechargements-steam/",
-   "title": "5,5 centimes par Go téléchargé : cette nouvelle taxe va faire exploser les prix de vos abonnements Netflix, YouTube, Google et vos téléchargements Steam",
-   "source": "Presse-citron",
-   "date": "2026-11-02T13:57:36.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Un gros coup dur en vue pour les clients français si cette disposition est votée.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/pieges-extensions-suspectes-google-chrome/",
-   "title": "13 millions d’internautes ont déjà été piégés : vous devez immédiatement virer ces extensions suspectes de Google Chrome",
-   "source": "Presse-citron",
-   "date": "2026-11-02T11:56:36.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "L’entreprise Socket a identifié plus de 300 extensions pour Google Chrome, installées par plus de 13 millions d’internautes au cours d’une décennie, qui détourneraient les recherches des personnes touchées, tout en colle",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/dites-adieu-aux-prises-traditionnelles-voici-la-nouvelle-prise-electrique-sans-travaux-qui-les-remplace-des-maintenant/",
-   "title": "Dites adieu aux prises traditionnelles : voici la nouvelle prise électrique sans travaux qui les remplace dès maintenant",
-   "source": "Presse-citron",
-   "date": "2026-11-02T11:37:36.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Une évolution sensible des prises électriques s’est produite et elle change beaucoup de choses dans nos logements.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/webmarketing/taxe-au-gigaoctet-quel-impact-prevoir-sur-vos-couts-publicitaires-99128/",
-   "title": "Taxe au gigaoctet : quel impact prévoir sur vos coûts publicitaires ?",
-   "source": "Leptidigital",
-   "date": "2026-11-02T11:30:00.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Faut-il prévoir une hausse de vos budgets publicitaires Google Ads, Meta Ads ou Amazon Ads en 2027 ? L’Assemblée nationale vient d’adopter une taxe au gigaoctet, à la charge des plateformes qui envoient des données aux i",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.leptidigital.fr/reseaux-sociaux/x-ouvre-lead-gen-ads-a-tous-99129/",
-   "title": "X ouvre ses Lead Gen Ads à tous : 3 cas d’usage concrets pour générer des leads en PME",
-   "source": "Leptidigital",
-   "date": "2026-11-02T10:45:00.000Z",
-   "score": 6,
-   "topics": [
-    "CRO",
-    "Webmarketing"
-   ],
-   "summary": "Vous rédirigiez encore vers une landing page pour récolter trois champs de formulaire ? X vient d’ouvrir ses Lead Gen Ads à tous les annonceurs, PME et comptes en self-service compris : un formulaire natif, rempli sans q",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.abondance.com/20261102-3055746-hubsport-perte-trafic-seo-kipp-bodnar.html",
-   "title": "HubSpot perd 80 % de son trafic SEO : son CMO explique ce que l’entreprise mesure désormais à la place",
-   "source": "Abondance",
-   "date": "2026-11-02T10:06:10.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Ce qu'il faut retenir : Le blog de HubSpot, qui dépassait 20 millions de visites organiques mensuelles à son pic, a perdu environ 80 % de ce trafic avec l'essor des réponses IA, selon son CMO Kipp Bodnar. Selon Kipp Bodn",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/ia-change-marketing-influence-selection-mesure-vision-stellar/",
-   "title": "Comment l’IA change les règles du marketing d’influence, de la sélection à la mesure : la vision de Stellar",
-   "source": "Blog du Modérateur",
-   "date": "2026-11-02T09:48:20.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Analyse des contenus, recommandations personnalisées, prédictions, agents IA… De la sélection des créateurs à la mesure des campagnes, l’IA fait évoluer les plateformes de marketing d’influence. Stellar détaille sa visio",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/ia-meilleurs-modeles-code-developpement-web-novembre-2026/",
-   "title": "IA : les meilleurs modèles pour le code et le développement web en novembre 2026",
-   "source": "Blog du Modérateur",
-   "date": "2026-11-02T09:37:12.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Grâce à Claude Opus 5.5, Anthropic conserve la tête de la WebDev Arena. Mais OpenAI, Google, Meta et Moonshot se rapprochent dangereusement.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/google-open-ai-microsoft-anthropic-regle-robots-txt-commune-contre-entrainement-ia/",
-   "title": "Google, OpenAI, Microsoft et Anthropic adoptent une règle robots.txt commune contre l’entraînement IA",
-   "source": "Blog du Modérateur",
-   "date": "2026-11-02T09:32:36.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing",
-    "IA"
-   ],
-   "summary": "Rédigé par un ingénieur d’Anthropic, un brouillon de norme IETF reçoit le soutien de Google, OpenAI et Microsoft. Leur déploiement s’étale jusqu’en 2027 selon les acteurs.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.blogdumoderateur.com/selection-formation-gestion-projet-agile-324/",
-   "title": "5 formations pour maîtriser la gestion de projet Agile",
-   "source": "Blog du Modérateur",
-   "date": "2026-11-02T07:00:46.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Une sélection de formations pour s’approprier Scrum, Kanban et les principes de l’agilité, pour conduire un projet, manager une équipe ou encore intégrer l’IA dans ses pratiques.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/sennheiser-momentum-true-wireless-5-test/",
-   "title": "C’est clairement mon coup de cœur audio de 2026 : j’ai testé les écouteurs Sennheiser Momentum True Wireless 5",
-   "source": "Presse-citron",
-   "date": "2026-11-02T06:00:02.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Pendant plus d'un mois, les Sennheiser Momentum True Wireless 5 m’ont accompagné dans le métro, au bureau, en balade et même quand je coupais des oignons pour le dîner. Je leur ai trouvé quelques défauts, mais aussi beau",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/picard-pour-faire-de-grosses-economies-privilegiez-ces-jours-de-la-semaine-pour-faire-vos-courses/",
-   "title": "Picard : pour faire de grosses économies, privilégiez ces jours de la semaine pour faire vos courses",
-   "source": "Presse-citron",
-   "date": "2026-11-01T16:45:47.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Certains moments sont plus propices que d’autres.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.webrankinfo.com/dossiers/etudes/parts-marche-moteurs",
-   "title": "Parts de marché des moteurs de recherche (France, USA, monde)",
-   "source": "WebRankInfo",
-   "date": "2026-11-01T14:30:48.000Z",
-   "score": 6,
-   "topics": [
-    "Webmarketing"
-   ],
-   "summary": "Google domine le monde dans la plupart des pays, mais quelles sont les parts de marché des moteurs de recherche en France et dans le monde ? Ce dossier vous fournit les derniers chiffres connus.",
-   "takeaway": ""
-  },
-  {
-   "url": "https://www.presse-citron.net/test-peugeot-e-208-gti-etat-offre-3-600-euros-rouler-sportive-mais-defaut-va-refroidir/",
-   "title": "J’ai testé la Peugeot e-208 GTi : l’État m’offre 3 600 € pour rouler en sportive, mais ce défaut va vous refroidir",
-   "source": "Presse-citron",
-   "date": "2026-11-01T10:00:18.000Z",
-   "score": 6,
-   "topics": [
-    "IA"
-   ],
-   "summary": "Peugeot remet le label GTi sur les rails avec la e-208 GTi. Cette sportive pleine de caractère est même éligible aux aides de l’État. 3 600 € pour se faire plaisir, ce n’est pas commun, même si le délire ne durera guère ",
    "takeaway": ""
   }
  ]
